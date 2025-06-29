@@ -1,0 +1,6302 @@
+[
+  {
+    "transactionId": "b5ebdba7-af7b-46a5-a79e-334a675bf44e",
+    "customerId": "cust-001",
+    "amount": 235.99,
+    "date": "2022-10-26"
+  },
+  {
+    "transactionId": "69041188-75f2-4845-a4ab-13af82e52cd9",
+    "customerId": "cust-001",
+    "amount": 164.99,
+    "date": "2022-02-07"
+  },
+  {
+    "transactionId": "e22dc5f2-0eb3-477c-98f9-d556fb2c0ee6",
+    "customerId": "cust-001",
+    "amount": 298.99,
+    "date": "2023-11-14"
+  },
+  {
+    "transactionId": "ad722f47-3b4d-4610-8be9-583babb043fc",
+    "customerId": "cust-001",
+    "amount": 84.99,
+    "date": "2023-06-01"
+  },
+  {
+    "transactionId": "f49a9f0c-c66d-4f11-b83f-337efef67d52",
+    "customerId": "cust-001",
+    "amount": 128.99,
+    "date": "2023-09-13"
+  },
+  {
+    "transactionId": "d40c0a9c-1175-4580-90f2-6ef6235e91ba",
+    "customerId": "cust-001",
+    "amount": 125.99,
+    "date": "2023-06-21"
+  },
+  {
+    "transactionId": "c55bdb4c-51b0-46c7-be78-943743cf9e3f",
+    "customerId": "cust-001",
+    "amount": 294.99,
+    "date": "2025-04-05"
+  },
+  {
+    "transactionId": "99270b49-bd4b-4c65-919f-cf09c4a3bbed",
+    "customerId": "cust-001",
+    "amount": 182.99,
+    "date": "2024-05-18"
+  },
+  {
+    "transactionId": "6a402c02-0e8c-4384-9b47-3c868f72e67a",
+    "customerId": "cust-001",
+    "amount": 72.99,
+    "date": "2022-05-29"
+  },
+  {
+    "transactionId": "c4657603-422f-4004-95aa-0254a0004493",
+    "customerId": "cust-001",
+    "amount": 141.99,
+    "date": "2024-10-23"
+  },
+  {
+    "transactionId": "449758b2-88e4-4c32-bfa4-a00895372d2e",
+    "customerId": "cust-002",
+    "amount": 121.99,
+    "date": "2024-12-26"
+  },
+  {
+    "transactionId": "7e4a26bd-82c1-4696-b05d-ea5afd2f6443",
+    "customerId": "cust-002",
+    "amount": 252.99,
+    "date": "2024-02-07"
+  },
+  {
+    "transactionId": "977ca9b1-14e1-4bed-9cbc-f90ce01144e3",
+    "customerId": "cust-002",
+    "amount": 70.99,
+    "date": "2023-05-16"
+  },
+  {
+    "transactionId": "099a2e16-364f-4534-a276-32a2202ce4a8",
+    "customerId": "cust-002",
+    "amount": 47.99,
+    "date": "2021-08-17"
+  },
+  {
+    "transactionId": "559440db-53cd-44d5-94b2-cdda6ceb7fda",
+    "customerId": "cust-002",
+    "amount": 71.99,
+    "date": "2023-10-04"
+  },
+  {
+    "transactionId": "3880ef78-ac83-4537-91b7-fc2b3e86bb09",
+    "customerId": "cust-002",
+    "amount": 159.99,
+    "date": "2023-05-05"
+  },
+  {
+    "transactionId": "f99c8729-588f-47df-8402-ef9f223bed61",
+    "customerId": "cust-002",
+    "amount": 115.99,
+    "date": "2025-01-02"
+  },
+  {
+    "transactionId": "f7714d10-f276-44ac-ac7c-f38972a77baa",
+    "customerId": "cust-002",
+    "amount": 221.99,
+    "date": "2024-04-13"
+  },
+  {
+    "transactionId": "bddd963b-1f59-4d94-8d96-80d0ea1764a5",
+    "customerId": "cust-002",
+    "amount": 274.99,
+    "date": "2022-01-23"
+  },
+  {
+    "transactionId": "1adce702-abc2-4523-9144-c83c521eb3bf",
+    "customerId": "cust-002",
+    "amount": 214.99,
+    "date": "2022-03-24"
+  },
+  {
+    "transactionId": "914fd22c-c623-48e9-88fd-dd25292a6315",
+    "customerId": "cust-003",
+    "amount": 79.99,
+    "date": "2022-06-13"
+  },
+  {
+    "transactionId": "b44520ac-0c0d-4e6c-96b1-02ca47bb1e36",
+    "customerId": "cust-003",
+    "amount": 79.99,
+    "date": "2022-03-24"
+  },
+  {
+    "transactionId": "ae478add-a7d8-4aea-8b73-3836bfdb9f40",
+    "customerId": "cust-003",
+    "amount": 30.99,
+    "date": "2022-06-11"
+  },
+  {
+    "transactionId": "3dc4a46b-4802-40e4-bbe8-53ecd8c68d75",
+    "customerId": "cust-003",
+    "amount": 88.99,
+    "date": "2022-04-24"
+  },
+  {
+    "transactionId": "599f76fd-f267-44d2-a5ac-16ae6fef5787",
+    "customerId": "cust-003",
+    "amount": 52.99,
+    "date": "2022-01-28"
+  },
+  {
+    "transactionId": "036991ea-25f2-4067-a3fc-c9cf6127a3ad",
+    "customerId": "cust-003",
+    "amount": 141.99,
+    "date": "2021-11-24"
+  },
+  {
+    "transactionId": "09d08cb2-76cd-42c9-b848-4097dfb3edd5",
+    "customerId": "cust-003",
+    "amount": 19.99,
+    "date": "2023-10-22"
+  },
+  {
+    "transactionId": "568d21ef-9810-4d3f-9db8-52c0673b4cdd",
+    "customerId": "cust-003",
+    "amount": 204.99,
+    "date": "2023-08-24"
+  },
+  {
+    "transactionId": "90d44d18-6f12-4e84-b34d-17ef1031d5d6",
+    "customerId": "cust-003",
+    "amount": 198.99,
+    "date": "2023-10-04"
+  },
+  {
+    "transactionId": "64fda13c-91b3-41ff-9d14-2a2849da8157",
+    "customerId": "cust-003",
+    "amount": 176.99,
+    "date": "2024-10-17"
+  },
+  {
+    "transactionId": "d96edef4-ce7d-41b1-9b21-204def992b0e",
+    "customerId": "cust-004",
+    "amount": 254.99,
+    "date": "2023-04-28"
+  },
+  {
+    "transactionId": "eaddcac4-43df-4fe2-9fb2-7db36b30a939",
+    "customerId": "cust-004",
+    "amount": 197.99,
+    "date": "2024-10-05"
+  },
+  {
+    "transactionId": "4e4181fa-78a7-45e4-923c-b7a142ef2f9b",
+    "customerId": "cust-004",
+    "amount": 225.99,
+    "date": "2024-01-22"
+  },
+  {
+    "transactionId": "6005f83f-e454-4acb-a6ab-be03da56bf3b",
+    "customerId": "cust-004",
+    "amount": 120.99,
+    "date": "2023-09-24"
+  },
+  {
+    "transactionId": "7cd777f5-1672-48b8-9565-6de46e349124",
+    "customerId": "cust-004",
+    "amount": 105.99,
+    "date": "2024-03-02"
+  },
+  {
+    "transactionId": "ed584f21-d7cf-4cbf-8b0b-9c01c02a9b55",
+    "customerId": "cust-004",
+    "amount": 208.99,
+    "date": "2022-08-14"
+  },
+  {
+    "transactionId": "ec9ef804-ae72-433b-9ce2-04e57d34ad74",
+    "customerId": "cust-004",
+    "amount": 103.99,
+    "date": "2021-06-21"
+  },
+  {
+    "transactionId": "ba66c21c-bce8-47ed-81e8-24070c4c58f2",
+    "customerId": "cust-004",
+    "amount": 45.99,
+    "date": "2021-10-02"
+  },
+  {
+    "transactionId": "011f45ac-4306-4d50-8436-a9884b0523fa",
+    "customerId": "cust-004",
+    "amount": 49.99,
+    "date": "2024-05-03"
+  },
+  {
+    "transactionId": "c3885efa-9c0e-4253-841e-98b716e8a562",
+    "customerId": "cust-004",
+    "amount": 219.99,
+    "date": "2022-01-03"
+  },
+  {
+    "transactionId": "4440bd32-aa99-4c19-8e97-5a5f4b60a57e",
+    "customerId": "cust-005",
+    "amount": 189.99,
+    "date": "2023-01-16"
+  },
+  {
+    "transactionId": "33dadda1-1aaf-4081-beb8-9bd79be68dab",
+    "customerId": "cust-005",
+    "amount": 283.99,
+    "date": "2024-12-11"
+  },
+  {
+    "transactionId": "970961ff-18bf-471f-8f14-070c92622b4a",
+    "customerId": "cust-005",
+    "amount": 128.99,
+    "date": "2022-10-23"
+  },
+  {
+    "transactionId": "556fb705-e159-4640-b88f-ff0fde5aff1c",
+    "customerId": "cust-005",
+    "amount": 49.99,
+    "date": "2023-06-23"
+  },
+  {
+    "transactionId": "4312cacb-1603-4b99-867a-dfd6e7027679",
+    "customerId": "cust-005",
+    "amount": 299.99,
+    "date": "2024-08-30"
+  },
+  {
+    "transactionId": "4ab5a931-dd2c-4771-9eb4-cb6e35d6e2a4",
+    "customerId": "cust-005",
+    "amount": 242.99,
+    "date": "2023-10-14"
+  },
+  {
+    "transactionId": "3fc36b13-ae53-4ab8-bd76-0ac0dd8517ab",
+    "customerId": "cust-005",
+    "amount": 148.99,
+    "date": "2022-02-07"
+  },
+  {
+    "transactionId": "cf6ee2b3-739b-480e-98e6-7de1b861b59f",
+    "customerId": "cust-005",
+    "amount": 44.99,
+    "date": "2022-05-31"
+  },
+  {
+    "transactionId": "807a55b8-789c-4a3c-bc78-ea9deeb1baf6",
+    "customerId": "cust-005",
+    "amount": 199.99,
+    "date": "2022-08-04"
+  },
+  {
+    "transactionId": "40f5e64b-2053-444a-9f43-ccb4ecf962b0",
+    "customerId": "cust-005",
+    "amount": 232.99,
+    "date": "2024-04-26"
+  },
+  {
+    "transactionId": "3c1cb508-fcbc-429f-bf86-edd80241e5bc",
+    "customerId": "cust-006",
+    "amount": 79.99,
+    "date": "2024-06-13"
+  },
+  {
+    "transactionId": "6b1a589b-a2e2-4f7f-a098-1d94b6e3bdd7",
+    "customerId": "cust-006",
+    "amount": 41.99,
+    "date": "2022-01-22"
+  },
+  {
+    "transactionId": "4c3fed3f-9348-4eb0-9452-2571e6fa74be",
+    "customerId": "cust-006",
+    "amount": 59.99,
+    "date": "2022-09-10"
+  },
+  {
+    "transactionId": "cb30477d-ce23-4c34-8b83-9b2d1f22cf01",
+    "customerId": "cust-006",
+    "amount": 288.99,
+    "date": "2022-06-08"
+  },
+  {
+    "transactionId": "257b7a9b-2dec-485c-9a7f-da6c9d090268",
+    "customerId": "cust-006",
+    "amount": 173.99,
+    "date": "2021-10-12"
+  },
+  {
+    "transactionId": "b6a8ce09-d9b5-42ad-b91d-12480cdfb06f",
+    "customerId": "cust-006",
+    "amount": 208.99,
+    "date": "2025-04-09"
+  },
+  {
+    "transactionId": "bc2ee641-98df-4b25-8585-942cced08a6e",
+    "customerId": "cust-006",
+    "amount": 201.99,
+    "date": "2022-03-13"
+  },
+  {
+    "transactionId": "36afdadb-c0df-4895-adbb-c129c940bfcf",
+    "customerId": "cust-006",
+    "amount": 10.99,
+    "date": "2022-07-14"
+  },
+  {
+    "transactionId": "1666948a-7b3e-4e28-a404-9c4384e697e5",
+    "customerId": "cust-006",
+    "amount": 98.99,
+    "date": "2023-03-01"
+  },
+  {
+    "transactionId": "49d489f9-f4fb-4bd6-85a8-ef599537d065",
+    "customerId": "cust-006",
+    "amount": 269.99,
+    "date": "2023-01-05"
+  },
+  {
+    "transactionId": "ce4ec9da-8bf6-4397-b3fa-1443b6e9575e",
+    "customerId": "cust-007",
+    "amount": 243.99,
+    "date": "2021-12-28"
+  },
+  {
+    "transactionId": "156340cb-e968-494d-a625-593524dc6ce2",
+    "customerId": "cust-007",
+    "amount": 31.99,
+    "date": "2024-03-21"
+  },
+  {
+    "transactionId": "5f35f210-da90-4c4a-9d7d-bf7a0c818f97",
+    "customerId": "cust-007",
+    "amount": 271.99,
+    "date": "2024-10-29"
+  },
+  {
+    "transactionId": "ed2f9f41-df7e-47d0-a78b-63b3c9cb6bb2",
+    "customerId": "cust-007",
+    "amount": 83.99,
+    "date": "2024-12-03"
+  },
+  {
+    "transactionId": "afb09a58-84db-47a8-88e9-b7ba63b24694",
+    "customerId": "cust-007",
+    "amount": 160.99,
+    "date": "2025-02-15"
+  },
+  {
+    "transactionId": "d18a734f-4bbd-45ac-b2a4-626f867e9d61",
+    "customerId": "cust-007",
+    "amount": 180.99,
+    "date": "2021-09-26"
+  },
+  {
+    "transactionId": "cb8981ff-8e7f-4b2d-9b3f-de24727159e1",
+    "customerId": "cust-007",
+    "amount": 177.99,
+    "date": "2022-02-01"
+  },
+  {
+    "transactionId": "6eec9a27-48fa-4c7e-b428-f3e000ab29e0",
+    "customerId": "cust-007",
+    "amount": 200.99,
+    "date": "2024-06-13"
+  },
+  {
+    "transactionId": "2f6e75d6-a8cb-43fb-ad90-1e689b57bd98",
+    "customerId": "cust-007",
+    "amount": 117.99,
+    "date": "2024-06-05"
+  },
+  {
+    "transactionId": "e904b674-c50c-4ade-ae56-afd8414b1866",
+    "customerId": "cust-007",
+    "amount": 92.99,
+    "date": "2024-01-31"
+  },
+  {
+    "transactionId": "f0251d32-9a60-430f-90ac-ea4c8efbac9a",
+    "customerId": "cust-008",
+    "amount": 81.99,
+    "date": "2021-07-03"
+  },
+  {
+    "transactionId": "02992754-450e-4cbe-b037-9796ff4016ad",
+    "customerId": "cust-008",
+    "amount": 14.99,
+    "date": "2024-07-06"
+  },
+  {
+    "transactionId": "8352db9f-b430-4d4e-83bb-c5ad0e4ebde0",
+    "customerId": "cust-008",
+    "amount": 269.99,
+    "date": "2021-08-21"
+  },
+  {
+    "transactionId": "619df62b-fd97-4a29-b3c7-908bf679c1f5",
+    "customerId": "cust-008",
+    "amount": 45.99,
+    "date": "2022-11-23"
+  },
+  {
+    "transactionId": "b25ebaf6-aaa0-4bfc-a45e-0d1862a88dc2",
+    "customerId": "cust-008",
+    "amount": 215.99,
+    "date": "2025-02-19"
+  },
+  {
+    "transactionId": "9fb4b09d-90b3-49e6-98af-a3d597883085",
+    "customerId": "cust-008",
+    "amount": 164.99,
+    "date": "2023-04-15"
+  },
+  {
+    "transactionId": "d7a82f63-5453-4679-bcfe-804c79151e5a",
+    "customerId": "cust-008",
+    "amount": 243.99,
+    "date": "2025-01-15"
+  },
+  {
+    "transactionId": "5d16b71e-1c78-4c79-8291-a180c513371a",
+    "customerId": "cust-008",
+    "amount": 59.99,
+    "date": "2023-10-14"
+  },
+  {
+    "transactionId": "ec527005-34c3-451b-9aa0-4889151d862e",
+    "customerId": "cust-008",
+    "amount": 104.99,
+    "date": "2024-11-29"
+  },
+  {
+    "transactionId": "c5cb4c15-095b-47c4-afa1-6d9760ce7a96",
+    "customerId": "cust-008",
+    "amount": 58.99,
+    "date": "2022-08-31"
+  },
+  {
+    "transactionId": "0a67a578-85f5-4161-9185-f94640f64eda",
+    "customerId": "cust-009",
+    "amount": 210.99,
+    "date": "2023-11-14"
+  },
+  {
+    "transactionId": "54adde71-eb72-45ce-9b0f-25b5055fb3e4",
+    "customerId": "cust-009",
+    "amount": 113.99,
+    "date": "2022-07-12"
+  },
+  {
+    "transactionId": "a4194333-d446-468c-8a87-693eae0353e4",
+    "customerId": "cust-009",
+    "amount": 25.99,
+    "date": "2021-08-31"
+  },
+  {
+    "transactionId": "292c856e-63e0-4937-85cf-3199338863c8",
+    "customerId": "cust-009",
+    "amount": 103.99,
+    "date": "2022-11-28"
+  },
+  {
+    "transactionId": "2cc3ca3f-1ba5-4da1-9091-3c650983e737",
+    "customerId": "cust-009",
+    "amount": 259.99,
+    "date": "2023-07-17"
+  },
+  {
+    "transactionId": "1d221a03-1cab-4a36-adbe-bf9ab0950a4a",
+    "customerId": "cust-009",
+    "amount": 100.99,
+    "date": "2023-08-10"
+  },
+  {
+    "transactionId": "5ab37025-8ccf-4558-856b-8a21a542702d",
+    "customerId": "cust-009",
+    "amount": 55.99,
+    "date": "2022-09-14"
+  },
+  {
+    "transactionId": "cfc1660f-3462-41a1-9ddd-794cc18ecdd9",
+    "customerId": "cust-009",
+    "amount": 117.99,
+    "date": "2021-09-04"
+  },
+  {
+    "transactionId": "09c376ed-1e55-401c-a148-da175da6e95c",
+    "customerId": "cust-009",
+    "amount": 206.99,
+    "date": "2025-03-12"
+  },
+  {
+    "transactionId": "6eb6e67b-89ea-494f-8905-c8577bc0c222",
+    "customerId": "cust-009",
+    "amount": 123.99,
+    "date": "2022-10-08"
+  },
+  {
+    "transactionId": "262af9b5-b5fd-41b1-bc3d-d0f25ea43e26",
+    "customerId": "cust-010",
+    "amount": 172.99,
+    "date": "2024-03-24"
+  },
+  {
+    "transactionId": "8c7d81ce-58c0-4bde-9177-46cad4a4864a",
+    "customerId": "cust-010",
+    "amount": 196.99,
+    "date": "2021-11-18"
+  },
+  {
+    "transactionId": "370b0d70-fd69-43f8-8e73-44a83f88c5f9",
+    "customerId": "cust-010",
+    "amount": 196.99,
+    "date": "2021-09-14"
+  },
+  {
+    "transactionId": "ca801437-3710-4a16-a9f0-2ee7c02570d5",
+    "customerId": "cust-010",
+    "amount": 235.99,
+    "date": "2022-03-05"
+  },
+  {
+    "transactionId": "b882b77e-17cb-4f8b-a6b6-02f5c4fedab8",
+    "customerId": "cust-010",
+    "amount": 247.99,
+    "date": "2024-02-13"
+  },
+  {
+    "transactionId": "e7354e54-6449-41d7-8f67-1023ffefa346",
+    "customerId": "cust-010",
+    "amount": 187.99,
+    "date": "2025-04-21"
+  },
+  {
+    "transactionId": "47971555-6f47-43e3-a5f1-3a455b0e8e88",
+    "customerId": "cust-010",
+    "amount": 13.99,
+    "date": "2022-09-12"
+  },
+  {
+    "transactionId": "baacb42c-00aa-439e-a51e-50c1e3f6c372",
+    "customerId": "cust-010",
+    "amount": 76.99,
+    "date": "2024-02-29"
+  },
+  {
+    "transactionId": "3d60c8cb-a517-44fe-98f0-82a20fa60805",
+    "customerId": "cust-010",
+    "amount": 85.99,
+    "date": "2024-01-04"
+  },
+  {
+    "transactionId": "b04aa939-7948-47ec-8084-6b31d7377bdc",
+    "customerId": "cust-010",
+    "amount": 93.99,
+    "date": "2024-07-30"
+  },
+  {
+    "transactionId": "2c2f2b2a-02e0-4f54-9cf6-615b670ed933",
+    "customerId": "cust-011",
+    "amount": 11.99,
+    "date": "2022-02-17"
+  },
+  {
+    "transactionId": "24737bf5-47fb-4d08-9b0c-6aa274a0dd87",
+    "customerId": "cust-011",
+    "amount": 145.99,
+    "date": "2021-10-17"
+  },
+  {
+    "transactionId": "fa581ea3-7e2c-44da-b231-9a1c7336025e",
+    "customerId": "cust-011",
+    "amount": 154.99,
+    "date": "2022-12-29"
+  },
+  {
+    "transactionId": "786587dc-af85-4c3e-ba7e-c4bd30ab76e5",
+    "customerId": "cust-011",
+    "amount": 275.99,
+    "date": "2024-03-06"
+  },
+  {
+    "transactionId": "9929e639-0c4e-41fe-9090-655903ad0830",
+    "customerId": "cust-011",
+    "amount": 115.99,
+    "date": "2021-08-25"
+  },
+  {
+    "transactionId": "9feef768-ab64-49ad-895b-2dbaae0dc020",
+    "customerId": "cust-011",
+    "amount": 300.99,
+    "date": "2021-11-06"
+  },
+  {
+    "transactionId": "72e2ac8c-0a9d-452e-a868-5e155b057954",
+    "customerId": "cust-011",
+    "amount": 244.99,
+    "date": "2023-11-24"
+  },
+  {
+    "transactionId": "8995e5ff-0260-4b88-9a13-090a0491fd92",
+    "customerId": "cust-011",
+    "amount": 41.99,
+    "date": "2025-04-19"
+  },
+  {
+    "transactionId": "5db37e31-3ad5-47f5-acde-62a2218b50f8",
+    "customerId": "cust-011",
+    "amount": 268.99,
+    "date": "2023-09-04"
+  },
+  {
+    "transactionId": "a5df6a43-3bfd-408a-8950-beb45c9af57c",
+    "customerId": "cust-011",
+    "amount": 269.99,
+    "date": "2024-03-19"
+  },
+  {
+    "transactionId": "c55f224d-f17a-4523-b189-2ca9054f4fde",
+    "customerId": "cust-012",
+    "amount": 53.99,
+    "date": "2021-06-06"
+  },
+  {
+    "transactionId": "3f437a10-e1b2-435f-ac51-63ed1f85634c",
+    "customerId": "cust-012",
+    "amount": 34.99,
+    "date": "2022-09-24"
+  },
+  {
+    "transactionId": "dd0415bf-8b14-49f4-b3bb-1f2f2f6c680a",
+    "customerId": "cust-012",
+    "amount": 297.99,
+    "date": "2021-07-28"
+  },
+  {
+    "transactionId": "0c99df03-7a6a-4165-9bb3-a79da0734e5e",
+    "customerId": "cust-012",
+    "amount": 120.99,
+    "date": "2022-05-15"
+  },
+  {
+    "transactionId": "30b42894-abc6-4608-a40c-a2ce7f062b46",
+    "customerId": "cust-012",
+    "amount": 62.99,
+    "date": "2022-04-09"
+  },
+  {
+    "transactionId": "3c56068e-f458-41b2-a60d-ce2e15041e72",
+    "customerId": "cust-012",
+    "amount": 185.99,
+    "date": "2022-06-29"
+  },
+  {
+    "transactionId": "b5f74636-ad37-4e3c-b7fe-680abdeb91df",
+    "customerId": "cust-012",
+    "amount": 52.99,
+    "date": "2024-12-23"
+  },
+  {
+    "transactionId": "773d34be-6916-42c7-bd1e-2730dd509dbe",
+    "customerId": "cust-012",
+    "amount": 49.99,
+    "date": "2025-01-13"
+  },
+  {
+    "transactionId": "996dc719-416c-45a7-a208-4bb6254abff8",
+    "customerId": "cust-012",
+    "amount": 171.99,
+    "date": "2023-05-17"
+  },
+  {
+    "transactionId": "ae6fe129-24b1-4a72-a70a-35fcd8dcfdad",
+    "customerId": "cust-012",
+    "amount": 199.99,
+    "date": "2023-05-30"
+  },
+  {
+    "transactionId": "2bedc5ec-5155-4bdd-a9cd-4ca8a61c9ead",
+    "customerId": "cust-013",
+    "amount": 127.99,
+    "date": "2024-08-24"
+  },
+  {
+    "transactionId": "3e3306df-e1ee-4713-a8a8-eacff6f24f20",
+    "customerId": "cust-013",
+    "amount": 60.99,
+    "date": "2021-10-14"
+  },
+  {
+    "transactionId": "f70c00e0-94d6-4c62-9efc-6e1402469e41",
+    "customerId": "cust-013",
+    "amount": 68.99,
+    "date": "2024-10-12"
+  },
+  {
+    "transactionId": "61027431-f6a4-4b33-985a-03ec990207b1",
+    "customerId": "cust-013",
+    "amount": 232.99,
+    "date": "2023-09-28"
+  },
+  {
+    "transactionId": "6cb97249-1501-41f3-a404-ea9fc33fc2f4",
+    "customerId": "cust-013",
+    "amount": 127.99,
+    "date": "2022-07-09"
+  },
+  {
+    "transactionId": "f38f8cc0-6c46-4530-8404-1e711ff53b99",
+    "customerId": "cust-013",
+    "amount": 182.99,
+    "date": "2023-01-18"
+  },
+  {
+    "transactionId": "98817f07-ee5f-4dfe-be78-035ae7527f40",
+    "customerId": "cust-013",
+    "amount": 280.99,
+    "date": "2024-02-09"
+  },
+  {
+    "transactionId": "7a0863fb-1016-4650-bdd3-b260460409cb",
+    "customerId": "cust-013",
+    "amount": 229.99,
+    "date": "2025-04-26"
+  },
+  {
+    "transactionId": "d725100e-346c-4f10-9590-c6ad27f0ada4",
+    "customerId": "cust-013",
+    "amount": 192.99,
+    "date": "2022-08-10"
+  },
+  {
+    "transactionId": "8efab5f2-80a6-418d-b601-2055221b1df3",
+    "customerId": "cust-013",
+    "amount": 113.99,
+    "date": "2024-06-28"
+  },
+  {
+    "transactionId": "773e1fcf-a094-424f-80c2-2f49ef11fe41",
+    "customerId": "cust-014",
+    "amount": 64.99,
+    "date": "2023-12-21"
+  },
+  {
+    "transactionId": "0ab34ca4-1958-406b-bd4e-d6afd6de6103",
+    "customerId": "cust-014",
+    "amount": 59.99,
+    "date": "2021-10-26"
+  },
+  {
+    "transactionId": "4e271c67-8930-42fe-a1b7-f070fbcfc23a",
+    "customerId": "cust-014",
+    "amount": 79.99,
+    "date": "2025-02-02"
+  },
+  {
+    "transactionId": "3f7a2c8f-f5a8-4e0e-8522-3ea0b1e09f30",
+    "customerId": "cust-014",
+    "amount": 56.99,
+    "date": "2024-10-05"
+  },
+  {
+    "transactionId": "c6b854b2-5866-4816-800f-dddccc4d194e",
+    "customerId": "cust-014",
+    "amount": 125.99,
+    "date": "2021-09-10"
+  },
+  {
+    "transactionId": "aa7746b0-23a5-4bee-8103-7e8692b7b36e",
+    "customerId": "cust-014",
+    "amount": 144.99,
+    "date": "2022-09-27"
+  },
+  {
+    "transactionId": "5891fd48-109f-47c7-84c2-1cf01cae2b3e",
+    "customerId": "cust-014",
+    "amount": 38.99,
+    "date": "2022-09-16"
+  },
+  {
+    "transactionId": "10e79d80-936f-47b8-a3ef-ddaf7308b888",
+    "customerId": "cust-014",
+    "amount": 102.99,
+    "date": "2024-02-18"
+  },
+  {
+    "transactionId": "bc311f6a-4101-4d38-b4fd-b136a2778ed3",
+    "customerId": "cust-014",
+    "amount": 284.99,
+    "date": "2025-05-17"
+  },
+  {
+    "transactionId": "000474b1-5b99-4043-a98b-f8b882bd8c43",
+    "customerId": "cust-014",
+    "amount": 192.99,
+    "date": "2025-01-08"
+  },
+  {
+    "transactionId": "8f946b09-770e-4264-8e38-fe090372339c",
+    "customerId": "cust-015",
+    "amount": 240.99,
+    "date": "2021-12-30"
+  },
+  {
+    "transactionId": "c3347032-7fb7-46e2-98e3-fd129d4e66bb",
+    "customerId": "cust-015",
+    "amount": 233.99,
+    "date": "2022-01-18"
+  },
+  {
+    "transactionId": "4b685014-188b-4c90-86b0-0d62a7abf564",
+    "customerId": "cust-015",
+    "amount": 124.99,
+    "date": "2024-12-06"
+  },
+  {
+    "transactionId": "b9668e5b-53ac-4c27-b08d-61a1647f385c",
+    "customerId": "cust-015",
+    "amount": 210.99,
+    "date": "2024-05-23"
+  },
+  {
+    "transactionId": "10e9b272-1bcc-4644-b4c9-22b3e9d567fc",
+    "customerId": "cust-015",
+    "amount": 237.99,
+    "date": "2023-11-10"
+  },
+  {
+    "transactionId": "90891194-4d34-4f4b-9726-5716281e2904",
+    "customerId": "cust-015",
+    "amount": 177.99,
+    "date": "2023-11-29"
+  },
+  {
+    "transactionId": "815a5140-258b-4165-84bb-36890991cefe",
+    "customerId": "cust-015",
+    "amount": 18.99,
+    "date": "2023-08-16"
+  },
+  {
+    "transactionId": "ab28f485-838b-4781-9910-bd247585f2e7",
+    "customerId": "cust-015",
+    "amount": 261.99,
+    "date": "2022-07-11"
+  },
+  {
+    "transactionId": "61526054-c9e9-4481-ba3a-a958fbaa8718",
+    "customerId": "cust-015",
+    "amount": 22.99,
+    "date": "2024-10-22"
+  },
+  {
+    "transactionId": "9cc49901-6922-4756-b9c7-b8d9d4c6f651",
+    "customerId": "cust-015",
+    "amount": 64.99,
+    "date": "2021-12-27"
+  },
+  {
+    "transactionId": "52930cef-eba8-4a05-96e5-d92d522ac610",
+    "customerId": "cust-001",
+    "amount": 154.99,
+    "date": "2025-01-02"
+  },
+  {
+    "transactionId": "3845690a-ff95-4ef5-bd58-942706a65f77",
+    "customerId": "cust-001",
+    "amount": 133.99,
+    "date": "2025-01-27"
+  },
+  {
+    "transactionId": "6304d927-baba-4b60-8e6b-1e6e3cb2d64d",
+    "customerId": "cust-001",
+    "amount": 182.99,
+    "date": "2025-01-28"
+  },
+  {
+    "transactionId": "0afdc65c-2900-4472-a682-7b00644b5820",
+    "customerId": "cust-001",
+    "amount": 74.99,
+    "date": "2025-01-04"
+  },
+  {
+    "transactionId": "d9e8e6c8-c5b1-495e-b276-0c7b873ec723",
+    "customerId": "cust-001",
+    "amount": 220.99,
+    "date": "2025-01-10"
+  },
+  {
+    "transactionId": "8d7b55df-3867-48fc-9f52-9cd809b895fc",
+    "customerId": "cust-001",
+    "amount": 115.99,
+    "date": "2025-02-09"
+  },
+  {
+    "transactionId": "4153d0a1-754f-449f-970f-72c27aad3a30",
+    "customerId": "cust-001",
+    "amount": 104.99,
+    "date": "2025-02-18"
+  },
+  {
+    "transactionId": "6d6195bf-9202-4d94-8033-83a88b7ad28d",
+    "customerId": "cust-001",
+    "amount": 223.99,
+    "date": "2025-02-25"
+  },
+  {
+    "transactionId": "3647a1b4-d0b5-43e7-8db9-5529895d5139",
+    "customerId": "cust-001",
+    "amount": 147.99,
+    "date": "2025-02-21"
+  },
+  {
+    "transactionId": "5567d52b-5e91-4c6e-8592-fc39586e921c",
+    "customerId": "cust-001",
+    "amount": 95.99,
+    "date": "2025-02-01"
+  },
+  {
+    "transactionId": "fcf19352-fa9d-4ee7-bb08-a3bb8e7025b1",
+    "customerId": "cust-001",
+    "amount": 201.99,
+    "date": "2025-03-15"
+  },
+  {
+    "transactionId": "0f8aca22-9265-48b6-8e09-e224c1016338",
+    "customerId": "cust-001",
+    "amount": 33.99,
+    "date": "2025-03-14"
+  },
+  {
+    "transactionId": "abdd48d8-e099-4ed6-b39c-66d31c793039",
+    "customerId": "cust-001",
+    "amount": 237.99,
+    "date": "2025-03-14"
+  },
+  {
+    "transactionId": "37e76df9-442d-44f5-80ee-41291fbf2374",
+    "customerId": "cust-001",
+    "amount": 214.99,
+    "date": "2025-03-02"
+  },
+  {
+    "transactionId": "a55464ad-78ba-4626-ad88-2c755d9f42b7",
+    "customerId": "cust-001",
+    "amount": 202.99,
+    "date": "2025-03-19"
+  },
+  {
+    "transactionId": "787ccc05-80e7-4459-a285-54abf14dbf7a",
+    "customerId": "cust-001",
+    "amount": 106.99,
+    "date": "2025-04-05"
+  },
+  {
+    "transactionId": "4283dfb3-e7d7-4fd7-b95a-9654e14841ae",
+    "customerId": "cust-001",
+    "amount": 149.99,
+    "date": "2025-04-24"
+  },
+  {
+    "transactionId": "e9f402b1-292b-462d-b997-86f0f35346ea",
+    "customerId": "cust-001",
+    "amount": 24.99,
+    "date": "2025-04-13"
+  },
+  {
+    "transactionId": "0c50b4d1-dae8-44b8-a714-a8d87c3b55a9",
+    "customerId": "cust-001",
+    "amount": 47.99,
+    "date": "2025-04-12"
+  },
+  {
+    "transactionId": "52f0e70c-d393-45ac-8865-2ecbc5f7467f",
+    "customerId": "cust-001",
+    "amount": 81.99,
+    "date": "2025-04-05"
+  },
+  {
+    "transactionId": "2bac2b6f-3a49-40c7-b90c-2cd21de09a96",
+    "customerId": "cust-001",
+    "amount": 138.99,
+    "date": "2025-05-02"
+  },
+  {
+    "transactionId": "f8aeeaf7-522c-42ce-91ba-eee417a7a614",
+    "customerId": "cust-001",
+    "amount": 177.99,
+    "date": "2025-05-03"
+  },
+  {
+    "transactionId": "629789f9-b92f-4886-97f6-c513aa718931",
+    "customerId": "cust-001",
+    "amount": 180.99,
+    "date": "2025-05-25"
+  },
+  {
+    "transactionId": "9c22e1c0-8b7a-4095-a656-745b8c3ec294",
+    "customerId": "cust-001",
+    "amount": 178.99,
+    "date": "2025-05-25"
+  },
+  {
+    "transactionId": "a89d8534-6812-4077-8f7a-761f78641306",
+    "customerId": "cust-001",
+    "amount": 28.99,
+    "date": "2025-05-02"
+  },
+  {
+    "transactionId": "a317e511-de30-4223-9c3e-aa2317d59ce4",
+    "customerId": "cust-001",
+    "amount": 59.99,
+    "date": "2025-06-25"
+  },
+  {
+    "transactionId": "a227f022-5b77-440c-931e-608094ca4298",
+    "customerId": "cust-001",
+    "amount": 123.99,
+    "date": "2025-06-03"
+  },
+  {
+    "transactionId": "b49c44da-8486-4bac-b3be-c210af633b7c",
+    "customerId": "cust-001",
+    "amount": 244.99,
+    "date": "2025-06-21"
+  },
+  {
+    "transactionId": "850fd117-25e4-4c78-814a-50128835d3fc",
+    "customerId": "cust-001",
+    "amount": 156.99,
+    "date": "2025-06-09"
+  },
+  {
+    "transactionId": "b6e6881b-6bb1-42ba-96a6-6cc6fb977f38",
+    "customerId": "cust-001",
+    "amount": 125.99,
+    "date": "2025-06-08"
+  },
+  {
+    "transactionId": "adcd7f26-f780-461d-8302-82db857250aa",
+    "customerId": "cust-001",
+    "amount": 136.99,
+    "date": "2025-07-05"
+  },
+  {
+    "transactionId": "ca937e88-965e-4306-aae2-9b5aef03a4ca",
+    "customerId": "cust-001",
+    "amount": 216.99,
+    "date": "2025-07-16"
+  },
+  {
+    "transactionId": "f15dcb7a-032a-46be-b64c-bf4250fca6dc",
+    "customerId": "cust-001",
+    "amount": 187.99,
+    "date": "2025-07-28"
+  },
+  {
+    "transactionId": "54139b83-74fe-4071-9931-bf88bb85d286",
+    "customerId": "cust-001",
+    "amount": 164.99,
+    "date": "2025-07-10"
+  },
+  {
+    "transactionId": "2b9cdf7f-3fc6-409d-af6d-8d79dc40eeb2",
+    "customerId": "cust-001",
+    "amount": 88.99,
+    "date": "2025-07-07"
+  },
+  {
+    "transactionId": "ffacead0-5a6d-4c81-b370-5155b13a9e72",
+    "customerId": "cust-001",
+    "amount": 232.99,
+    "date": "2025-08-09"
+  },
+  {
+    "transactionId": "421799b8-e9d0-477b-ba9c-2cd52d0c761b",
+    "customerId": "cust-001",
+    "amount": 232.99,
+    "date": "2025-08-20"
+  },
+  {
+    "transactionId": "a062d950-fb8c-4b67-8251-7a155137189a",
+    "customerId": "cust-001",
+    "amount": 86.99,
+    "date": "2025-08-07"
+  },
+  {
+    "transactionId": "b45351e6-35a7-47a9-8df0-dd314ae02915",
+    "customerId": "cust-001",
+    "amount": 22.99,
+    "date": "2025-08-19"
+  },
+  {
+    "transactionId": "3f0ca7f1-a6e7-497e-b3e1-7df9c67309d0",
+    "customerId": "cust-001",
+    "amount": 43.99,
+    "date": "2025-08-11"
+  },
+  {
+    "transactionId": "06a6dd33-9b60-495d-9b99-b676805f103c",
+    "customerId": "cust-001",
+    "amount": 61.99,
+    "date": "2025-09-26"
+  },
+  {
+    "transactionId": "5ca9141d-0e89-4c6b-8072-7125155efa0b",
+    "customerId": "cust-001",
+    "amount": 103.99,
+    "date": "2025-09-13"
+  },
+  {
+    "transactionId": "f007a426-3510-4d90-a093-8453f9bf360a",
+    "customerId": "cust-001",
+    "amount": 180.99,
+    "date": "2025-09-06"
+  },
+  {
+    "transactionId": "9b9507a0-f363-4632-9c22-7c5e57898f71",
+    "customerId": "cust-001",
+    "amount": 169.99,
+    "date": "2025-09-18"
+  },
+  {
+    "transactionId": "b26f38e6-5ce4-4c5d-8c07-d513933781f6",
+    "customerId": "cust-001",
+    "amount": 54.99,
+    "date": "2025-09-18"
+  },
+  {
+    "transactionId": "0fe327d6-af9c-4cd0-a480-a3afcf7e1047",
+    "customerId": "cust-001",
+    "amount": 118.99,
+    "date": "2025-10-08"
+  },
+  {
+    "transactionId": "7c3fcb8a-2218-464e-a26e-939443f3dd42",
+    "customerId": "cust-001",
+    "amount": 35.99,
+    "date": "2025-10-15"
+  },
+  {
+    "transactionId": "78827f2d-b1f7-4e92-bf56-c7a8525e7144",
+    "customerId": "cust-001",
+    "amount": 156.99,
+    "date": "2025-10-24"
+  },
+  {
+    "transactionId": "cb409d12-9c2f-434f-82b4-76d1c8dd01c8",
+    "customerId": "cust-001",
+    "amount": 173.99,
+    "date": "2025-10-16"
+  },
+  {
+    "transactionId": "8ebf8f29-81f6-4f8c-8c2d-bc4b29a373c4",
+    "customerId": "cust-001",
+    "amount": 137.99,
+    "date": "2025-10-17"
+  },
+  {
+    "transactionId": "3568995b-272e-4331-917d-9e978aa11607",
+    "customerId": "cust-001",
+    "amount": 65.99,
+    "date": "2025-11-18"
+  },
+  {
+    "transactionId": "9e055796-ac51-4553-bffc-323aef830723",
+    "customerId": "cust-001",
+    "amount": 50.99,
+    "date": "2025-11-16"
+  },
+  {
+    "transactionId": "762a89b9-ab91-4945-b974-eb55337ac856",
+    "customerId": "cust-001",
+    "amount": 74.99,
+    "date": "2025-11-06"
+  },
+  {
+    "transactionId": "368b35b1-796e-4ca4-9a45-1a59658eb63e",
+    "customerId": "cust-001",
+    "amount": 27.99,
+    "date": "2025-11-11"
+  },
+  {
+    "transactionId": "aab9f5ea-1884-4966-a183-95b9a8f103f2",
+    "customerId": "cust-001",
+    "amount": 29.99,
+    "date": "2025-11-23"
+  },
+  {
+    "transactionId": "04f4b3cc-7b9e-4b02-a331-af6eaec7e831",
+    "customerId": "cust-001",
+    "amount": 34.99,
+    "date": "2025-12-05"
+  },
+  {
+    "transactionId": "5750cea7-ae0c-4bcc-9908-2ad0740e6409",
+    "customerId": "cust-001",
+    "amount": 227.99,
+    "date": "2025-12-16"
+  },
+  {
+    "transactionId": "0d701a0d-8d63-4e9c-a9b4-96d46eb3bb9b",
+    "customerId": "cust-001",
+    "amount": 137.99,
+    "date": "2025-12-11"
+  },
+  {
+    "transactionId": "8791091f-c8fd-4720-8c9d-5eaf9527122a",
+    "customerId": "cust-001",
+    "amount": 150.99,
+    "date": "2025-12-03"
+  },
+  {
+    "transactionId": "d799db4b-d4ae-47fc-961c-78b50f682726",
+    "customerId": "cust-001",
+    "amount": 202.99,
+    "date": "2025-12-24"
+  },
+  {
+    "transactionId": "241dea5d-fe35-40ee-aec1-19d8c6339b07",
+    "customerId": "cust-002",
+    "amount": 250.99,
+    "date": "2025-01-11"
+  },
+  {
+    "transactionId": "7fb1651c-4b81-41a7-9baf-e770d3ae5b4b",
+    "customerId": "cust-002",
+    "amount": 109.99,
+    "date": "2025-01-19"
+  },
+  {
+    "transactionId": "6f5908be-5f72-4a52-b89e-757561c30ce8",
+    "customerId": "cust-002",
+    "amount": 86.99,
+    "date": "2025-01-28"
+  },
+  {
+    "transactionId": "8870e32e-70f8-4a0f-a0a2-364c13ed45d2",
+    "customerId": "cust-002",
+    "amount": 158.99,
+    "date": "2025-01-10"
+  },
+  {
+    "transactionId": "7584d222-cf54-40bf-ba71-ddd30adf2a60",
+    "customerId": "cust-002",
+    "amount": 31.99,
+    "date": "2025-01-15"
+  },
+  {
+    "transactionId": "8d5b831d-15a3-4cb2-a96e-ef5e324501b1",
+    "customerId": "cust-002",
+    "amount": 57.99,
+    "date": "2025-02-05"
+  },
+  {
+    "transactionId": "a26ce085-d10a-442a-b275-17d52b70bbae",
+    "customerId": "cust-002",
+    "amount": 125.99,
+    "date": "2025-02-08"
+  },
+  {
+    "transactionId": "3fc6ad44-faaf-495b-9d42-725767b7bab6",
+    "customerId": "cust-002",
+    "amount": 73.99,
+    "date": "2025-02-06"
+  },
+  {
+    "transactionId": "b7870f96-a78f-40b5-92f0-ebbdbc8c894a",
+    "customerId": "cust-002",
+    "amount": 25.99,
+    "date": "2025-02-13"
+  },
+  {
+    "transactionId": "922af4b1-4d01-4103-bc70-5f3031033a94",
+    "customerId": "cust-002",
+    "amount": 23.99,
+    "date": "2025-02-08"
+  },
+  {
+    "transactionId": "835f5815-4cf0-47a7-92c4-aeae348201d4",
+    "customerId": "cust-002",
+    "amount": 51.99,
+    "date": "2025-03-13"
+  },
+  {
+    "transactionId": "3a4cc044-80cb-4851-b288-778f2af61353",
+    "customerId": "cust-002",
+    "amount": 155.99,
+    "date": "2025-03-18"
+  },
+  {
+    "transactionId": "9588954d-2369-48e5-8fea-3c15a6acc71a",
+    "customerId": "cust-002",
+    "amount": 250.99,
+    "date": "2025-03-27"
+  },
+  {
+    "transactionId": "5e7b9c31-d332-4ac2-9c2f-3ff6d6685ae3",
+    "customerId": "cust-002",
+    "amount": 106.99,
+    "date": "2025-03-08"
+  },
+  {
+    "transactionId": "329504a5-71c9-4b70-b68b-f864ad01c009",
+    "customerId": "cust-002",
+    "amount": 104.99,
+    "date": "2025-03-21"
+  },
+  {
+    "transactionId": "7e9ec693-bdee-4aac-9820-27c35043dd9c",
+    "customerId": "cust-002",
+    "amount": 222.99,
+    "date": "2025-04-01"
+  },
+  {
+    "transactionId": "93cbc2ad-54e5-473a-b490-b617fd761ce9",
+    "customerId": "cust-002",
+    "amount": 225.99,
+    "date": "2025-04-28"
+  },
+  {
+    "transactionId": "121b9929-d7f7-4e81-8ad9-8bc57374c6f3",
+    "customerId": "cust-002",
+    "amount": 66.99,
+    "date": "2025-04-01"
+  },
+  {
+    "transactionId": "c0333ea0-4aa5-4679-88d9-632aafc04110",
+    "customerId": "cust-002",
+    "amount": 40.99,
+    "date": "2025-04-20"
+  },
+  {
+    "transactionId": "31d16bcc-cc93-425d-acbb-e96579a56da9",
+    "customerId": "cust-002",
+    "amount": 246.99,
+    "date": "2025-04-24"
+  },
+  {
+    "transactionId": "2c7f4f9d-b99f-4b72-af9e-667181292618",
+    "customerId": "cust-002",
+    "amount": 186.99,
+    "date": "2025-05-15"
+  },
+  {
+    "transactionId": "4269915d-2770-4edf-bd1b-870a980cc1aa",
+    "customerId": "cust-002",
+    "amount": 84.99,
+    "date": "2025-05-28"
+  },
+  {
+    "transactionId": "a48ffdb7-f785-426d-9d17-843d73164f56",
+    "customerId": "cust-002",
+    "amount": 77.99,
+    "date": "2025-05-07"
+  },
+  {
+    "transactionId": "cd7267e9-5c01-456e-8a70-b90d3783f51b",
+    "customerId": "cust-002",
+    "amount": 69.99,
+    "date": "2025-05-08"
+  },
+  {
+    "transactionId": "a8c0de51-bc03-4354-aca1-bc2280da0cc9",
+    "customerId": "cust-002",
+    "amount": 224.99,
+    "date": "2025-05-20"
+  },
+  {
+    "transactionId": "70e43bf7-6ef1-42a8-82fd-91dcc7abe510",
+    "customerId": "cust-002",
+    "amount": 85.99,
+    "date": "2025-06-14"
+  },
+  {
+    "transactionId": "d8d992c0-e9e2-47d4-bf27-1fc834b193b6",
+    "customerId": "cust-002",
+    "amount": 247.99,
+    "date": "2025-06-08"
+  },
+  {
+    "transactionId": "845fa940-edc3-4a1b-96f4-e6d517e667cb",
+    "customerId": "cust-002",
+    "amount": 139.99,
+    "date": "2025-06-12"
+  },
+  {
+    "transactionId": "2bb1c57d-5529-43f9-94a0-9c6ebb48a981",
+    "customerId": "cust-002",
+    "amount": 97.99,
+    "date": "2025-06-09"
+  },
+  {
+    "transactionId": "586ae4ad-e756-4784-8d97-bb9f36f04636",
+    "customerId": "cust-002",
+    "amount": 146.99,
+    "date": "2025-06-23"
+  },
+  {
+    "transactionId": "8f0667c9-fb4b-4442-9d4c-60bd88ac343d",
+    "customerId": "cust-002",
+    "amount": 96.99,
+    "date": "2025-07-15"
+  },
+  {
+    "transactionId": "a8343a93-e36c-40d7-848c-e20e771d58a5",
+    "customerId": "cust-002",
+    "amount": 110.99,
+    "date": "2025-07-23"
+  },
+  {
+    "transactionId": "4b88beb1-8f9d-42c0-b672-4c249ecbdcb6",
+    "customerId": "cust-002",
+    "amount": 27.99,
+    "date": "2025-07-16"
+  },
+  {
+    "transactionId": "585c319d-7331-4dc4-883a-ed4fa9df71e9",
+    "customerId": "cust-002",
+    "amount": 157.99,
+    "date": "2025-07-25"
+  },
+  {
+    "transactionId": "d539a8df-fe02-44ac-a9f9-6cfc0f05b83c",
+    "customerId": "cust-002",
+    "amount": 51.99,
+    "date": "2025-07-11"
+  },
+  {
+    "transactionId": "e6e5ccbc-e2a7-46e1-af7b-81635f125bed",
+    "customerId": "cust-002",
+    "amount": 115.99,
+    "date": "2025-08-04"
+  },
+  {
+    "transactionId": "8df8b237-5b71-40ba-b9bb-7f01602d85b3",
+    "customerId": "cust-002",
+    "amount": 154.99,
+    "date": "2025-08-26"
+  },
+  {
+    "transactionId": "26eae7c3-f529-47f2-988b-140ac62912f0",
+    "customerId": "cust-002",
+    "amount": 117.99,
+    "date": "2025-08-16"
+  },
+  {
+    "transactionId": "f7b03276-b817-4232-bdc6-4397f5d3b66f",
+    "customerId": "cust-002",
+    "amount": 41.99,
+    "date": "2025-08-15"
+  },
+  {
+    "transactionId": "f88cfb03-1395-48c3-9b6f-452540f0ed1c",
+    "customerId": "cust-002",
+    "amount": 144.99,
+    "date": "2025-08-03"
+  },
+  {
+    "transactionId": "6df0dcbc-8d42-4b10-911a-9efe29a6695a",
+    "customerId": "cust-002",
+    "amount": 194.99,
+    "date": "2025-09-11"
+  },
+  {
+    "transactionId": "d6464779-f205-4e7e-b889-449b0c72b493",
+    "customerId": "cust-002",
+    "amount": 79.99,
+    "date": "2025-09-22"
+  },
+  {
+    "transactionId": "37174bd5-0d52-474f-80eb-fba7f064e348",
+    "customerId": "cust-002",
+    "amount": 48.99,
+    "date": "2025-09-23"
+  },
+  {
+    "transactionId": "c3edfd68-a461-4b4f-b638-851c6406aa40",
+    "customerId": "cust-002",
+    "amount": 100.99,
+    "date": "2025-09-14"
+  },
+  {
+    "transactionId": "2d32b6ed-234d-4498-81dd-dcb9edda1703",
+    "customerId": "cust-002",
+    "amount": 157.99,
+    "date": "2025-09-26"
+  },
+  {
+    "transactionId": "163e591c-561b-47be-b437-0475f68796df",
+    "customerId": "cust-002",
+    "amount": 93.99,
+    "date": "2025-10-28"
+  },
+  {
+    "transactionId": "1b2b96dd-8048-4567-9d55-349e877a28a5",
+    "customerId": "cust-002",
+    "amount": 248.99,
+    "date": "2025-10-21"
+  },
+  {
+    "transactionId": "878e551d-991d-48d0-b8df-ac3d31ec6ae5",
+    "customerId": "cust-002",
+    "amount": 189.99,
+    "date": "2025-10-03"
+  },
+  {
+    "transactionId": "dc2926a5-9e78-4a12-b88f-0250cae44718",
+    "customerId": "cust-002",
+    "amount": 31.99,
+    "date": "2025-10-20"
+  },
+  {
+    "transactionId": "583428e5-3ce5-4d13-9299-6cae7ff81261",
+    "customerId": "cust-002",
+    "amount": 188.99,
+    "date": "2025-10-21"
+  },
+  {
+    "transactionId": "726fe859-3f9f-445f-8456-80076823fa9a",
+    "customerId": "cust-002",
+    "amount": 59.99,
+    "date": "2025-11-11"
+  },
+  {
+    "transactionId": "df9d000a-6974-4c36-bd85-dea0a2b2b5aa",
+    "customerId": "cust-002",
+    "amount": 93.99,
+    "date": "2025-11-17"
+  },
+  {
+    "transactionId": "b2974476-d20b-4866-bd36-a42632db143a",
+    "customerId": "cust-002",
+    "amount": 180.99,
+    "date": "2025-11-05"
+  },
+  {
+    "transactionId": "0cc84ea8-5b35-4271-91ad-bae2bbb65de7",
+    "customerId": "cust-002",
+    "amount": 44.99,
+    "date": "2025-11-13"
+  },
+  {
+    "transactionId": "9362294e-8984-45b0-8760-bcb87029733c",
+    "customerId": "cust-002",
+    "amount": 142.99,
+    "date": "2025-11-25"
+  },
+  {
+    "transactionId": "677b355a-949a-4bc2-a32e-51a4e5b336d8",
+    "customerId": "cust-002",
+    "amount": 32.99,
+    "date": "2025-12-06"
+  },
+  {
+    "transactionId": "8c253fd6-c59f-4813-b02b-9b1866e47c0e",
+    "customerId": "cust-002",
+    "amount": 247.99,
+    "date": "2025-12-12"
+  },
+  {
+    "transactionId": "e2090310-bcaf-4c64-8f7a-abe8f2030354",
+    "customerId": "cust-002",
+    "amount": 40.99,
+    "date": "2025-12-15"
+  },
+  {
+    "transactionId": "f207a1d4-784a-45f4-8d87-4c05118b3136",
+    "customerId": "cust-002",
+    "amount": 29.99,
+    "date": "2025-12-23"
+  },
+  {
+    "transactionId": "b8cf1f73-0c82-4b1d-ad0e-2990db17646f",
+    "customerId": "cust-002",
+    "amount": 178.99,
+    "date": "2025-12-11"
+  },
+  {
+    "transactionId": "55b2d5e1-3e0b-47f7-9808-fc150892328c",
+    "customerId": "cust-003",
+    "amount": 182.99,
+    "date": "2025-01-15"
+  },
+  {
+    "transactionId": "3bc8a0e5-7d83-41e1-8c57-18685f3c360f",
+    "customerId": "cust-003",
+    "amount": 153.99,
+    "date": "2025-01-02"
+  },
+  {
+    "transactionId": "fcf1c0d6-1ce4-4bee-8857-f3652fc2b622",
+    "customerId": "cust-003",
+    "amount": 194.99,
+    "date": "2025-01-19"
+  },
+  {
+    "transactionId": "ac2f8ea2-2e89-4c5d-ad48-757f5e8bfa56",
+    "customerId": "cust-003",
+    "amount": 146.99,
+    "date": "2025-01-13"
+  },
+  {
+    "transactionId": "b89060c3-00d2-4751-b3be-c8dc764f240b",
+    "customerId": "cust-003",
+    "amount": 46.99,
+    "date": "2025-01-21"
+  },
+  {
+    "transactionId": "44e7ef96-6a2e-482f-b617-35f7feaefed8",
+    "customerId": "cust-003",
+    "amount": 37.99,
+    "date": "2025-02-03"
+  },
+  {
+    "transactionId": "cea9fef3-b1c5-40df-bec8-59efc6c4e9a5",
+    "customerId": "cust-003",
+    "amount": 127.99,
+    "date": "2025-02-22"
+  },
+  {
+    "transactionId": "09e2909a-93f7-4e7c-9188-6796587b5f93",
+    "customerId": "cust-003",
+    "amount": 234.99,
+    "date": "2025-02-16"
+  },
+  {
+    "transactionId": "dbc22401-c3ad-4bc7-ae3c-b512acafd10f",
+    "customerId": "cust-003",
+    "amount": 206.99,
+    "date": "2025-02-28"
+  },
+  {
+    "transactionId": "4fe25ae2-b615-4d39-bd9f-abeaa1ae02f6",
+    "customerId": "cust-003",
+    "amount": 232.99,
+    "date": "2025-02-16"
+  },
+  {
+    "transactionId": "2aa4d6ca-4768-4616-a987-abc465a7d5f5",
+    "customerId": "cust-003",
+    "amount": 247.99,
+    "date": "2025-03-05"
+  },
+  {
+    "transactionId": "2413ab72-200c-4f0c-84a0-04fd33b8d1ae",
+    "customerId": "cust-003",
+    "amount": 34.99,
+    "date": "2025-03-21"
+  },
+  {
+    "transactionId": "3e606e1c-79fb-45cd-897e-e83d37e69295",
+    "customerId": "cust-003",
+    "amount": 83.99,
+    "date": "2025-03-28"
+  },
+  {
+    "transactionId": "e8f6d00b-7eb8-46f6-8075-2fcdbf70f7b7",
+    "customerId": "cust-003",
+    "amount": 76.99,
+    "date": "2025-03-19"
+  },
+  {
+    "transactionId": "5e60168b-b286-4aef-8d96-682611ffb80a",
+    "customerId": "cust-003",
+    "amount": 231.99,
+    "date": "2025-03-01"
+  },
+  {
+    "transactionId": "32c11d06-6563-4641-b6b2-f51499c5748f",
+    "customerId": "cust-003",
+    "amount": 196.99,
+    "date": "2025-04-27"
+  },
+  {
+    "transactionId": "909a8404-c6f9-40bb-bdbc-4aae2472ea48",
+    "customerId": "cust-003",
+    "amount": 30.99,
+    "date": "2025-04-21"
+  },
+  {
+    "transactionId": "5d2d0692-074a-4bab-b9c0-d65ca1cdda0a",
+    "customerId": "cust-003",
+    "amount": 237.99,
+    "date": "2025-04-20"
+  },
+  {
+    "transactionId": "c150b8b2-2b12-4b39-afa5-e3d89dd4f432",
+    "customerId": "cust-003",
+    "amount": 228.99,
+    "date": "2025-04-14"
+  },
+  {
+    "transactionId": "b1ad1428-98bd-4a23-94a6-dff1941fba5a",
+    "customerId": "cust-003",
+    "amount": 78.99,
+    "date": "2025-04-25"
+  },
+  {
+    "transactionId": "43b11f9b-7327-469b-8b05-f0970be5ab6e",
+    "customerId": "cust-003",
+    "amount": 224.99,
+    "date": "2025-05-24"
+  },
+  {
+    "transactionId": "3def598b-ae68-498d-bae2-4652ed42c387",
+    "customerId": "cust-003",
+    "amount": 40.99,
+    "date": "2025-05-14"
+  },
+  {
+    "transactionId": "8dca52d6-19b8-48ef-af17-18ea4aef0e0e",
+    "customerId": "cust-003",
+    "amount": 65.99,
+    "date": "2025-05-18"
+  },
+  {
+    "transactionId": "f5d40edc-67d4-4efd-a661-5a1e57750961",
+    "customerId": "cust-003",
+    "amount": 247.99,
+    "date": "2025-05-21"
+  },
+  {
+    "transactionId": "7000c6a9-0dc9-4ad1-88fb-dd73bf03ea1d",
+    "customerId": "cust-003",
+    "amount": 241.99,
+    "date": "2025-05-05"
+  },
+  {
+    "transactionId": "25629a82-aecb-4b6a-87f3-59b0f8ec92df",
+    "customerId": "cust-003",
+    "amount": 74.99,
+    "date": "2025-06-20"
+  },
+  {
+    "transactionId": "0220c6fe-c698-4873-bfee-c3ec007551c3",
+    "customerId": "cust-003",
+    "amount": 158.99,
+    "date": "2025-06-25"
+  },
+  {
+    "transactionId": "17e68b7b-028e-4a38-ab1c-275b1ae1bee1",
+    "customerId": "cust-003",
+    "amount": 194.99,
+    "date": "2025-06-08"
+  },
+  {
+    "transactionId": "3f38db32-1f64-48d3-82b3-ec23ac8ad2c0",
+    "customerId": "cust-003",
+    "amount": 135.99,
+    "date": "2025-06-27"
+  },
+  {
+    "transactionId": "e800dd60-93e2-48b4-a0d4-e0023d55c736",
+    "customerId": "cust-003",
+    "amount": 102.99,
+    "date": "2025-06-21"
+  },
+  {
+    "transactionId": "e4843fa6-0280-49b8-83e3-c226ee10f532",
+    "customerId": "cust-003",
+    "amount": 206.99,
+    "date": "2025-07-08"
+  },
+  {
+    "transactionId": "b4ba7e31-eb24-40fb-8b0a-99f4c53e9d7e",
+    "customerId": "cust-003",
+    "amount": 139.99,
+    "date": "2025-07-24"
+  },
+  {
+    "transactionId": "b4aa2bba-ae96-4aeb-97d0-e92a251df703",
+    "customerId": "cust-003",
+    "amount": 215.99,
+    "date": "2025-07-18"
+  },
+  {
+    "transactionId": "11352bbe-3694-4cb7-af59-33e153f4ec95",
+    "customerId": "cust-003",
+    "amount": 150.99,
+    "date": "2025-07-26"
+  },
+  {
+    "transactionId": "3e6c2e46-d1d0-48aa-8181-3fa3e623b8f3",
+    "customerId": "cust-003",
+    "amount": 122.99,
+    "date": "2025-07-11"
+  },
+  {
+    "transactionId": "46d72210-9013-4740-9cea-d4b46fb26930",
+    "customerId": "cust-003",
+    "amount": 141.99,
+    "date": "2025-08-18"
+  },
+  {
+    "transactionId": "5812970a-3b56-4862-b003-d603d6aff3f0",
+    "customerId": "cust-003",
+    "amount": 65.99,
+    "date": "2025-08-18"
+  },
+  {
+    "transactionId": "e3980d7c-eef5-4446-b362-1d050a8bd833",
+    "customerId": "cust-003",
+    "amount": 135.99,
+    "date": "2025-08-28"
+  },
+  {
+    "transactionId": "975cd334-c79c-441b-ac02-e18782e76cc1",
+    "customerId": "cust-003",
+    "amount": 234.99,
+    "date": "2025-08-04"
+  },
+  {
+    "transactionId": "d3c9106b-03d6-4c39-86a7-08c3f62a3665",
+    "customerId": "cust-003",
+    "amount": 172.99,
+    "date": "2025-08-15"
+  },
+  {
+    "transactionId": "f3a44ec4-72d2-4df4-804b-f33dcf439c52",
+    "customerId": "cust-003",
+    "amount": 53.99,
+    "date": "2025-09-13"
+  },
+  {
+    "transactionId": "728107fd-4d65-4d2c-b585-825f82fb2b69",
+    "customerId": "cust-003",
+    "amount": 178.99,
+    "date": "2025-09-01"
+  },
+  {
+    "transactionId": "810642c7-5853-4913-99c1-d418a906c038",
+    "customerId": "cust-003",
+    "amount": 47.99,
+    "date": "2025-09-09"
+  },
+  {
+    "transactionId": "334172ec-b559-4e32-9446-413b843eb135",
+    "customerId": "cust-003",
+    "amount": 205.99,
+    "date": "2025-09-11"
+  },
+  {
+    "transactionId": "7b2f01f2-ef82-4c04-b1e3-9eadd9de9f10",
+    "customerId": "cust-003",
+    "amount": 214.99,
+    "date": "2025-09-19"
+  },
+  {
+    "transactionId": "215e8dba-ecc5-47da-933d-2692b0ba4a10",
+    "customerId": "cust-003",
+    "amount": 37.99,
+    "date": "2025-10-01"
+  },
+  {
+    "transactionId": "e99aa60c-c5f1-46f6-9c1b-cb021fdecb21",
+    "customerId": "cust-003",
+    "amount": 189.99,
+    "date": "2025-10-10"
+  },
+  {
+    "transactionId": "0df73f68-0fe3-4a1a-bf79-5e139f407d29",
+    "customerId": "cust-003",
+    "amount": 70.99,
+    "date": "2025-10-07"
+  },
+  {
+    "transactionId": "c0f399ab-dd25-4f8b-a963-ee0c53713e0d",
+    "customerId": "cust-003",
+    "amount": 47.99,
+    "date": "2025-10-24"
+  },
+  {
+    "transactionId": "0ddee935-eb78-4bd7-82bd-e11c102e2dea",
+    "customerId": "cust-003",
+    "amount": 124.99,
+    "date": "2025-10-17"
+  },
+  {
+    "transactionId": "fd28f068-7467-4ce4-8434-23071c73bb74",
+    "customerId": "cust-003",
+    "amount": 188.99,
+    "date": "2025-11-27"
+  },
+  {
+    "transactionId": "b13f695a-f91c-47d2-a0b3-b20ad435bcf7",
+    "customerId": "cust-003",
+    "amount": 183.99,
+    "date": "2025-11-06"
+  },
+  {
+    "transactionId": "bfc00346-908e-4d4b-8aeb-73449b4a6fac",
+    "customerId": "cust-003",
+    "amount": 223.99,
+    "date": "2025-11-08"
+  },
+  {
+    "transactionId": "ddf690cd-8f05-4cf0-94c9-7e647f6d7f17",
+    "customerId": "cust-003",
+    "amount": 207.99,
+    "date": "2025-11-28"
+  },
+  {
+    "transactionId": "52663a25-b769-49ea-8370-78d1ddf74ff1",
+    "customerId": "cust-003",
+    "amount": 85.99,
+    "date": "2025-11-09"
+  },
+  {
+    "transactionId": "0b3ab394-ea56-47a3-b574-607c4692f627",
+    "customerId": "cust-003",
+    "amount": 173.99,
+    "date": "2025-12-10"
+  },
+  {
+    "transactionId": "5f136ec0-11da-401c-bda0-3c40b5322ab4",
+    "customerId": "cust-003",
+    "amount": 153.99,
+    "date": "2025-12-07"
+  },
+  {
+    "transactionId": "fe98a4af-ea33-4bee-a11b-1282f8fe223e",
+    "customerId": "cust-003",
+    "amount": 222.99,
+    "date": "2025-12-06"
+  },
+  {
+    "transactionId": "d09fba9f-5a87-4470-a68a-353d1d8097e7",
+    "customerId": "cust-003",
+    "amount": 91.99,
+    "date": "2025-12-10"
+  },
+  {
+    "transactionId": "0053cc5a-2ded-4612-8371-2a81c8aa62c2",
+    "customerId": "cust-003",
+    "amount": 163.99,
+    "date": "2025-12-12"
+  },
+  {
+    "transactionId": "0d4e26b5-8ca5-4a5d-8fbc-ffee02fcbafa",
+    "customerId": "cust-004",
+    "amount": 245.99,
+    "date": "2025-01-01"
+  },
+  {
+    "transactionId": "84446c47-4b64-46a2-980b-2aa07e6a4e74",
+    "customerId": "cust-004",
+    "amount": 33.99,
+    "date": "2025-01-07"
+  },
+  {
+    "transactionId": "f0526b0f-ea0e-4787-955b-fd89a41c23f1",
+    "customerId": "cust-004",
+    "amount": 143.99,
+    "date": "2025-01-10"
+  },
+  {
+    "transactionId": "0bcfe705-bb72-4f2a-a93c-71a47b7a7dce",
+    "customerId": "cust-004",
+    "amount": 52.99,
+    "date": "2025-01-05"
+  },
+  {
+    "transactionId": "37661f60-af43-4bd7-8970-04f4a1a33a79",
+    "customerId": "cust-004",
+    "amount": 50.99,
+    "date": "2025-01-08"
+  },
+  {
+    "transactionId": "dfffbc3b-cd89-426d-9a46-70a66e01af9a",
+    "customerId": "cust-004",
+    "amount": 114.99,
+    "date": "2025-02-09"
+  },
+  {
+    "transactionId": "a7304557-f10a-4124-9cdc-33b004e2a5e1",
+    "customerId": "cust-004",
+    "amount": 111.99,
+    "date": "2025-02-20"
+  },
+  {
+    "transactionId": "d55ad6d4-a750-4017-84ed-7983eea7792c",
+    "customerId": "cust-004",
+    "amount": 155.99,
+    "date": "2025-02-26"
+  },
+  {
+    "transactionId": "baee1ee7-e852-422b-a21e-df0deb585965",
+    "customerId": "cust-004",
+    "amount": 151.99,
+    "date": "2025-02-02"
+  },
+  {
+    "transactionId": "17081546-af79-405d-8a66-5147003423b9",
+    "customerId": "cust-004",
+    "amount": 186.99,
+    "date": "2025-02-12"
+  },
+  {
+    "transactionId": "aa974d48-7f0f-4733-859f-5e7fa467c362",
+    "customerId": "cust-004",
+    "amount": 94.99,
+    "date": "2025-03-05"
+  },
+  {
+    "transactionId": "897bfcd3-f721-4313-a58d-634d31f3429c",
+    "customerId": "cust-004",
+    "amount": 107.99,
+    "date": "2025-03-22"
+  },
+  {
+    "transactionId": "c0a2fdb6-eb8a-4ff9-8d84-6f3749d430a2",
+    "customerId": "cust-004",
+    "amount": 61.99,
+    "date": "2025-03-13"
+  },
+  {
+    "transactionId": "17dd6a9d-e1a0-4641-922b-40b93be0c692",
+    "customerId": "cust-004",
+    "amount": 212.99,
+    "date": "2025-03-01"
+  },
+  {
+    "transactionId": "d9873b33-1f99-4805-8894-3ff95a92c2a1",
+    "customerId": "cust-004",
+    "amount": 226.99,
+    "date": "2025-03-08"
+  },
+  {
+    "transactionId": "e75859f9-a22d-40f5-8837-74f041b92c05",
+    "customerId": "cust-004",
+    "amount": 158.99,
+    "date": "2025-04-24"
+  },
+  {
+    "transactionId": "585abd53-5b8e-4098-98ba-452fb29fd44c",
+    "customerId": "cust-004",
+    "amount": 197.99,
+    "date": "2025-04-20"
+  },
+  {
+    "transactionId": "20588b49-d03b-436d-85ec-c71cf463c060",
+    "customerId": "cust-004",
+    "amount": 65.99,
+    "date": "2025-04-24"
+  },
+  {
+    "transactionId": "d0aacd7f-b792-4315-a59e-1a87c84d4c4c",
+    "customerId": "cust-004",
+    "amount": 27.99,
+    "date": "2025-04-21"
+  },
+  {
+    "transactionId": "741ef99c-72d9-40f8-b165-47689bb0484d",
+    "customerId": "cust-004",
+    "amount": 93.99,
+    "date": "2025-04-22"
+  },
+  {
+    "transactionId": "d64390cd-3e64-4126-806c-7ef8758662db",
+    "customerId": "cust-004",
+    "amount": 242.99,
+    "date": "2025-05-08"
+  },
+  {
+    "transactionId": "afeb7d96-bfd9-4b74-8226-87dabefc435e",
+    "customerId": "cust-004",
+    "amount": 227.99,
+    "date": "2025-05-05"
+  },
+  {
+    "transactionId": "a8b70b45-4e7f-47d3-98aa-3181ee96792e",
+    "customerId": "cust-004",
+    "amount": 182.99,
+    "date": "2025-05-23"
+  },
+  {
+    "transactionId": "90ef6bed-6723-4abd-874f-1cc95f38c22b",
+    "customerId": "cust-004",
+    "amount": 207.99,
+    "date": "2025-05-15"
+  },
+  {
+    "transactionId": "3961dbf2-107d-4bf2-9777-fe1fe517c045",
+    "customerId": "cust-004",
+    "amount": 77.99,
+    "date": "2025-05-01"
+  },
+  {
+    "transactionId": "d2879c3e-53c2-472f-9555-33fcbedf6eb6",
+    "customerId": "cust-004",
+    "amount": 116.99,
+    "date": "2025-06-14"
+  },
+  {
+    "transactionId": "682327d0-4d18-486e-8c40-8811d098c922",
+    "customerId": "cust-004",
+    "amount": 126.99,
+    "date": "2025-06-15"
+  },
+  {
+    "transactionId": "2df388da-f6c5-4929-9428-bf76a9749bc0",
+    "customerId": "cust-004",
+    "amount": 108.99,
+    "date": "2025-06-20"
+  },
+  {
+    "transactionId": "5aa05a40-6863-41a9-8288-e057fad88e6e",
+    "customerId": "cust-004",
+    "amount": 49.99,
+    "date": "2025-06-02"
+  },
+  {
+    "transactionId": "9779aa3d-d3b3-4eac-839a-3fdab8589c51",
+    "customerId": "cust-004",
+    "amount": 162.99,
+    "date": "2025-06-09"
+  },
+  {
+    "transactionId": "79482ca6-fd53-4c6f-8608-a76606e21848",
+    "customerId": "cust-004",
+    "amount": 41.99,
+    "date": "2025-07-23"
+  },
+  {
+    "transactionId": "afe117ec-5f5f-44ef-b21a-0ffa861cc49d",
+    "customerId": "cust-004",
+    "amount": 212.99,
+    "date": "2025-07-04"
+  },
+  {
+    "transactionId": "f63d314f-5767-4bc5-8c54-25eeb3629e62",
+    "customerId": "cust-004",
+    "amount": 194.99,
+    "date": "2025-07-24"
+  },
+  {
+    "transactionId": "0f864a49-4777-40c4-97de-ee01d91ecfc9",
+    "customerId": "cust-004",
+    "amount": 152.99,
+    "date": "2025-07-22"
+  },
+  {
+    "transactionId": "23893c08-ed01-457a-a2d5-c38ea9f9e552",
+    "customerId": "cust-004",
+    "amount": 139.99,
+    "date": "2025-07-11"
+  },
+  {
+    "transactionId": "8a0fc4d4-e7ed-4a3e-ada3-792dc09551d4",
+    "customerId": "cust-004",
+    "amount": 221.99,
+    "date": "2025-08-21"
+  },
+  {
+    "transactionId": "ba5dc4b5-e0a6-4187-8280-624cf198709a",
+    "customerId": "cust-004",
+    "amount": 110.99,
+    "date": "2025-08-08"
+  },
+  {
+    "transactionId": "b90eefa4-298b-4ed2-a061-10ebea62e035",
+    "customerId": "cust-004",
+    "amount": 115.99,
+    "date": "2025-08-01"
+  },
+  {
+    "transactionId": "6c7eff1b-084a-4822-9e14-9c1bc7e2e55c",
+    "customerId": "cust-004",
+    "amount": 166.99,
+    "date": "2025-08-22"
+  },
+  {
+    "transactionId": "bd836cc1-a38e-4ed4-9bc9-0e16a97cef0e",
+    "customerId": "cust-004",
+    "amount": 142.99,
+    "date": "2025-08-20"
+  },
+  {
+    "transactionId": "11345a7e-7750-4358-b886-050ce47f8ab3",
+    "customerId": "cust-004",
+    "amount": 186.99,
+    "date": "2025-09-23"
+  },
+  {
+    "transactionId": "9a4b4435-51b7-4ca3-973b-8c2c5023b6fb",
+    "customerId": "cust-004",
+    "amount": 197.99,
+    "date": "2025-09-24"
+  },
+  {
+    "transactionId": "805011be-799c-426c-9499-6d199fdab409",
+    "customerId": "cust-004",
+    "amount": 44.99,
+    "date": "2025-09-09"
+  },
+  {
+    "transactionId": "f36de40f-5703-40c2-83ab-5df7f21491c3",
+    "customerId": "cust-004",
+    "amount": 171.99,
+    "date": "2025-09-19"
+  },
+  {
+    "transactionId": "c1588ac8-7bc3-462e-a885-c7f83934cc45",
+    "customerId": "cust-004",
+    "amount": 40.99,
+    "date": "2025-09-08"
+  },
+  {
+    "transactionId": "c206b962-a013-4727-8342-3d86275c60ea",
+    "customerId": "cust-004",
+    "amount": 235.99,
+    "date": "2025-10-19"
+  },
+  {
+    "transactionId": "1c8d6f1a-eff0-409e-a779-aff7c41f79db",
+    "customerId": "cust-004",
+    "amount": 210.99,
+    "date": "2025-10-24"
+  },
+  {
+    "transactionId": "b705d1a7-6bfd-4872-b313-debaad6dbd57",
+    "customerId": "cust-004",
+    "amount": 31.99,
+    "date": "2025-10-17"
+  },
+  {
+    "transactionId": "5caa4ba9-b688-4605-9e90-acdca1309a76",
+    "customerId": "cust-004",
+    "amount": 66.99,
+    "date": "2025-10-20"
+  },
+  {
+    "transactionId": "69b0da4f-4251-4108-aab3-1de0ed862ed3",
+    "customerId": "cust-004",
+    "amount": 193.99,
+    "date": "2025-10-24"
+  },
+  {
+    "transactionId": "908312a1-c4f9-4a30-a53d-21fb61b43bf6",
+    "customerId": "cust-004",
+    "amount": 21.99,
+    "date": "2025-11-15"
+  },
+  {
+    "transactionId": "fa797b86-937c-4ae4-92e7-516d074ab58a",
+    "customerId": "cust-004",
+    "amount": 191.99,
+    "date": "2025-11-04"
+  },
+  {
+    "transactionId": "c9947249-69f7-48dd-8c01-9bd0982e46b4",
+    "customerId": "cust-004",
+    "amount": 179.99,
+    "date": "2025-11-22"
+  },
+  {
+    "transactionId": "a7965717-68e4-453d-895b-de11e1fc57ac",
+    "customerId": "cust-004",
+    "amount": 147.99,
+    "date": "2025-11-05"
+  },
+  {
+    "transactionId": "53e96cef-50bd-49f3-9f90-7e77fdb30d3a",
+    "customerId": "cust-004",
+    "amount": 70.99,
+    "date": "2025-11-16"
+  },
+  {
+    "transactionId": "948dffef-6da5-4f22-8c05-e95c91bd97ee",
+    "customerId": "cust-004",
+    "amount": 74.99,
+    "date": "2025-12-03"
+  },
+  {
+    "transactionId": "4e85a1b9-741f-4465-b695-830b103932ce",
+    "customerId": "cust-004",
+    "amount": 94.99,
+    "date": "2025-12-03"
+  },
+  {
+    "transactionId": "27f1ecee-bd08-4918-ba02-7a3032aa3bf0",
+    "customerId": "cust-004",
+    "amount": 111.99,
+    "date": "2025-12-24"
+  },
+  {
+    "transactionId": "95ab7c89-4566-4bb2-a2a3-0b6911a1dc45",
+    "customerId": "cust-004",
+    "amount": 184.99,
+    "date": "2025-12-10"
+  },
+  {
+    "transactionId": "70122381-74d6-45ce-998d-a1f820c81a53",
+    "customerId": "cust-004",
+    "amount": 103.99,
+    "date": "2025-12-15"
+  },
+  {
+    "transactionId": "b0aab8b5-0321-4dd2-bdb2-097c3bc7e17a",
+    "customerId": "cust-005",
+    "amount": 73.99,
+    "date": "2025-01-14"
+  },
+  {
+    "transactionId": "6566c76a-56f7-40fd-ac02-8ea1de25aa6f",
+    "customerId": "cust-005",
+    "amount": 149.99,
+    "date": "2025-01-13"
+  },
+  {
+    "transactionId": "8ae4c247-fc3b-4f24-8c60-f1818e230b26",
+    "customerId": "cust-005",
+    "amount": 115.99,
+    "date": "2025-01-09"
+  },
+  {
+    "transactionId": "56c87e2d-445b-4873-b2d7-f618c275e472",
+    "customerId": "cust-005",
+    "amount": 169.99,
+    "date": "2025-01-05"
+  },
+  {
+    "transactionId": "162d159e-fdb2-4d40-b79c-f2ca1e281eba",
+    "customerId": "cust-005",
+    "amount": 138.99,
+    "date": "2025-01-14"
+  },
+  {
+    "transactionId": "6dea5786-5bbb-4323-a922-b55cbef98b1f",
+    "customerId": "cust-005",
+    "amount": 139.99,
+    "date": "2025-02-15"
+  },
+  {
+    "transactionId": "065b80ef-cd4f-4966-9b88-6f235397e4c0",
+    "customerId": "cust-005",
+    "amount": 187.99,
+    "date": "2025-02-26"
+  },
+  {
+    "transactionId": "98bf78e7-985b-4910-a0c0-d7ebb808f331",
+    "customerId": "cust-005",
+    "amount": 95.99,
+    "date": "2025-02-24"
+  },
+  {
+    "transactionId": "f9e7481e-e5e5-4308-bc7f-ae2efaf73675",
+    "customerId": "cust-005",
+    "amount": 213.99,
+    "date": "2025-02-21"
+  },
+  {
+    "transactionId": "945e37f6-532f-4d61-bfca-1f9d9d5de7c1",
+    "customerId": "cust-005",
+    "amount": 141.99,
+    "date": "2025-02-01"
+  },
+  {
+    "transactionId": "568f50d0-3868-4df2-84e4-837a43bbe856",
+    "customerId": "cust-005",
+    "amount": 21.99,
+    "date": "2025-03-10"
+  },
+  {
+    "transactionId": "a91e964f-0e8b-4c8c-9e6c-50d251371f3c",
+    "customerId": "cust-005",
+    "amount": 59.99,
+    "date": "2025-03-25"
+  },
+  {
+    "transactionId": "ac8385b9-dd8e-4452-8f2f-effd22956ce4",
+    "customerId": "cust-005",
+    "amount": 27.99,
+    "date": "2025-03-05"
+  },
+  {
+    "transactionId": "588ef597-f2f6-40d6-a847-611b20069d03",
+    "customerId": "cust-005",
+    "amount": 43.99,
+    "date": "2025-03-04"
+  },
+  {
+    "transactionId": "279bd05b-e1cc-491e-9af2-cfcedbcdde7e",
+    "customerId": "cust-005",
+    "amount": 231.99,
+    "date": "2025-03-10"
+  },
+  {
+    "transactionId": "b516f6d0-a499-4b5d-9b16-028737c2e8cb",
+    "customerId": "cust-005",
+    "amount": 183.99,
+    "date": "2025-04-08"
+  },
+  {
+    "transactionId": "bb37025d-6187-4784-88f3-bbb12eb1df16",
+    "customerId": "cust-005",
+    "amount": 219.99,
+    "date": "2025-04-02"
+  },
+  {
+    "transactionId": "a5da132e-8578-495d-b389-c0b9bc8bded4",
+    "customerId": "cust-005",
+    "amount": 73.99,
+    "date": "2025-04-11"
+  },
+  {
+    "transactionId": "c74a2142-6123-4b4d-b878-0932ef3e1bd4",
+    "customerId": "cust-005",
+    "amount": 107.99,
+    "date": "2025-04-11"
+  },
+  {
+    "transactionId": "970fab54-d412-46c8-be73-6ab4e7e57c63",
+    "customerId": "cust-005",
+    "amount": 248.99,
+    "date": "2025-04-02"
+  },
+  {
+    "transactionId": "4c231523-85b1-4513-9712-58192b92b8db",
+    "customerId": "cust-005",
+    "amount": 124.99,
+    "date": "2025-05-04"
+  },
+  {
+    "transactionId": "c9ea2f05-7d53-4560-9d1b-daf021a2e641",
+    "customerId": "cust-005",
+    "amount": 142.99,
+    "date": "2025-05-14"
+  },
+  {
+    "transactionId": "a7d95a2f-05a2-44d7-bc8f-94107738f58c",
+    "customerId": "cust-005",
+    "amount": 21.99,
+    "date": "2025-05-22"
+  },
+  {
+    "transactionId": "923d8103-0336-4f71-bb61-04b6a4646142",
+    "customerId": "cust-005",
+    "amount": 186.99,
+    "date": "2025-05-02"
+  },
+  {
+    "transactionId": "267428ea-ecf2-4ca6-be80-dffec7d3d221",
+    "customerId": "cust-005",
+    "amount": 144.99,
+    "date": "2025-05-26"
+  },
+  {
+    "transactionId": "3d84d396-c7af-4c5b-9537-b4eb42ea7104",
+    "customerId": "cust-005",
+    "amount": 175.99,
+    "date": "2025-06-03"
+  },
+  {
+    "transactionId": "70c463e3-420e-4d86-83be-9cde9b191f23",
+    "customerId": "cust-005",
+    "amount": 209.99,
+    "date": "2025-06-15"
+  },
+  {
+    "transactionId": "951db9bb-5733-4e1d-9d5d-fd29313a5006",
+    "customerId": "cust-005",
+    "amount": 227.99,
+    "date": "2025-06-26"
+  },
+  {
+    "transactionId": "fc6dad59-2c06-4126-84a3-165b7afbc427",
+    "customerId": "cust-005",
+    "amount": 128.99,
+    "date": "2025-06-16"
+  },
+  {
+    "transactionId": "68226e23-5bf2-4ac7-ac43-1e0f1bb689b4",
+    "customerId": "cust-005",
+    "amount": 114.99,
+    "date": "2025-06-23"
+  },
+  {
+    "transactionId": "4e508200-ee1b-4e0f-9caf-313b9f5c42d0",
+    "customerId": "cust-005",
+    "amount": 84.99,
+    "date": "2025-07-25"
+  },
+  {
+    "transactionId": "ef2d17a8-a5ea-4dc7-9c10-2da412c39c20",
+    "customerId": "cust-005",
+    "amount": 84.99,
+    "date": "2025-07-01"
+  },
+  {
+    "transactionId": "4b20fb34-9df5-4fbe-920e-82062588916d",
+    "customerId": "cust-005",
+    "amount": 85.99,
+    "date": "2025-07-05"
+  },
+  {
+    "transactionId": "816dde9b-8da7-4843-ba4c-a530ffae654e",
+    "customerId": "cust-005",
+    "amount": 152.99,
+    "date": "2025-07-27"
+  },
+  {
+    "transactionId": "d6cf772e-d138-460e-a65e-1f33d28819c9",
+    "customerId": "cust-005",
+    "amount": 172.99,
+    "date": "2025-07-02"
+  },
+  {
+    "transactionId": "dd0f59ce-8309-46e9-b076-43e11082146e",
+    "customerId": "cust-005",
+    "amount": 136.99,
+    "date": "2025-08-17"
+  },
+  {
+    "transactionId": "ef64e4ac-2dd8-4387-a0bb-a2771f6cbdb6",
+    "customerId": "cust-005",
+    "amount": 141.99,
+    "date": "2025-08-18"
+  },
+  {
+    "transactionId": "e0820520-1f86-44d4-979a-02b11d9c01c2",
+    "customerId": "cust-005",
+    "amount": 23.99,
+    "date": "2025-08-25"
+  },
+  {
+    "transactionId": "beced50f-f66a-45fc-8ecb-0f48346d5022",
+    "customerId": "cust-005",
+    "amount": 219.99,
+    "date": "2025-08-24"
+  },
+  {
+    "transactionId": "3db228cf-828b-4251-adbd-91415cb73fc8",
+    "customerId": "cust-005",
+    "amount": 84.99,
+    "date": "2025-08-18"
+  },
+  {
+    "transactionId": "7973f206-ba88-4c71-8c3a-7353c43e6c73",
+    "customerId": "cust-005",
+    "amount": 24.99,
+    "date": "2025-09-12"
+  },
+  {
+    "transactionId": "5f5959f6-b9c9-488d-ab5c-ce6571f30ed0",
+    "customerId": "cust-005",
+    "amount": 215.99,
+    "date": "2025-09-27"
+  },
+  {
+    "transactionId": "d1c0c16a-aacb-4f65-aa98-862f1eb3bb84",
+    "customerId": "cust-005",
+    "amount": 244.99,
+    "date": "2025-09-15"
+  },
+  {
+    "transactionId": "5fcda37d-d935-4d54-b3a2-ae03429b1147",
+    "customerId": "cust-005",
+    "amount": 51.99,
+    "date": "2025-09-09"
+  },
+  {
+    "transactionId": "1fd1e072-eff9-44f8-86c2-1a9269cd6104",
+    "customerId": "cust-005",
+    "amount": 98.99,
+    "date": "2025-09-08"
+  },
+  {
+    "transactionId": "6b1f859d-3011-404b-b946-4797bd552466",
+    "customerId": "cust-005",
+    "amount": 51.99,
+    "date": "2025-10-07"
+  },
+  {
+    "transactionId": "24cdfdf9-beb1-43df-8c8f-d12810c6e2ec",
+    "customerId": "cust-005",
+    "amount": 160.99,
+    "date": "2025-10-22"
+  },
+  {
+    "transactionId": "8ded58af-fb00-446c-92ba-9bd81cc67dbe",
+    "customerId": "cust-005",
+    "amount": 79.99,
+    "date": "2025-10-13"
+  },
+  {
+    "transactionId": "8506076b-1a21-428c-a4c6-1be48bc0ca06",
+    "customerId": "cust-005",
+    "amount": 20.99,
+    "date": "2025-10-22"
+  },
+  {
+    "transactionId": "99edb6cd-ad29-4b6e-b869-b91934e5a976",
+    "customerId": "cust-005",
+    "amount": 178.99,
+    "date": "2025-10-14"
+  },
+  {
+    "transactionId": "c9dc85f5-62bc-4879-8044-a7200fe86d03",
+    "customerId": "cust-005",
+    "amount": 24.99,
+    "date": "2025-11-18"
+  },
+  {
+    "transactionId": "1d5da52f-8352-4add-b3b9-e747978ac9fa",
+    "customerId": "cust-005",
+    "amount": 151.99,
+    "date": "2025-11-21"
+  },
+  {
+    "transactionId": "2f4c48c9-09c0-482a-90db-3358d918a5a0",
+    "customerId": "cust-005",
+    "amount": 211.99,
+    "date": "2025-11-08"
+  },
+  {
+    "transactionId": "5cba86fe-a348-48b3-b588-0075754462de",
+    "customerId": "cust-005",
+    "amount": 44.99,
+    "date": "2025-11-17"
+  },
+  {
+    "transactionId": "6cc8669d-7a48-4742-8898-baf33f694c02",
+    "customerId": "cust-005",
+    "amount": 35.99,
+    "date": "2025-11-25"
+  },
+  {
+    "transactionId": "f595e13c-965f-4d05-a714-e5065a4d6db8",
+    "customerId": "cust-005",
+    "amount": 133.99,
+    "date": "2025-12-20"
+  },
+  {
+    "transactionId": "3aa0e2c4-71d7-437b-a82f-609df1c3789b",
+    "customerId": "cust-005",
+    "amount": 131.99,
+    "date": "2025-12-09"
+  },
+  {
+    "transactionId": "c1ffc2e8-5239-43f8-8d77-218d2694afa5",
+    "customerId": "cust-005",
+    "amount": 191.99,
+    "date": "2025-12-07"
+  },
+  {
+    "transactionId": "08a85b77-0b49-4967-9523-db7c7eab30a6",
+    "customerId": "cust-005",
+    "amount": 190.99,
+    "date": "2025-12-21"
+  },
+  {
+    "transactionId": "053b383b-60a7-427c-b871-39e7a39062ce",
+    "customerId": "cust-005",
+    "amount": 209.99,
+    "date": "2025-12-10"
+  },
+  {
+    "transactionId": "8c958eff-c813-493d-88bb-4bf8e3d26a53",
+    "customerId": "cust-006",
+    "amount": 171.99,
+    "date": "2025-01-01"
+  },
+  {
+    "transactionId": "c73787a7-80ad-4e3b-b4d9-64054c67b9e3",
+    "customerId": "cust-006",
+    "amount": 147.99,
+    "date": "2025-01-03"
+  },
+  {
+    "transactionId": "1a9a7d2b-a8bf-42d9-a390-197bd2420acb",
+    "customerId": "cust-006",
+    "amount": 150.99,
+    "date": "2025-01-14"
+  },
+  {
+    "transactionId": "3f957194-66fb-4320-a532-2a3e262dabe4",
+    "customerId": "cust-006",
+    "amount": 104.99,
+    "date": "2025-01-09"
+  },
+  {
+    "transactionId": "60a6a9a4-adf6-4718-9437-8bb9e2aeeff0",
+    "customerId": "cust-006",
+    "amount": 114.99,
+    "date": "2025-01-19"
+  },
+  {
+    "transactionId": "582d2b2a-22e4-49f7-8f6a-a921961a88d4",
+    "customerId": "cust-006",
+    "amount": 88.99,
+    "date": "2025-02-06"
+  },
+  {
+    "transactionId": "2cf2ed25-73f9-499b-b01f-c44e69dcb81f",
+    "customerId": "cust-006",
+    "amount": 61.99,
+    "date": "2025-02-12"
+  },
+  {
+    "transactionId": "d20758f7-80f6-4689-a29f-2d609280ca48",
+    "customerId": "cust-006",
+    "amount": 170.99,
+    "date": "2025-02-04"
+  },
+  {
+    "transactionId": "2ad1f6cf-f85e-4226-a395-6bd89a3d4565",
+    "customerId": "cust-006",
+    "amount": 120.99,
+    "date": "2025-02-07"
+  },
+  {
+    "transactionId": "7f501222-4736-4a51-9d53-0f2e4698b854",
+    "customerId": "cust-006",
+    "amount": 210.99,
+    "date": "2025-02-09"
+  },
+  {
+    "transactionId": "0ec87727-0554-4111-b6fe-1d1fc5af7d31",
+    "customerId": "cust-006",
+    "amount": 155.99,
+    "date": "2025-03-09"
+  },
+  {
+    "transactionId": "6c8afc65-c41c-4e7f-8e86-b653a0cfd642",
+    "customerId": "cust-006",
+    "amount": 232.99,
+    "date": "2025-03-12"
+  },
+  {
+    "transactionId": "be64a31e-1ce0-4cbe-a580-7f582d787997",
+    "customerId": "cust-006",
+    "amount": 189.99,
+    "date": "2025-03-09"
+  },
+  {
+    "transactionId": "fcbba665-d1b9-495b-90e3-33b4b6353d4e",
+    "customerId": "cust-006",
+    "amount": 91.99,
+    "date": "2025-03-28"
+  },
+  {
+    "transactionId": "442a2410-0150-432c-80e9-324c5c000cfc",
+    "customerId": "cust-006",
+    "amount": 90.99,
+    "date": "2025-03-25"
+  },
+  {
+    "transactionId": "782d4fea-d34d-49c2-ab9c-a680ae84a2f8",
+    "customerId": "cust-006",
+    "amount": 114.99,
+    "date": "2025-04-26"
+  },
+  {
+    "transactionId": "d5ceaaff-188d-4080-9989-f1c63af99b98",
+    "customerId": "cust-006",
+    "amount": 235.99,
+    "date": "2025-04-11"
+  },
+  {
+    "transactionId": "53fe8edc-43d2-4316-bab0-679c232f3c8c",
+    "customerId": "cust-006",
+    "amount": 149.99,
+    "date": "2025-04-14"
+  },
+  {
+    "transactionId": "b5ef6d94-88ec-4f47-82e3-fe0cdb8251ef",
+    "customerId": "cust-006",
+    "amount": 192.99,
+    "date": "2025-04-27"
+  },
+  {
+    "transactionId": "3239bd4b-143a-404e-86d0-5dd87f2464c4",
+    "customerId": "cust-006",
+    "amount": 127.99,
+    "date": "2025-04-12"
+  },
+  {
+    "transactionId": "3ca95652-5b27-42da-a449-7ce0f06e042f",
+    "customerId": "cust-006",
+    "amount": 89.99,
+    "date": "2025-05-08"
+  },
+  {
+    "transactionId": "cd68d590-a108-4b0f-a724-c82f5b6a4e91",
+    "customerId": "cust-006",
+    "amount": 119.99,
+    "date": "2025-05-06"
+  },
+  {
+    "transactionId": "90c5520c-470d-4ac0-beab-4998d1b0f608",
+    "customerId": "cust-006",
+    "amount": 72.99,
+    "date": "2025-05-16"
+  },
+  {
+    "transactionId": "c6c79027-e081-4d0c-8705-0ca946f32878",
+    "customerId": "cust-006",
+    "amount": 224.99,
+    "date": "2025-05-27"
+  },
+  {
+    "transactionId": "9a3f0545-964a-4191-bd65-f004870a8722",
+    "customerId": "cust-006",
+    "amount": 232.99,
+    "date": "2025-05-19"
+  },
+  {
+    "transactionId": "aba6506c-f19b-461d-be2e-82f25e1ab1c4",
+    "customerId": "cust-006",
+    "amount": 131.99,
+    "date": "2025-06-27"
+  },
+  {
+    "transactionId": "92089b02-0b75-4f26-9879-c4657c1b7a6d",
+    "customerId": "cust-006",
+    "amount": 24.99,
+    "date": "2025-06-02"
+  },
+  {
+    "transactionId": "1cb215aa-bd11-4746-a082-0b99fd06c519",
+    "customerId": "cust-006",
+    "amount": 223.99,
+    "date": "2025-06-26"
+  },
+  {
+    "transactionId": "f98626fe-6bd6-4269-a4ad-3492db824893",
+    "customerId": "cust-006",
+    "amount": 80.99,
+    "date": "2025-06-21"
+  },
+  {
+    "transactionId": "c9c67eb6-8a58-4cf1-b7c6-df4509d38105",
+    "customerId": "cust-006",
+    "amount": 184.99,
+    "date": "2025-06-06"
+  },
+  {
+    "transactionId": "cbe52457-673c-4572-a738-167734973e86",
+    "customerId": "cust-006",
+    "amount": 188.99,
+    "date": "2025-07-09"
+  },
+  {
+    "transactionId": "eab19de2-d082-40b0-ab96-344aca9aab87",
+    "customerId": "cust-006",
+    "amount": 156.99,
+    "date": "2025-07-08"
+  },
+  {
+    "transactionId": "73e45529-4385-4993-94f5-c009ec9311cb",
+    "customerId": "cust-006",
+    "amount": 107.99,
+    "date": "2025-07-26"
+  },
+  {
+    "transactionId": "28195287-c75f-4759-9b59-1320715d91e5",
+    "customerId": "cust-006",
+    "amount": 77.99,
+    "date": "2025-07-20"
+  },
+  {
+    "transactionId": "a940c9d3-26d3-4081-9b3a-b49e92d2c504",
+    "customerId": "cust-006",
+    "amount": 118.99,
+    "date": "2025-07-01"
+  },
+  {
+    "transactionId": "2ccc992a-b8c2-4fcb-a6ac-904eaff3da3f",
+    "customerId": "cust-006",
+    "amount": 59.99,
+    "date": "2025-08-22"
+  },
+  {
+    "transactionId": "b9619058-217e-4a5f-b06b-fd4b8aa0a669",
+    "customerId": "cust-006",
+    "amount": 207.99,
+    "date": "2025-08-15"
+  },
+  {
+    "transactionId": "e18424d0-c3c8-4f78-8b1b-9f71878e61ba",
+    "customerId": "cust-006",
+    "amount": 229.99,
+    "date": "2025-08-13"
+  },
+  {
+    "transactionId": "69799ca9-4ed8-430c-a7a3-4f2b3143621e",
+    "customerId": "cust-006",
+    "amount": 88.99,
+    "date": "2025-08-15"
+  },
+  {
+    "transactionId": "c759b354-df6c-4a39-9eb2-96c2e13d159f",
+    "customerId": "cust-006",
+    "amount": 60.99,
+    "date": "2025-08-13"
+  },
+  {
+    "transactionId": "b3ec0cfc-b18c-4c7b-ba8f-7b0ec384abf6",
+    "customerId": "cust-006",
+    "amount": 181.99,
+    "date": "2025-09-24"
+  },
+  {
+    "transactionId": "f2e559e8-de3d-46c4-a2a7-ad20cd077fad",
+    "customerId": "cust-006",
+    "amount": 244.99,
+    "date": "2025-09-07"
+  },
+  {
+    "transactionId": "457740f0-0699-41d1-ac79-191701392838",
+    "customerId": "cust-006",
+    "amount": 248.99,
+    "date": "2025-09-21"
+  },
+  {
+    "transactionId": "d1848a4f-fc5f-4658-961b-ba139ab3af02",
+    "customerId": "cust-006",
+    "amount": 56.99,
+    "date": "2025-09-23"
+  },
+  {
+    "transactionId": "eb3178f1-5d8b-403a-98d6-c5eece4188d0",
+    "customerId": "cust-006",
+    "amount": 116.99,
+    "date": "2025-09-24"
+  },
+  {
+    "transactionId": "7ec126b7-6108-4891-9282-f7f422eac7bd",
+    "customerId": "cust-006",
+    "amount": 124.99,
+    "date": "2025-10-21"
+  },
+  {
+    "transactionId": "49effc25-6260-4e32-9f5a-d25828a9fd0d",
+    "customerId": "cust-006",
+    "amount": 153.99,
+    "date": "2025-10-15"
+  },
+  {
+    "transactionId": "f740fa53-5f54-4621-8152-95ff9b11fa4c",
+    "customerId": "cust-006",
+    "amount": 112.99,
+    "date": "2025-10-20"
+  },
+  {
+    "transactionId": "2e2a0dd9-235e-45c7-8e5f-4a235004742c",
+    "customerId": "cust-006",
+    "amount": 116.99,
+    "date": "2025-10-02"
+  },
+  {
+    "transactionId": "5aa9efe7-1070-4865-a684-05b9edb4d78e",
+    "customerId": "cust-006",
+    "amount": 164.99,
+    "date": "2025-10-19"
+  },
+  {
+    "transactionId": "2694abca-e62a-422d-9eea-793e962c13db",
+    "customerId": "cust-006",
+    "amount": 247.99,
+    "date": "2025-11-22"
+  },
+  {
+    "transactionId": "afe140a8-73a3-469b-9600-319ba40d643f",
+    "customerId": "cust-006",
+    "amount": 150.99,
+    "date": "2025-11-24"
+  },
+  {
+    "transactionId": "e5f48c48-7965-4e30-b2fc-e238691ae7bf",
+    "customerId": "cust-006",
+    "amount": 249.99,
+    "date": "2025-11-23"
+  },
+  {
+    "transactionId": "e22bc947-ca58-4e4b-a105-7aca42f0d020",
+    "customerId": "cust-006",
+    "amount": 201.99,
+    "date": "2025-11-13"
+  },
+  {
+    "transactionId": "b2db10f0-af85-482c-bf13-c147a0eb4f2d",
+    "customerId": "cust-006",
+    "amount": 92.99,
+    "date": "2025-11-21"
+  },
+  {
+    "transactionId": "2b1c7e1a-749c-4baa-ac6c-4905de3e9236",
+    "customerId": "cust-006",
+    "amount": 249.99,
+    "date": "2025-12-26"
+  },
+  {
+    "transactionId": "6e4442d2-9aa7-4ce4-88d1-20b9fbad1cff",
+    "customerId": "cust-006",
+    "amount": 241.99,
+    "date": "2025-12-05"
+  },
+  {
+    "transactionId": "b7810873-f453-42e0-96c8-3022dedc2268",
+    "customerId": "cust-006",
+    "amount": 103.99,
+    "date": "2025-12-10"
+  },
+  {
+    "transactionId": "a1008039-639a-4718-b2ce-b7517c2216c5",
+    "customerId": "cust-006",
+    "amount": 82.99,
+    "date": "2025-12-03"
+  },
+  {
+    "transactionId": "e837df1a-50ac-4932-8ffc-09cbc799dc18",
+    "customerId": "cust-006",
+    "amount": 180.99,
+    "date": "2025-12-24"
+  },
+  {
+    "transactionId": "1b19e846-fbf4-4395-baf5-86fdd984b2e0",
+    "customerId": "cust-007",
+    "amount": 226.99,
+    "date": "2025-01-22"
+  },
+  {
+    "transactionId": "c50fa89f-3c0e-4580-a07e-218aca2ddcee",
+    "customerId": "cust-007",
+    "amount": 229.99,
+    "date": "2025-01-26"
+  },
+  {
+    "transactionId": "869a9a0e-e771-499c-a25b-b322967f711f",
+    "customerId": "cust-007",
+    "amount": 129.99,
+    "date": "2025-01-08"
+  },
+  {
+    "transactionId": "285fd10b-5043-4613-82e7-c4678a34435c",
+    "customerId": "cust-007",
+    "amount": 134.99,
+    "date": "2025-01-18"
+  },
+  {
+    "transactionId": "a2559edb-a56b-4d6d-9802-40afae70ab6e",
+    "customerId": "cust-007",
+    "amount": 236.99,
+    "date": "2025-01-23"
+  },
+  {
+    "transactionId": "71724859-9dda-4ab8-9681-592bec7029ea",
+    "customerId": "cust-007",
+    "amount": 174.99,
+    "date": "2025-02-17"
+  },
+  {
+    "transactionId": "0b021c51-5431-48eb-b8d9-444295ec1596",
+    "customerId": "cust-007",
+    "amount": 208.99,
+    "date": "2025-02-22"
+  },
+  {
+    "transactionId": "7494919e-596c-4a33-b9c4-705bd6d814b5",
+    "customerId": "cust-007",
+    "amount": 166.99,
+    "date": "2025-02-15"
+  },
+  {
+    "transactionId": "4f6885c9-4c9a-4576-ae62-0bea3394eec3",
+    "customerId": "cust-007",
+    "amount": 91.99,
+    "date": "2025-02-17"
+  },
+  {
+    "transactionId": "c09c2da9-84f4-415c-ab23-b5e93bb5a775",
+    "customerId": "cust-007",
+    "amount": 121.99,
+    "date": "2025-02-26"
+  },
+  {
+    "transactionId": "7a275579-e0a0-47b5-9190-0e0995f9ddda",
+    "customerId": "cust-007",
+    "amount": 25.99,
+    "date": "2025-03-05"
+  },
+  {
+    "transactionId": "3a005d38-442b-49d8-829d-597f5334b244",
+    "customerId": "cust-007",
+    "amount": 236.99,
+    "date": "2025-03-21"
+  },
+  {
+    "transactionId": "02f38a2b-51af-46b3-94a9-087d0f9fb15f",
+    "customerId": "cust-007",
+    "amount": 153.99,
+    "date": "2025-03-18"
+  },
+  {
+    "transactionId": "aa8d47c8-41e9-4e52-b2b9-6ddc5da3bb0d",
+    "customerId": "cust-007",
+    "amount": 168.99,
+    "date": "2025-03-01"
+  },
+  {
+    "transactionId": "5a591beb-4e1b-40b8-9f9e-f437f4c407e3",
+    "customerId": "cust-007",
+    "amount": 200.99,
+    "date": "2025-03-04"
+  },
+  {
+    "transactionId": "05f7a2c2-5f47-4021-ae28-2593a6911932",
+    "customerId": "cust-007",
+    "amount": 193.99,
+    "date": "2025-04-06"
+  },
+  {
+    "transactionId": "4e8a4473-94b5-46fe-baed-cb9ee14114a0",
+    "customerId": "cust-007",
+    "amount": 211.99,
+    "date": "2025-04-13"
+  },
+  {
+    "transactionId": "d4bb0ad3-37bc-4855-a402-32d441218747",
+    "customerId": "cust-007",
+    "amount": 179.99,
+    "date": "2025-04-28"
+  },
+  {
+    "transactionId": "d31ebb79-4f7e-47b8-9e44-9dd9997a4aad",
+    "customerId": "cust-007",
+    "amount": 143.99,
+    "date": "2025-04-10"
+  },
+  {
+    "transactionId": "009144b7-6908-410d-b828-c556e443bbf9",
+    "customerId": "cust-007",
+    "amount": 126.99,
+    "date": "2025-04-07"
+  },
+  {
+    "transactionId": "bfac1e5c-f1e2-4308-a0c6-299c1c8d3b34",
+    "customerId": "cust-007",
+    "amount": 108.99,
+    "date": "2025-05-12"
+  },
+  {
+    "transactionId": "5eeedd0e-1151-446f-9689-94041d6f24a5",
+    "customerId": "cust-007",
+    "amount": 60.99,
+    "date": "2025-05-05"
+  },
+  {
+    "transactionId": "3c708b10-9af3-4ef7-8bd3-7acbb58d592b",
+    "customerId": "cust-007",
+    "amount": 226.99,
+    "date": "2025-05-04"
+  },
+  {
+    "transactionId": "61c80fb0-efe4-4f31-91d6-f8aace7fa184",
+    "customerId": "cust-007",
+    "amount": 154.99,
+    "date": "2025-05-12"
+  },
+  {
+    "transactionId": "7114ed59-2a37-4f40-b883-ad654c40b179",
+    "customerId": "cust-007",
+    "amount": 169.99,
+    "date": "2025-05-26"
+  },
+  {
+    "transactionId": "c7008062-095c-4fb3-b170-5daa2642c8fb",
+    "customerId": "cust-007",
+    "amount": 185.99,
+    "date": "2025-06-04"
+  },
+  {
+    "transactionId": "77cbebb6-85a2-4871-a691-3a7567fd9a2e",
+    "customerId": "cust-007",
+    "amount": 160.99,
+    "date": "2025-06-17"
+  },
+  {
+    "transactionId": "a41cc031-d6d9-4517-9ad6-3f5c739c16be",
+    "customerId": "cust-007",
+    "amount": 65.99,
+    "date": "2025-06-21"
+  },
+  {
+    "transactionId": "7df6b0f8-568e-47cf-8047-e90b986375c0",
+    "customerId": "cust-007",
+    "amount": 149.99,
+    "date": "2025-06-22"
+  },
+  {
+    "transactionId": "9f6dfcf9-826b-4de3-8d22-24634748a02a",
+    "customerId": "cust-007",
+    "amount": 212.99,
+    "date": "2025-06-24"
+  },
+  {
+    "transactionId": "9813c1b9-1d97-4f51-9902-22c0e1ae3bf6",
+    "customerId": "cust-007",
+    "amount": 133.99,
+    "date": "2025-07-07"
+  },
+  {
+    "transactionId": "c2ab84c3-ddbb-4307-9b19-0e900ba1b833",
+    "customerId": "cust-007",
+    "amount": 150.99,
+    "date": "2025-07-21"
+  },
+  {
+    "transactionId": "81fa990e-334d-421b-9801-10286c588814",
+    "customerId": "cust-007",
+    "amount": 125.99,
+    "date": "2025-07-07"
+  },
+  {
+    "transactionId": "51cc0ea6-f948-4886-abee-454a5c67110d",
+    "customerId": "cust-007",
+    "amount": 198.99,
+    "date": "2025-07-21"
+  },
+  {
+    "transactionId": "72930a37-9b50-4e43-93ec-e34e0b58abdc",
+    "customerId": "cust-007",
+    "amount": 230.99,
+    "date": "2025-07-13"
+  },
+  {
+    "transactionId": "30ed7860-41ed-4698-b2b1-8661c6e05707",
+    "customerId": "cust-007",
+    "amount": 23.99,
+    "date": "2025-08-03"
+  },
+  {
+    "transactionId": "6ae044de-d1f4-43ce-aa40-d6ef20396060",
+    "customerId": "cust-007",
+    "amount": 111.99,
+    "date": "2025-08-21"
+  },
+  {
+    "transactionId": "f3388237-80d6-4516-b397-68a810a32b78",
+    "customerId": "cust-007",
+    "amount": 77.99,
+    "date": "2025-08-01"
+  },
+  {
+    "transactionId": "3bf37443-80c6-45b7-9c95-18cc7e4314c9",
+    "customerId": "cust-007",
+    "amount": 42.99,
+    "date": "2025-08-13"
+  },
+  {
+    "transactionId": "d64f0089-b4d4-4a6c-8696-26f82f59d8f6",
+    "customerId": "cust-007",
+    "amount": 109.99,
+    "date": "2025-08-04"
+  },
+  {
+    "transactionId": "a3f2e382-67e8-42f7-973a-5ac20783318d",
+    "customerId": "cust-007",
+    "amount": 76.99,
+    "date": "2025-09-22"
+  },
+  {
+    "transactionId": "1a230500-227f-49fa-bbfe-ec51d7704f22",
+    "customerId": "cust-007",
+    "amount": 207.99,
+    "date": "2025-09-06"
+  },
+  {
+    "transactionId": "465db91c-ef39-4ce5-9c05-0cc8746978ea",
+    "customerId": "cust-007",
+    "amount": 101.99,
+    "date": "2025-09-19"
+  },
+  {
+    "transactionId": "baeaedab-f9ca-443a-8455-9b43e8f302a1",
+    "customerId": "cust-007",
+    "amount": 36.99,
+    "date": "2025-09-07"
+  },
+  {
+    "transactionId": "5f69f17f-f705-4257-9812-631189bd325e",
+    "customerId": "cust-007",
+    "amount": 139.99,
+    "date": "2025-09-20"
+  },
+  {
+    "transactionId": "a9e8291a-fea7-48e7-9331-e699ada48e78",
+    "customerId": "cust-007",
+    "amount": 165.99,
+    "date": "2025-10-18"
+  },
+  {
+    "transactionId": "59c2a284-2d8d-4fd1-a8e4-b4de5910bbfa",
+    "customerId": "cust-007",
+    "amount": 177.99,
+    "date": "2025-10-28"
+  },
+  {
+    "transactionId": "d47195ab-ed4d-4e6f-a3d5-d4c880862ebf",
+    "customerId": "cust-007",
+    "amount": 114.99,
+    "date": "2025-10-06"
+  },
+  {
+    "transactionId": "c6715433-6b1b-4cf8-9841-4567c6db5c9c",
+    "customerId": "cust-007",
+    "amount": 225.99,
+    "date": "2025-10-07"
+  },
+  {
+    "transactionId": "ed45f0dc-0509-4f0d-a1a5-3eaaf4225831",
+    "customerId": "cust-007",
+    "amount": 140.99,
+    "date": "2025-10-19"
+  },
+  {
+    "transactionId": "6a78121b-c9af-4963-8393-cb7039c9f206",
+    "customerId": "cust-007",
+    "amount": 221.99,
+    "date": "2025-11-14"
+  },
+  {
+    "transactionId": "ce7abeb0-2442-4c8b-8453-9fbfd34b9bef",
+    "customerId": "cust-007",
+    "amount": 161.99,
+    "date": "2025-11-14"
+  },
+  {
+    "transactionId": "fe314d13-d340-4fae-920e-1bcc94220eb1",
+    "customerId": "cust-007",
+    "amount": 84.99,
+    "date": "2025-11-24"
+  },
+  {
+    "transactionId": "9e81d6af-a5b3-4fc1-987e-44faf079107d",
+    "customerId": "cust-007",
+    "amount": 201.99,
+    "date": "2025-11-22"
+  },
+  {
+    "transactionId": "df7871cd-1786-459e-9592-b16968201fec",
+    "customerId": "cust-007",
+    "amount": 126.99,
+    "date": "2025-11-13"
+  },
+  {
+    "transactionId": "4020e99e-0671-49d0-a3cb-4a1b6ebf4a09",
+    "customerId": "cust-007",
+    "amount": 212.99,
+    "date": "2025-12-08"
+  },
+  {
+    "transactionId": "f0b08819-d708-4e11-8bed-fc9b98837cd9",
+    "customerId": "cust-007",
+    "amount": 51.99,
+    "date": "2025-12-10"
+  },
+  {
+    "transactionId": "335424f1-eac4-4677-8564-214a009555ed",
+    "customerId": "cust-007",
+    "amount": 247.99,
+    "date": "2025-12-25"
+  },
+  {
+    "transactionId": "b3391412-4d36-4979-8f4c-f93db78ccac1",
+    "customerId": "cust-007",
+    "amount": 102.99,
+    "date": "2025-12-13"
+  },
+  {
+    "transactionId": "9a4a23ec-0b6c-442c-b978-71e0c372b5a0",
+    "customerId": "cust-007",
+    "amount": 232.99,
+    "date": "2025-12-16"
+  },
+  {
+    "transactionId": "d2426d51-23b9-4aa8-ae7d-8d1a9cfd0635",
+    "customerId": "cust-008",
+    "amount": 96.99,
+    "date": "2025-01-10"
+  },
+  {
+    "transactionId": "c7448ac2-5d93-489c-b52d-aa18c16217d5",
+    "customerId": "cust-008",
+    "amount": 80.99,
+    "date": "2025-01-27"
+  },
+  {
+    "transactionId": "c900b5ff-e717-466f-ba31-18a9425b55a6",
+    "customerId": "cust-008",
+    "amount": 54.99,
+    "date": "2025-01-22"
+  },
+  {
+    "transactionId": "debcf870-ed7a-48e9-8630-12901063a07f",
+    "customerId": "cust-008",
+    "amount": 111.99,
+    "date": "2025-01-06"
+  },
+  {
+    "transactionId": "3c89b1d0-e1e0-4fe6-be6a-6bf429e61f32",
+    "customerId": "cust-008",
+    "amount": 83.99,
+    "date": "2025-01-24"
+  },
+  {
+    "transactionId": "981d0c66-49cc-4fb6-82d7-a7849be98b62",
+    "customerId": "cust-008",
+    "amount": 158.99,
+    "date": "2025-02-11"
+  },
+  {
+    "transactionId": "2a9d83a9-2c4f-4c37-82b9-042771769696",
+    "customerId": "cust-008",
+    "amount": 215.99,
+    "date": "2025-02-02"
+  },
+  {
+    "transactionId": "221d82f2-0d11-44d7-9e72-74c98d113275",
+    "customerId": "cust-008",
+    "amount": 213.99,
+    "date": "2025-02-13"
+  },
+  {
+    "transactionId": "550ae561-b21e-4085-94a1-f3349410dd99",
+    "customerId": "cust-008",
+    "amount": 103.99,
+    "date": "2025-02-24"
+  },
+  {
+    "transactionId": "3e63c86a-4574-45a4-98c2-b8f160484612",
+    "customerId": "cust-008",
+    "amount": 29.99,
+    "date": "2025-02-07"
+  },
+  {
+    "transactionId": "5c5474a7-5da3-4bd6-96fd-a1012497ca66",
+    "customerId": "cust-008",
+    "amount": 200.99,
+    "date": "2025-03-12"
+  },
+  {
+    "transactionId": "4f4089e7-f48a-48c1-996a-b0dc256aca1e",
+    "customerId": "cust-008",
+    "amount": 184.99,
+    "date": "2025-03-27"
+  },
+  {
+    "transactionId": "789ef4c2-bd47-4765-9403-5901b1506c7b",
+    "customerId": "cust-008",
+    "amount": 198.99,
+    "date": "2025-03-15"
+  },
+  {
+    "transactionId": "ed91e865-c56f-4afc-9261-03bb7afa9486",
+    "customerId": "cust-008",
+    "amount": 222.99,
+    "date": "2025-03-16"
+  },
+  {
+    "transactionId": "9246f070-b3b8-4153-8f26-a09b349eed10",
+    "customerId": "cust-008",
+    "amount": 190.99,
+    "date": "2025-03-23"
+  },
+  {
+    "transactionId": "3deea211-5238-478f-9f2f-3ca27615c3af",
+    "customerId": "cust-008",
+    "amount": 75.99,
+    "date": "2025-04-16"
+  },
+  {
+    "transactionId": "bb8ea907-7166-4df5-adca-322ec17b7180",
+    "customerId": "cust-008",
+    "amount": 130.99,
+    "date": "2025-04-06"
+  },
+  {
+    "transactionId": "ad2691b6-2f24-4093-8fde-e70b4da35512",
+    "customerId": "cust-008",
+    "amount": 38.99,
+    "date": "2025-04-16"
+  },
+  {
+    "transactionId": "fab69763-01c3-4aa1-8e44-4ad51727e3f5",
+    "customerId": "cust-008",
+    "amount": 88.99,
+    "date": "2025-04-08"
+  },
+  {
+    "transactionId": "f4dff1ca-09b6-419e-871a-39f289c864cc",
+    "customerId": "cust-008",
+    "amount": 138.99,
+    "date": "2025-04-14"
+  },
+  {
+    "transactionId": "be406f3e-3577-46fc-8b22-0bb549baef43",
+    "customerId": "cust-008",
+    "amount": 94.99,
+    "date": "2025-05-11"
+  },
+  {
+    "transactionId": "4253c628-b48d-4fa8-8bdc-bc0ae56c728c",
+    "customerId": "cust-008",
+    "amount": 36.99,
+    "date": "2025-05-11"
+  },
+  {
+    "transactionId": "227901ac-b984-4f59-9299-9ea3791f9778",
+    "customerId": "cust-008",
+    "amount": 162.99,
+    "date": "2025-05-14"
+  },
+  {
+    "transactionId": "a0dd06f2-8494-4204-80b0-3f50601e6840",
+    "customerId": "cust-008",
+    "amount": 91.99,
+    "date": "2025-05-21"
+  },
+  {
+    "transactionId": "d7f90671-ac28-4b5b-901b-d188dd6961fa",
+    "customerId": "cust-008",
+    "amount": 111.99,
+    "date": "2025-05-18"
+  },
+  {
+    "transactionId": "80e75c51-8707-4992-b594-94f005c3f1fe",
+    "customerId": "cust-008",
+    "amount": 202.99,
+    "date": "2025-06-27"
+  },
+  {
+    "transactionId": "2b95d289-f8e1-4428-9dc8-1e2afc8ad314",
+    "customerId": "cust-008",
+    "amount": 47.99,
+    "date": "2025-06-05"
+  },
+  {
+    "transactionId": "5537c2d8-4533-4eae-b1c5-0a9f51231e52",
+    "customerId": "cust-008",
+    "amount": 39.99,
+    "date": "2025-06-03"
+  },
+  {
+    "transactionId": "ca76482d-7028-4527-bf09-e7c01276c1d3",
+    "customerId": "cust-008",
+    "amount": 126.99,
+    "date": "2025-06-16"
+  },
+  {
+    "transactionId": "36a74014-c80a-4df3-a1d8-8e4c765820cc",
+    "customerId": "cust-008",
+    "amount": 41.99,
+    "date": "2025-06-03"
+  },
+  {
+    "transactionId": "5962e2f5-0c3d-4248-b136-475c7ee50005",
+    "customerId": "cust-008",
+    "amount": 184.99,
+    "date": "2025-07-18"
+  },
+  {
+    "transactionId": "e88a0b2e-b57c-4b30-93d5-4d5a60401d6f",
+    "customerId": "cust-008",
+    "amount": 115.99,
+    "date": "2025-07-26"
+  },
+  {
+    "transactionId": "9f16cf9e-352f-4226-9650-4f6d7a7390e3",
+    "customerId": "cust-008",
+    "amount": 35.99,
+    "date": "2025-07-06"
+  },
+  {
+    "transactionId": "543fefa9-69d0-4fac-b173-aa7f8ca1eeed",
+    "customerId": "cust-008",
+    "amount": 180.99,
+    "date": "2025-07-21"
+  },
+  {
+    "transactionId": "81d2717a-5378-4a69-8662-5fcdd1428f50",
+    "customerId": "cust-008",
+    "amount": 156.99,
+    "date": "2025-07-03"
+  },
+  {
+    "transactionId": "88a1a107-ac7f-4f3a-8f38-d6cee3fc4fc4",
+    "customerId": "cust-008",
+    "amount": 222.99,
+    "date": "2025-08-03"
+  },
+  {
+    "transactionId": "58ee6e53-d2d8-4ea8-a825-975ac9d511cb",
+    "customerId": "cust-008",
+    "amount": 149.99,
+    "date": "2025-08-21"
+  },
+  {
+    "transactionId": "bc54b6b6-7481-4cfa-b5d6-4f678553626d",
+    "customerId": "cust-008",
+    "amount": 127.99,
+    "date": "2025-08-19"
+  },
+  {
+    "transactionId": "c8bd705e-aab3-4123-bea7-b55d5adc5324",
+    "customerId": "cust-008",
+    "amount": 57.99,
+    "date": "2025-08-05"
+  },
+  {
+    "transactionId": "e1b93d6f-ce90-45bf-9d21-4b6eaf8200b6",
+    "customerId": "cust-008",
+    "amount": 235.99,
+    "date": "2025-08-09"
+  },
+  {
+    "transactionId": "408e6c90-49fe-46f9-b1a4-3af5a34af3c0",
+    "customerId": "cust-008",
+    "amount": 148.99,
+    "date": "2025-09-26"
+  },
+  {
+    "transactionId": "1e5a4e11-c75a-4bd1-95a9-de2716052080",
+    "customerId": "cust-008",
+    "amount": 43.99,
+    "date": "2025-09-12"
+  },
+  {
+    "transactionId": "f7496b5b-3121-4d99-8894-62e1fd8dc97e",
+    "customerId": "cust-008",
+    "amount": 210.99,
+    "date": "2025-09-10"
+  },
+  {
+    "transactionId": "7a7bfd58-6deb-44b2-9e84-0d2e6e493132",
+    "customerId": "cust-008",
+    "amount": 250.99,
+    "date": "2025-09-07"
+  },
+  {
+    "transactionId": "f1e05c6a-6f98-46ca-a2ae-de1cb5d78959",
+    "customerId": "cust-008",
+    "amount": 232.99,
+    "date": "2025-09-27"
+  },
+  {
+    "transactionId": "2e9c899e-7638-43f2-9292-12aa10a3f74c",
+    "customerId": "cust-008",
+    "amount": 91.99,
+    "date": "2025-10-10"
+  },
+  {
+    "transactionId": "2eebb98c-0f26-4d68-8388-d592843f6343",
+    "customerId": "cust-008",
+    "amount": 81.99,
+    "date": "2025-10-13"
+  },
+  {
+    "transactionId": "ae4b0c85-43b6-42de-9e0b-9acbfcfb81ad",
+    "customerId": "cust-008",
+    "amount": 236.99,
+    "date": "2025-10-16"
+  },
+  {
+    "transactionId": "17a47468-4d49-4d77-a7b2-e82ce167e81b",
+    "customerId": "cust-008",
+    "amount": 113.99,
+    "date": "2025-10-12"
+  },
+  {
+    "transactionId": "800b984b-6603-4744-9137-ebdbf08bb237",
+    "customerId": "cust-008",
+    "amount": 198.99,
+    "date": "2025-10-14"
+  },
+  {
+    "transactionId": "827570b0-ab11-4a5b-9b11-08d2ab03a77e",
+    "customerId": "cust-008",
+    "amount": 246.99,
+    "date": "2025-11-10"
+  },
+  {
+    "transactionId": "4d445938-3b93-467d-be7f-8c58d9002f3e",
+    "customerId": "cust-008",
+    "amount": 119.99,
+    "date": "2025-11-18"
+  },
+  {
+    "transactionId": "7bd6263f-e70b-44f9-9709-bf604411c79f",
+    "customerId": "cust-008",
+    "amount": 197.99,
+    "date": "2025-11-18"
+  },
+  {
+    "transactionId": "d21b1119-1c00-49e7-b4ab-cf5fe0fe318c",
+    "customerId": "cust-008",
+    "amount": 197.99,
+    "date": "2025-11-17"
+  },
+  {
+    "transactionId": "ed7a20c0-3693-4c90-bf91-7ef7a657665e",
+    "customerId": "cust-008",
+    "amount": 46.99,
+    "date": "2025-11-07"
+  },
+  {
+    "transactionId": "7e943e8e-4300-4e67-8b5a-f389f2924e57",
+    "customerId": "cust-008",
+    "amount": 50.99,
+    "date": "2025-12-14"
+  },
+  {
+    "transactionId": "295ff36b-9e88-41cd-a5e7-8a9b459bc2b2",
+    "customerId": "cust-008",
+    "amount": 127.99,
+    "date": "2025-12-28"
+  },
+  {
+    "transactionId": "60f3330e-fa33-4ccf-94d5-7ff2501e6338",
+    "customerId": "cust-008",
+    "amount": 113.99,
+    "date": "2025-12-06"
+  },
+  {
+    "transactionId": "d9e80a3a-3ebf-497b-b02d-333ce2553a5f",
+    "customerId": "cust-008",
+    "amount": 70.99,
+    "date": "2025-12-27"
+  },
+  {
+    "transactionId": "483e8f89-22ed-42ec-9b1d-97cd64a08965",
+    "customerId": "cust-008",
+    "amount": 172.99,
+    "date": "2025-12-05"
+  },
+  {
+    "transactionId": "aee7d0da-6c83-4116-b0f6-4a97784fb70f",
+    "customerId": "cust-009",
+    "amount": 181.99,
+    "date": "2025-01-24"
+  },
+  {
+    "transactionId": "bd43e433-0281-4430-9b41-6c7142ee0bde",
+    "customerId": "cust-009",
+    "amount": 89.99,
+    "date": "2025-01-07"
+  },
+  {
+    "transactionId": "06797662-1ffb-49cb-9a79-a6c10b60c789",
+    "customerId": "cust-009",
+    "amount": 234.99,
+    "date": "2025-01-08"
+  },
+  {
+    "transactionId": "34d74d90-52e6-4ae5-8c88-e13532c7386f",
+    "customerId": "cust-009",
+    "amount": 65.99,
+    "date": "2025-01-04"
+  },
+  {
+    "transactionId": "d772c8a5-b842-4ee7-b7ba-d75a8e3067a0",
+    "customerId": "cust-009",
+    "amount": 157.99,
+    "date": "2025-01-12"
+  },
+  {
+    "transactionId": "4e7c94ac-e58f-4fc1-9def-0289b05be21c",
+    "customerId": "cust-009",
+    "amount": 87.99,
+    "date": "2025-02-23"
+  },
+  {
+    "transactionId": "0d606bd0-67c0-439d-9b12-4d4db04ab830",
+    "customerId": "cust-009",
+    "amount": 30.99,
+    "date": "2025-02-19"
+  },
+  {
+    "transactionId": "5da2500c-777d-452d-a6f3-799181966e2b",
+    "customerId": "cust-009",
+    "amount": 120.99,
+    "date": "2025-02-03"
+  },
+  {
+    "transactionId": "54b5862a-b118-4ace-8b21-e7bd86618807",
+    "customerId": "cust-009",
+    "amount": 245.99,
+    "date": "2025-02-24"
+  },
+  {
+    "transactionId": "c7e8aec0-7e20-4b08-b4e1-43189a578aad",
+    "customerId": "cust-009",
+    "amount": 172.99,
+    "date": "2025-02-05"
+  },
+  {
+    "transactionId": "ef9cabaf-a7d0-4173-a1ec-1c6b6d778b74",
+    "customerId": "cust-009",
+    "amount": 72.99,
+    "date": "2025-03-07"
+  },
+  {
+    "transactionId": "4ca2345c-ef12-4a51-9cb7-a27ebd93cd81",
+    "customerId": "cust-009",
+    "amount": 192.99,
+    "date": "2025-03-10"
+  },
+  {
+    "transactionId": "16f29729-d617-4d09-b286-c3c966019f56",
+    "customerId": "cust-009",
+    "amount": 90.99,
+    "date": "2025-03-16"
+  },
+  {
+    "transactionId": "f405d107-b713-4395-8b6f-1405dac70a8b",
+    "customerId": "cust-009",
+    "amount": 68.99,
+    "date": "2025-03-14"
+  },
+  {
+    "transactionId": "50ed25f4-038b-481d-8e6a-d5f17948df58",
+    "customerId": "cust-009",
+    "amount": 94.99,
+    "date": "2025-03-20"
+  },
+  {
+    "transactionId": "92da3eb2-dd2f-4379-9449-e0fc42b38898",
+    "customerId": "cust-009",
+    "amount": 114.99,
+    "date": "2025-04-09"
+  },
+  {
+    "transactionId": "a42a6d2c-8599-4dc2-a7a5-dfd0469d4d75",
+    "customerId": "cust-009",
+    "amount": 214.99,
+    "date": "2025-04-24"
+  },
+  {
+    "transactionId": "46692c75-b4f5-4431-b0b4-b9a2dd782bc8",
+    "customerId": "cust-009",
+    "amount": 197.99,
+    "date": "2025-04-13"
+  },
+  {
+    "transactionId": "eadc3aa7-d431-46c9-8b46-08d570ee0be5",
+    "customerId": "cust-009",
+    "amount": 51.99,
+    "date": "2025-04-08"
+  },
+  {
+    "transactionId": "1c88b62f-b264-4842-9035-218f5c36c37a",
+    "customerId": "cust-009",
+    "amount": 180.99,
+    "date": "2025-04-07"
+  },
+  {
+    "transactionId": "83dd92fc-8ecc-49d5-a5fb-8361b3ec6b12",
+    "customerId": "cust-009",
+    "amount": 158.99,
+    "date": "2025-05-17"
+  },
+  {
+    "transactionId": "5a779db2-21d6-417c-b0f5-e7dbe522ed8f",
+    "customerId": "cust-009",
+    "amount": 133.99,
+    "date": "2025-05-17"
+  },
+  {
+    "transactionId": "9ad34b51-48c2-4c3d-a28d-0f6bb3e4a322",
+    "customerId": "cust-009",
+    "amount": 149.99,
+    "date": "2025-05-19"
+  },
+  {
+    "transactionId": "571dc953-c545-4ccf-83f9-6010c735834d",
+    "customerId": "cust-009",
+    "amount": 63.99,
+    "date": "2025-05-02"
+  },
+  {
+    "transactionId": "2fb6bcc3-84bc-442f-9460-eb79bb0f4375",
+    "customerId": "cust-009",
+    "amount": 24.99,
+    "date": "2025-05-20"
+  },
+  {
+    "transactionId": "e1e3cc43-ff4b-4f33-a7d7-6c88b908f549",
+    "customerId": "cust-009",
+    "amount": 154.99,
+    "date": "2025-06-18"
+  },
+  {
+    "transactionId": "f8bd4f66-e286-404c-b87f-96cb252c1bfa",
+    "customerId": "cust-009",
+    "amount": 55.99,
+    "date": "2025-06-17"
+  },
+  {
+    "transactionId": "199a50e2-c1d4-49ce-976a-5d9aea1b6dbb",
+    "customerId": "cust-009",
+    "amount": 158.99,
+    "date": "2025-06-28"
+  },
+  {
+    "transactionId": "8be3124f-e274-4aac-9786-fe37e334ebc0",
+    "customerId": "cust-009",
+    "amount": 25.99,
+    "date": "2025-06-03"
+  },
+  {
+    "transactionId": "53e87fa4-b397-49aa-ada5-998eb45f0248",
+    "customerId": "cust-009",
+    "amount": 213.99,
+    "date": "2025-06-09"
+  },
+  {
+    "transactionId": "213ba4d3-4ace-42d4-a398-83c0502ae475",
+    "customerId": "cust-009",
+    "amount": 178.99,
+    "date": "2025-07-14"
+  },
+  {
+    "transactionId": "a7774b4e-50e5-4cb9-8635-1ab7915f984d",
+    "customerId": "cust-009",
+    "amount": 69.99,
+    "date": "2025-07-17"
+  },
+  {
+    "transactionId": "d91d6a8c-3e0d-4e25-97c6-868cda660454",
+    "customerId": "cust-009",
+    "amount": 194.99,
+    "date": "2025-07-07"
+  },
+  {
+    "transactionId": "cb7e6ecd-174c-4e95-81bc-1c272b854ab6",
+    "customerId": "cust-009",
+    "amount": 228.99,
+    "date": "2025-07-04"
+  },
+  {
+    "transactionId": "3409d9ea-d1c2-4f53-8d5b-8fd70d262f59",
+    "customerId": "cust-009",
+    "amount": 238.99,
+    "date": "2025-07-02"
+  },
+  {
+    "transactionId": "b680d9d5-fa2f-4008-9c80-571efdcb4251",
+    "customerId": "cust-009",
+    "amount": 194.99,
+    "date": "2025-08-04"
+  },
+  {
+    "transactionId": "11aeb25b-4fb3-436a-9067-58b10f4a6576",
+    "customerId": "cust-009",
+    "amount": 185.99,
+    "date": "2025-08-23"
+  },
+  {
+    "transactionId": "b40e5000-3656-420d-a2b1-e19f5b10497e",
+    "customerId": "cust-009",
+    "amount": 37.99,
+    "date": "2025-08-12"
+  },
+  {
+    "transactionId": "b3104cd1-c21e-44a0-9b5c-83f363f7dd1d",
+    "customerId": "cust-009",
+    "amount": 181.99,
+    "date": "2025-08-17"
+  },
+  {
+    "transactionId": "97542c1e-4017-4829-80f9-ba45e7e1052f",
+    "customerId": "cust-009",
+    "amount": 143.99,
+    "date": "2025-08-16"
+  },
+  {
+    "transactionId": "173bba5e-d9d4-481a-8db2-3c926cb10f9b",
+    "customerId": "cust-009",
+    "amount": 42.99,
+    "date": "2025-09-21"
+  },
+  {
+    "transactionId": "825dfd6f-b383-44f3-9880-79c56a4a6e48",
+    "customerId": "cust-009",
+    "amount": 67.99,
+    "date": "2025-09-12"
+  },
+  {
+    "transactionId": "8a4e38e5-6079-4dfc-a91a-330dec6dbe09",
+    "customerId": "cust-009",
+    "amount": 140.99,
+    "date": "2025-09-11"
+  },
+  {
+    "transactionId": "b54845a4-42df-47e1-a870-679fce22618c",
+    "customerId": "cust-009",
+    "amount": 179.99,
+    "date": "2025-09-12"
+  },
+  {
+    "transactionId": "51749dbb-786a-4c84-945a-e2d2d9cf7232",
+    "customerId": "cust-009",
+    "amount": 42.99,
+    "date": "2025-09-27"
+  },
+  {
+    "transactionId": "e135ec72-abd7-40a0-8aaa-15dbad270dd2",
+    "customerId": "cust-009",
+    "amount": 63.99,
+    "date": "2025-10-08"
+  },
+  {
+    "transactionId": "205016e6-4b48-46e5-bbb3-2d00c06b3c57",
+    "customerId": "cust-009",
+    "amount": 177.99,
+    "date": "2025-10-24"
+  },
+  {
+    "transactionId": "b4dbb3f4-ff14-4f30-9995-76613c190d14",
+    "customerId": "cust-009",
+    "amount": 34.99,
+    "date": "2025-10-24"
+  },
+  {
+    "transactionId": "58560617-954b-4de1-8ba5-1447b5db864d",
+    "customerId": "cust-009",
+    "amount": 42.99,
+    "date": "2025-10-22"
+  },
+  {
+    "transactionId": "ca9c70b9-80ec-44a9-a7e4-368ff3a8aca0",
+    "customerId": "cust-009",
+    "amount": 57.99,
+    "date": "2025-10-11"
+  },
+  {
+    "transactionId": "aa251eed-13ee-460f-a1ff-921c7cdbc504",
+    "customerId": "cust-009",
+    "amount": 143.99,
+    "date": "2025-11-04"
+  },
+  {
+    "transactionId": "859a4fac-097f-4dd6-8d0e-11bff0dd7560",
+    "customerId": "cust-009",
+    "amount": 172.99,
+    "date": "2025-11-24"
+  },
+  {
+    "transactionId": "8b2a5e60-529f-468e-bee1-b85eeb29ef4c",
+    "customerId": "cust-009",
+    "amount": 238.99,
+    "date": "2025-11-25"
+  },
+  {
+    "transactionId": "92c2c447-d001-4158-af49-1e8bdb78c7a4",
+    "customerId": "cust-009",
+    "amount": 88.99,
+    "date": "2025-11-18"
+  },
+  {
+    "transactionId": "99e9b1fc-ea67-4c38-b579-996578dc3344",
+    "customerId": "cust-009",
+    "amount": 168.99,
+    "date": "2025-11-17"
+  },
+  {
+    "transactionId": "dcf5073c-274c-4844-932e-16441b2aed19",
+    "customerId": "cust-009",
+    "amount": 248.99,
+    "date": "2025-12-08"
+  },
+  {
+    "transactionId": "12771d0d-874c-4aa9-9af6-128b660be939",
+    "customerId": "cust-009",
+    "amount": 220.99,
+    "date": "2025-12-13"
+  },
+  {
+    "transactionId": "8ac5524e-cce6-43db-9fca-65f0ccc99c7e",
+    "customerId": "cust-009",
+    "amount": 142.99,
+    "date": "2025-12-08"
+  },
+  {
+    "transactionId": "21a48bcb-a45b-4d38-b219-ced964e65f9b",
+    "customerId": "cust-009",
+    "amount": 155.99,
+    "date": "2025-12-06"
+  },
+  {
+    "transactionId": "5ecc014b-300b-4cc8-b963-eaa22a922c15",
+    "customerId": "cust-009",
+    "amount": 209.99,
+    "date": "2025-12-08"
+  },
+  {
+    "transactionId": "df3b86c5-0353-4863-ab35-bf2d6288f447",
+    "customerId": "cust-010",
+    "amount": 241.99,
+    "date": "2025-01-24"
+  },
+  {
+    "transactionId": "e85d9eb0-0fb6-48f3-b329-fd04695f7b08",
+    "customerId": "cust-010",
+    "amount": 33.99,
+    "date": "2025-01-09"
+  },
+  {
+    "transactionId": "b49157dd-7038-4be8-84b6-069de9e22add",
+    "customerId": "cust-010",
+    "amount": 25.99,
+    "date": "2025-01-09"
+  },
+  {
+    "transactionId": "7cfc5c41-9e2f-4efe-83ab-e954687b75bd",
+    "customerId": "cust-010",
+    "amount": 248.99,
+    "date": "2025-01-01"
+  },
+  {
+    "transactionId": "89791cfe-4679-4be4-9e85-c44515237d6b",
+    "customerId": "cust-010",
+    "amount": 156.99,
+    "date": "2025-01-08"
+  },
+  {
+    "transactionId": "bc8295f8-4a79-487e-b124-8883d4189e1e",
+    "customerId": "cust-010",
+    "amount": 108.99,
+    "date": "2025-02-16"
+  },
+  {
+    "transactionId": "c3b9104c-8118-4bf2-876a-bfc5632037a5",
+    "customerId": "cust-010",
+    "amount": 145.99,
+    "date": "2025-02-27"
+  },
+  {
+    "transactionId": "9e97e510-9851-49eb-929c-523ed917a273",
+    "customerId": "cust-010",
+    "amount": 150.99,
+    "date": "2025-02-16"
+  },
+  {
+    "transactionId": "779a172a-8679-469e-813d-f70236a897c4",
+    "customerId": "cust-010",
+    "amount": 131.99,
+    "date": "2025-02-04"
+  },
+  {
+    "transactionId": "829d59fc-8272-4566-ac98-16f001f29179",
+    "customerId": "cust-010",
+    "amount": 124.99,
+    "date": "2025-02-05"
+  },
+  {
+    "transactionId": "ff78e41d-b618-4091-8405-018a598ee7ba",
+    "customerId": "cust-010",
+    "amount": 52.99,
+    "date": "2025-03-20"
+  },
+  {
+    "transactionId": "934c656e-f1fe-4805-b60b-53101519255b",
+    "customerId": "cust-010",
+    "amount": 205.99,
+    "date": "2025-03-03"
+  },
+  {
+    "transactionId": "70589df6-1b7d-482f-972d-4dd07dd13d47",
+    "customerId": "cust-010",
+    "amount": 99.99,
+    "date": "2025-03-27"
+  },
+  {
+    "transactionId": "43d7096c-d769-466b-bc00-384a380c509c",
+    "customerId": "cust-010",
+    "amount": 168.99,
+    "date": "2025-03-01"
+  },
+  {
+    "transactionId": "1a38af14-1a89-4d68-8dc2-ebd85c8b936f",
+    "customerId": "cust-010",
+    "amount": 97.99,
+    "date": "2025-03-11"
+  },
+  {
+    "transactionId": "3fce6219-ec71-469b-8da7-c4f4d1e4b89e",
+    "customerId": "cust-010",
+    "amount": 113.99,
+    "date": "2025-04-08"
+  },
+  {
+    "transactionId": "fd006fad-ec12-46e0-88e7-443e974203a8",
+    "customerId": "cust-010",
+    "amount": 215.99,
+    "date": "2025-04-05"
+  },
+  {
+    "transactionId": "7b550cc5-e621-47ff-9642-64926a41d140",
+    "customerId": "cust-010",
+    "amount": 237.99,
+    "date": "2025-04-06"
+  },
+  {
+    "transactionId": "1c37025a-4e7f-4121-9f40-4fecb37a902e",
+    "customerId": "cust-010",
+    "amount": 113.99,
+    "date": "2025-04-06"
+  },
+  {
+    "transactionId": "71d29cc0-67ba-4378-a56b-e12d53dc60b7",
+    "customerId": "cust-010",
+    "amount": 57.99,
+    "date": "2025-04-05"
+  },
+  {
+    "transactionId": "0fe272c1-4833-46be-8d24-c1371b62411d",
+    "customerId": "cust-010",
+    "amount": 208.99,
+    "date": "2025-05-28"
+  },
+  {
+    "transactionId": "e756edfc-500d-4e4c-ad68-980cf0e8144b",
+    "customerId": "cust-010",
+    "amount": 178.99,
+    "date": "2025-05-05"
+  },
+  {
+    "transactionId": "fb38f42a-fff8-43c9-ad87-6eace520bcb9",
+    "customerId": "cust-010",
+    "amount": 167.99,
+    "date": "2025-05-20"
+  },
+  {
+    "transactionId": "ffddc394-ccb1-4165-924e-4c104eb83848",
+    "customerId": "cust-010",
+    "amount": 141.99,
+    "date": "2025-05-12"
+  },
+  {
+    "transactionId": "758ff459-f6ce-4336-9e62-721bdc8e7d7b",
+    "customerId": "cust-010",
+    "amount": 99.99,
+    "date": "2025-05-23"
+  },
+  {
+    "transactionId": "fd0de389-bdee-46d2-8d47-accb9e4613bf",
+    "customerId": "cust-010",
+    "amount": 156.99,
+    "date": "2025-06-05"
+  },
+  {
+    "transactionId": "eacb19bd-ebff-4959-9d90-7442db5cd36a",
+    "customerId": "cust-010",
+    "amount": 31.99,
+    "date": "2025-06-26"
+  },
+  {
+    "transactionId": "d130de08-56e4-4ea2-bfbd-4b5ba5e704b4",
+    "customerId": "cust-010",
+    "amount": 149.99,
+    "date": "2025-06-27"
+  },
+  {
+    "transactionId": "8e6d646f-00b4-4b92-99ed-dad97921c56c",
+    "customerId": "cust-010",
+    "amount": 23.99,
+    "date": "2025-06-10"
+  },
+  {
+    "transactionId": "a6054985-9941-4f02-bfbb-650eb72d7dec",
+    "customerId": "cust-010",
+    "amount": 196.99,
+    "date": "2025-06-23"
+  },
+  {
+    "transactionId": "0046043a-4dce-4afd-812d-5fbca648b981",
+    "customerId": "cust-010",
+    "amount": 217.99,
+    "date": "2025-07-01"
+  },
+  {
+    "transactionId": "a4aac481-7c38-4d39-a77f-168ce55df669",
+    "customerId": "cust-010",
+    "amount": 200.99,
+    "date": "2025-07-19"
+  },
+  {
+    "transactionId": "85a6629d-8616-4784-b04a-d242ad85b89a",
+    "customerId": "cust-010",
+    "amount": 57.99,
+    "date": "2025-07-21"
+  },
+  {
+    "transactionId": "e36e8168-831f-4a24-874e-70ce81dff90d",
+    "customerId": "cust-010",
+    "amount": 39.99,
+    "date": "2025-07-18"
+  },
+  {
+    "transactionId": "f0ea1c27-ae4e-4ffd-976a-3951fba575c6",
+    "customerId": "cust-010",
+    "amount": 54.99,
+    "date": "2025-07-03"
+  },
+  {
+    "transactionId": "65544114-0890-42c2-a6f5-4f6a4bd7cbbd",
+    "customerId": "cust-010",
+    "amount": 116.99,
+    "date": "2025-08-14"
+  },
+  {
+    "transactionId": "ac882644-277b-4321-b0dd-2c8481be44cd",
+    "customerId": "cust-010",
+    "amount": 112.99,
+    "date": "2025-08-21"
+  },
+  {
+    "transactionId": "be6a7408-ebcd-4761-92d4-cfabe35056ee",
+    "customerId": "cust-010",
+    "amount": 92.99,
+    "date": "2025-08-04"
+  },
+  {
+    "transactionId": "043faafe-8d5a-473a-9d68-b487b8096127",
+    "customerId": "cust-010",
+    "amount": 120.99,
+    "date": "2025-08-17"
+  },
+  {
+    "transactionId": "e9d11802-9086-4ae4-9b06-362d49928614",
+    "customerId": "cust-010",
+    "amount": 65.99,
+    "date": "2025-08-08"
+  },
+  {
+    "transactionId": "47a12301-f04b-4364-b6a9-1ee86c29fcfb",
+    "customerId": "cust-010",
+    "amount": 42.99,
+    "date": "2025-09-25"
+  },
+  {
+    "transactionId": "09673c52-00ef-4157-bfa1-27eb1dfa0320",
+    "customerId": "cust-010",
+    "amount": 230.99,
+    "date": "2025-09-25"
+  },
+  {
+    "transactionId": "a7c78d21-4743-4524-81b9-6314b538af70",
+    "customerId": "cust-010",
+    "amount": 231.99,
+    "date": "2025-09-27"
+  },
+  {
+    "transactionId": "fd51e8f8-025d-496f-8d56-9cdfb5e024ae",
+    "customerId": "cust-010",
+    "amount": 108.99,
+    "date": "2025-09-10"
+  },
+  {
+    "transactionId": "1ff2dfb7-619e-443b-9800-5da2af5b506e",
+    "customerId": "cust-010",
+    "amount": 246.99,
+    "date": "2025-09-17"
+  },
+  {
+    "transactionId": "efc39561-d650-429a-b297-8c1e57ae11c6",
+    "customerId": "cust-010",
+    "amount": 21.99,
+    "date": "2025-10-21"
+  },
+  {
+    "transactionId": "66ffa56d-f688-4c9f-9b74-4b1b68d48daf",
+    "customerId": "cust-010",
+    "amount": 28.99,
+    "date": "2025-10-15"
+  },
+  {
+    "transactionId": "9c2733a6-62d7-4120-afe0-e1047ba341df",
+    "customerId": "cust-010",
+    "amount": 239.99,
+    "date": "2025-10-07"
+  },
+  {
+    "transactionId": "b4a0670a-5935-4418-b98d-68fcb17f6696",
+    "customerId": "cust-010",
+    "amount": 140.99,
+    "date": "2025-10-26"
+  },
+  {
+    "transactionId": "40694d56-ea70-4fa0-a0c0-acffe11d37dc",
+    "customerId": "cust-010",
+    "amount": 79.99,
+    "date": "2025-10-22"
+  },
+  {
+    "transactionId": "d774b592-8569-4d2c-a4ca-9b1e42fdd448",
+    "customerId": "cust-010",
+    "amount": 107.99,
+    "date": "2025-11-27"
+  },
+  {
+    "transactionId": "3809472a-6d99-4c44-9ac2-ad67e2cfa0ab",
+    "customerId": "cust-010",
+    "amount": 248.99,
+    "date": "2025-11-03"
+  },
+  {
+    "transactionId": "90118a96-3956-41d4-8726-1e3fff02dace",
+    "customerId": "cust-010",
+    "amount": 158.99,
+    "date": "2025-11-06"
+  },
+  {
+    "transactionId": "ebac4225-fd52-47f0-87fb-feab63baa2d8",
+    "customerId": "cust-010",
+    "amount": 24.99,
+    "date": "2025-11-13"
+  },
+  {
+    "transactionId": "5c2280d1-1491-4fd4-a5ff-03ac25dd72b9",
+    "customerId": "cust-010",
+    "amount": 200.99,
+    "date": "2025-11-02"
+  },
+  {
+    "transactionId": "678dbe36-b085-4a31-bef6-169371b32195",
+    "customerId": "cust-010",
+    "amount": 33.99,
+    "date": "2025-12-10"
+  },
+  {
+    "transactionId": "2481598b-bd2d-4787-b7fd-74be23b7e8e9",
+    "customerId": "cust-010",
+    "amount": 79.99,
+    "date": "2025-12-13"
+  },
+  {
+    "transactionId": "49775a4e-6270-45bf-9d8c-86f3ec8d0fcb",
+    "customerId": "cust-010",
+    "amount": 235.99,
+    "date": "2025-12-15"
+  },
+  {
+    "transactionId": "ee59e4a3-cc4f-4db0-9d61-a12d23dd0195",
+    "customerId": "cust-010",
+    "amount": 143.99,
+    "date": "2025-12-09"
+  },
+  {
+    "transactionId": "609a756e-281f-41f2-82ed-5d51de3c03e0",
+    "customerId": "cust-010",
+    "amount": 198.99,
+    "date": "2025-12-28"
+  },
+  {
+    "transactionId": "70a18e56-75a5-4be4-9d3c-225d7adbbce2",
+    "customerId": "cust-011",
+    "amount": 133.99,
+    "date": "2025-01-15"
+  },
+  {
+    "transactionId": "fb7f59f2-32a5-4b83-8e32-e7e22b26f22b",
+    "customerId": "cust-011",
+    "amount": 113.99,
+    "date": "2025-01-05"
+  },
+  {
+    "transactionId": "ee99b5d1-1513-4908-8361-4ebf15a35d6b",
+    "customerId": "cust-011",
+    "amount": 35.99,
+    "date": "2025-01-24"
+  },
+  {
+    "transactionId": "c240787f-e67b-44df-a281-aacc35d08f1b",
+    "customerId": "cust-011",
+    "amount": 161.99,
+    "date": "2025-01-16"
+  },
+  {
+    "transactionId": "ca73c879-f1b5-4ad0-bb11-f1b37da86953",
+    "customerId": "cust-011",
+    "amount": 91.99,
+    "date": "2025-01-25"
+  },
+  {
+    "transactionId": "922227b1-5ddb-4cd4-baea-17436980552f",
+    "customerId": "cust-011",
+    "amount": 237.99,
+    "date": "2025-02-21"
+  },
+  {
+    "transactionId": "395dcb0e-95e5-42d8-ab4d-aacc14c8041f",
+    "customerId": "cust-011",
+    "amount": 181.99,
+    "date": "2025-02-07"
+  },
+  {
+    "transactionId": "c6e94fb1-1e96-4d05-884c-d35344c9c099",
+    "customerId": "cust-011",
+    "amount": 194.99,
+    "date": "2025-02-09"
+  },
+  {
+    "transactionId": "6f7c6f02-a7e8-42fb-bf67-110d0fcf1af7",
+    "customerId": "cust-011",
+    "amount": 207.99,
+    "date": "2025-02-09"
+  },
+  {
+    "transactionId": "c1adf347-03b5-4bd3-8a98-b76a8dab4ef0",
+    "customerId": "cust-011",
+    "amount": 20.99,
+    "date": "2025-02-25"
+  },
+  {
+    "transactionId": "95954e74-24c1-4977-ac07-23138103a739",
+    "customerId": "cust-011",
+    "amount": 210.99,
+    "date": "2025-03-24"
+  },
+  {
+    "transactionId": "bd26fc91-0f42-4575-96dd-7b4f7510a786",
+    "customerId": "cust-011",
+    "amount": 101.99,
+    "date": "2025-03-04"
+  },
+  {
+    "transactionId": "e4a29d76-fe52-42e8-8a86-4cb81fbc8e03",
+    "customerId": "cust-011",
+    "amount": 36.99,
+    "date": "2025-03-07"
+  },
+  {
+    "transactionId": "777142ee-d529-4f27-b936-4da983ba1135",
+    "customerId": "cust-011",
+    "amount": 200.99,
+    "date": "2025-03-21"
+  },
+  {
+    "transactionId": "2d643d1e-db7e-4769-8f43-a9bb79b0660e",
+    "customerId": "cust-011",
+    "amount": 103.99,
+    "date": "2025-03-02"
+  },
+  {
+    "transactionId": "0b6a61a2-6521-4173-bcfe-28a6d921ce47",
+    "customerId": "cust-011",
+    "amount": 243.99,
+    "date": "2025-04-06"
+  },
+  {
+    "transactionId": "440d5a89-cec7-4b83-a570-da0e2c60bd0f",
+    "customerId": "cust-011",
+    "amount": 172.99,
+    "date": "2025-04-23"
+  },
+  {
+    "transactionId": "b73c75ad-9907-4024-aefa-b32fd66af437",
+    "customerId": "cust-011",
+    "amount": 148.99,
+    "date": "2025-04-12"
+  },
+  {
+    "transactionId": "e873edfd-6ee2-452c-af04-c51419b0037e",
+    "customerId": "cust-011",
+    "amount": 223.99,
+    "date": "2025-04-28"
+  },
+  {
+    "transactionId": "f0e2d4ab-3740-4e2e-ac57-5338706b861d",
+    "customerId": "cust-011",
+    "amount": 109.99,
+    "date": "2025-04-22"
+  },
+  {
+    "transactionId": "99b1e258-51d0-4672-a489-e867064c0b43",
+    "customerId": "cust-011",
+    "amount": 238.99,
+    "date": "2025-05-07"
+  },
+  {
+    "transactionId": "2cfababf-966c-49c5-bd09-670be99d012b",
+    "customerId": "cust-011",
+    "amount": 67.99,
+    "date": "2025-05-14"
+  },
+  {
+    "transactionId": "5fc50eaa-3ace-402d-864a-a84d19867eea",
+    "customerId": "cust-011",
+    "amount": 81.99,
+    "date": "2025-05-15"
+  },
+  {
+    "transactionId": "ca58bda8-0e41-4271-8719-7bab7ad273f0",
+    "customerId": "cust-011",
+    "amount": 148.99,
+    "date": "2025-05-06"
+  },
+  {
+    "transactionId": "7daad1d6-fb25-451c-87f7-fce6d3481ba2",
+    "customerId": "cust-011",
+    "amount": 162.99,
+    "date": "2025-05-03"
+  },
+  {
+    "transactionId": "50a18bb6-4a37-4fe1-958d-e29a2cef7e04",
+    "customerId": "cust-011",
+    "amount": 162.99,
+    "date": "2025-06-24"
+  },
+  {
+    "transactionId": "7799ac73-33d7-4615-96b5-b2a73a7c22c3",
+    "customerId": "cust-011",
+    "amount": 20.99,
+    "date": "2025-06-15"
+  },
+  {
+    "transactionId": "b77eb114-366e-462b-941b-35bda8d4b5c5",
+    "customerId": "cust-011",
+    "amount": 74.99,
+    "date": "2025-06-27"
+  },
+  {
+    "transactionId": "c1076df8-71e1-4576-9ead-39484253a579",
+    "customerId": "cust-011",
+    "amount": 209.99,
+    "date": "2025-06-27"
+  },
+  {
+    "transactionId": "3e427d68-4d17-4eac-a8ae-d0b70b1b8475",
+    "customerId": "cust-011",
+    "amount": 191.99,
+    "date": "2025-06-03"
+  },
+  {
+    "transactionId": "8ffe1244-5c88-4432-b3c6-b27ad40614b3",
+    "customerId": "cust-011",
+    "amount": 222.99,
+    "date": "2025-07-16"
+  },
+  {
+    "transactionId": "25ec391d-f0f1-4a40-8d82-f6d106a60a00",
+    "customerId": "cust-011",
+    "amount": 106.99,
+    "date": "2025-07-06"
+  },
+  {
+    "transactionId": "4c0e4030-26cd-437d-b464-5035cd64e290",
+    "customerId": "cust-011",
+    "amount": 64.99,
+    "date": "2025-07-03"
+  },
+  {
+    "transactionId": "8ec4eb5b-2efc-405d-8ce8-ea3462d3b19d",
+    "customerId": "cust-011",
+    "amount": 91.99,
+    "date": "2025-07-06"
+  },
+  {
+    "transactionId": "6910059e-7534-49b9-b8fe-0352fadfb4ee",
+    "customerId": "cust-011",
+    "amount": 55.99,
+    "date": "2025-07-19"
+  },
+  {
+    "transactionId": "57fe3b51-8bd7-41a8-b7cd-c66e89447530",
+    "customerId": "cust-011",
+    "amount": 244.99,
+    "date": "2025-08-28"
+  },
+  {
+    "transactionId": "17615241-f54e-4cd2-b37f-09e064a47d98",
+    "customerId": "cust-011",
+    "amount": 200.99,
+    "date": "2025-08-20"
+  },
+  {
+    "transactionId": "de98f139-77b9-493a-822c-59d82f6c08ec",
+    "customerId": "cust-011",
+    "amount": 55.99,
+    "date": "2025-08-02"
+  },
+  {
+    "transactionId": "4decd2d3-134f-4914-acd8-306caa842853",
+    "customerId": "cust-011",
+    "amount": 83.99,
+    "date": "2025-08-03"
+  },
+  {
+    "transactionId": "55673746-434e-4eeb-8327-059b723f2e1d",
+    "customerId": "cust-011",
+    "amount": 34.99,
+    "date": "2025-08-17"
+  },
+  {
+    "transactionId": "8b05f21b-94ca-497c-a3c4-a5395ed597c3",
+    "customerId": "cust-011",
+    "amount": 229.99,
+    "date": "2025-09-17"
+  },
+  {
+    "transactionId": "935b3f52-c826-4e4f-ab79-80e61bd4ea44",
+    "customerId": "cust-011",
+    "amount": 129.99,
+    "date": "2025-09-27"
+  },
+  {
+    "transactionId": "9dd4a426-ff3c-4560-be6b-a57de6161b1b",
+    "customerId": "cust-011",
+    "amount": 100.99,
+    "date": "2025-09-08"
+  },
+  {
+    "transactionId": "110d2756-62fe-4a84-a409-7443336fc2f5",
+    "customerId": "cust-011",
+    "amount": 78.99,
+    "date": "2025-09-15"
+  },
+  {
+    "transactionId": "715fb7f4-ab73-47f4-9c25-2ff8f2ac605b",
+    "customerId": "cust-011",
+    "amount": 93.99,
+    "date": "2025-09-07"
+  },
+  {
+    "transactionId": "c1d1243c-f10e-4e22-88be-c687a7e89019",
+    "customerId": "cust-011",
+    "amount": 183.99,
+    "date": "2025-10-27"
+  },
+  {
+    "transactionId": "162e3877-001e-4214-94cc-a197503c2194",
+    "customerId": "cust-011",
+    "amount": 112.99,
+    "date": "2025-10-11"
+  },
+  {
+    "transactionId": "af3044fc-5861-4f78-8cb7-5b8a4eb65e49",
+    "customerId": "cust-011",
+    "amount": 227.99,
+    "date": "2025-10-19"
+  },
+  {
+    "transactionId": "2cc1c9ae-3f6d-410c-aa48-c3be56f90d69",
+    "customerId": "cust-011",
+    "amount": 241.99,
+    "date": "2025-10-14"
+  },
+  {
+    "transactionId": "ecf5c16f-3ad5-46fe-b3cc-d8d12831fa92",
+    "customerId": "cust-011",
+    "amount": 246.99,
+    "date": "2025-10-05"
+  },
+  {
+    "transactionId": "412deb6f-cae6-4ee9-ad6e-45e38092478b",
+    "customerId": "cust-011",
+    "amount": 28.99,
+    "date": "2025-11-09"
+  },
+  {
+    "transactionId": "60cb2b5c-22d7-4e34-a7e9-c809dd5e1eea",
+    "customerId": "cust-011",
+    "amount": 90.99,
+    "date": "2025-11-17"
+  },
+  {
+    "transactionId": "20c5dc8c-02db-4acf-b55d-a51d45e66c6b",
+    "customerId": "cust-011",
+    "amount": 135.99,
+    "date": "2025-11-18"
+  },
+  {
+    "transactionId": "89364c0e-1429-4ea7-bf2c-13d2372e36c3",
+    "customerId": "cust-011",
+    "amount": 99.99,
+    "date": "2025-11-14"
+  },
+  {
+    "transactionId": "fa8d2a18-f980-44d9-a013-ecbfea1efb17",
+    "customerId": "cust-011",
+    "amount": 79.99,
+    "date": "2025-11-11"
+  },
+  {
+    "transactionId": "e4510df8-e784-440c-9b7c-f0a2c253adef",
+    "customerId": "cust-011",
+    "amount": 228.99,
+    "date": "2025-12-07"
+  },
+  {
+    "transactionId": "fcc2814d-51a5-46a5-abb5-c54346ce6849",
+    "customerId": "cust-011",
+    "amount": 29.99,
+    "date": "2025-12-09"
+  },
+  {
+    "transactionId": "09927713-81d3-4993-ae71-e8dbaf233f6d",
+    "customerId": "cust-011",
+    "amount": 56.99,
+    "date": "2025-12-03"
+  },
+  {
+    "transactionId": "f8f2108b-7678-4ea1-a541-ba62b6e6c037",
+    "customerId": "cust-011",
+    "amount": 161.99,
+    "date": "2025-12-13"
+  },
+  {
+    "transactionId": "279f7981-b3f1-4075-acbf-cbe490836213",
+    "customerId": "cust-011",
+    "amount": 219.99,
+    "date": "2025-12-14"
+  },
+  {
+    "transactionId": "92b8e2a1-4fbe-4898-bd64-d3fd7b0a1fab",
+    "customerId": "cust-012",
+    "amount": 175.99,
+    "date": "2025-01-15"
+  },
+  {
+    "transactionId": "904b7d20-1c3b-4b53-b51c-8b00914839c9",
+    "customerId": "cust-012",
+    "amount": 210.99,
+    "date": "2025-01-26"
+  },
+  {
+    "transactionId": "e0a62914-ab5d-4b19-bde6-e2d4ecdfe219",
+    "customerId": "cust-012",
+    "amount": 245.99,
+    "date": "2025-01-07"
+  },
+  {
+    "transactionId": "59a99542-eaab-4b63-bd2d-7229071f60c3",
+    "customerId": "cust-012",
+    "amount": 117.99,
+    "date": "2025-01-23"
+  },
+  {
+    "transactionId": "e7c86027-a561-475b-93c6-cd969f995c1c",
+    "customerId": "cust-012",
+    "amount": 30.99,
+    "date": "2025-01-09"
+  },
+  {
+    "transactionId": "e5d10037-8938-40f6-aecd-5d3ff7feedc5",
+    "customerId": "cust-012",
+    "amount": 165.99,
+    "date": "2025-02-07"
+  },
+  {
+    "transactionId": "0a63a8f0-d2f8-442b-9cac-62163cf1b1aa",
+    "customerId": "cust-012",
+    "amount": 237.99,
+    "date": "2025-02-21"
+  },
+  {
+    "transactionId": "8124b7d2-99af-4524-921e-13644c69fd83",
+    "customerId": "cust-012",
+    "amount": 68.99,
+    "date": "2025-02-13"
+  },
+  {
+    "transactionId": "51eabcd2-57f6-4f4d-ba13-a6bf6b476c1e",
+    "customerId": "cust-012",
+    "amount": 223.99,
+    "date": "2025-02-02"
+  },
+  {
+    "transactionId": "b3640ff7-b2c5-4b18-8da2-0c2b697e27f1",
+    "customerId": "cust-012",
+    "amount": 195.99,
+    "date": "2025-02-06"
+  },
+  {
+    "transactionId": "febf2e3e-98e4-42ba-bac0-d09f3045f9ce",
+    "customerId": "cust-012",
+    "amount": 150.99,
+    "date": "2025-03-16"
+  },
+  {
+    "transactionId": "05251a79-bf51-410e-8b9b-b62fd9ec5832",
+    "customerId": "cust-012",
+    "amount": 80.99,
+    "date": "2025-03-11"
+  },
+  {
+    "transactionId": "14efb975-cbdf-4f09-ad0e-b96b16a24f63",
+    "customerId": "cust-012",
+    "amount": 104.99,
+    "date": "2025-03-21"
+  },
+  {
+    "transactionId": "25288805-7c92-4b7b-95ef-29d55a4a7d9d",
+    "customerId": "cust-012",
+    "amount": 32.99,
+    "date": "2025-03-19"
+  },
+  {
+    "transactionId": "4d0512dc-fc68-4342-a674-2a0a1dc94740",
+    "customerId": "cust-012",
+    "amount": 203.99,
+    "date": "2025-03-13"
+  },
+  {
+    "transactionId": "53362193-b16b-4e20-88ab-6f1929cf3330",
+    "customerId": "cust-012",
+    "amount": 126.99,
+    "date": "2025-04-11"
+  },
+  {
+    "transactionId": "2ff82454-dfe0-49f3-a846-fd520b403ee9",
+    "customerId": "cust-012",
+    "amount": 155.99,
+    "date": "2025-04-27"
+  },
+  {
+    "transactionId": "96cd24e1-4865-4c9c-8a6b-8d43dc6acf41",
+    "customerId": "cust-012",
+    "amount": 90.99,
+    "date": "2025-04-24"
+  },
+  {
+    "transactionId": "ddb2cfdf-af28-404b-ae4c-dbf78b71874b",
+    "customerId": "cust-012",
+    "amount": 71.99,
+    "date": "2025-04-10"
+  },
+  {
+    "transactionId": "b169da13-11aa-4f33-887f-e1639a1e2548",
+    "customerId": "cust-012",
+    "amount": 60.99,
+    "date": "2025-04-27"
+  },
+  {
+    "transactionId": "860ff31f-9e19-4e6d-a18c-ccb6630da8d4",
+    "customerId": "cust-012",
+    "amount": 126.99,
+    "date": "2025-05-02"
+  },
+  {
+    "transactionId": "f3c461e4-c71d-46fa-9955-c5d7a55dbbd7",
+    "customerId": "cust-012",
+    "amount": 228.99,
+    "date": "2025-05-11"
+  },
+  {
+    "transactionId": "8e47c5de-198b-4e3d-8bfa-dcfe20ce0cc8",
+    "customerId": "cust-012",
+    "amount": 62.99,
+    "date": "2025-05-19"
+  },
+  {
+    "transactionId": "95c0d0a3-31b4-4469-87a3-612506aba596",
+    "customerId": "cust-012",
+    "amount": 47.99,
+    "date": "2025-05-07"
+  },
+  {
+    "transactionId": "96e36eec-41c1-48b8-845c-b92f8efee1c4",
+    "customerId": "cust-012",
+    "amount": 213.99,
+    "date": "2025-05-08"
+  },
+  {
+    "transactionId": "9b095464-3836-420a-b5bc-7a0c10bd2e3f",
+    "customerId": "cust-012",
+    "amount": 81.99,
+    "date": "2025-06-08"
+  },
+  {
+    "transactionId": "49f58bbf-b2b7-42ba-9353-8aeea462c828",
+    "customerId": "cust-012",
+    "amount": 134.99,
+    "date": "2025-06-02"
+  },
+  {
+    "transactionId": "f7e9c67d-b6f9-4694-ad48-f1cb6b3ce231",
+    "customerId": "cust-012",
+    "amount": 180.99,
+    "date": "2025-06-15"
+  },
+  {
+    "transactionId": "c3191ca5-b876-4b25-9728-d02b9af1a4be",
+    "customerId": "cust-012",
+    "amount": 93.99,
+    "date": "2025-06-02"
+  },
+  {
+    "transactionId": "a9481c2c-f1c1-4136-81c0-d0d99f7402fc",
+    "customerId": "cust-012",
+    "amount": 92.99,
+    "date": "2025-06-19"
+  },
+  {
+    "transactionId": "8f3b3edd-e661-4ca0-bb53-f9ad0fec1077",
+    "customerId": "cust-012",
+    "amount": 24.99,
+    "date": "2025-07-11"
+  },
+  {
+    "transactionId": "6bf0a0d2-45d2-46a4-aa21-2f30f26340ad",
+    "customerId": "cust-012",
+    "amount": 27.99,
+    "date": "2025-07-06"
+  },
+  {
+    "transactionId": "63de1454-cfde-4e51-8ed3-37c2a61fb495",
+    "customerId": "cust-012",
+    "amount": 191.99,
+    "date": "2025-07-23"
+  },
+  {
+    "transactionId": "38a6bfcf-f54d-4f04-8af3-79781c6d18fa",
+    "customerId": "cust-012",
+    "amount": 191.99,
+    "date": "2025-07-06"
+  },
+  {
+    "transactionId": "ba20f21e-b007-48e6-a99f-a4ef7157a8c9",
+    "customerId": "cust-012",
+    "amount": 222.99,
+    "date": "2025-07-08"
+  },
+  {
+    "transactionId": "fc31111a-a895-478c-9ca2-776e286e46d2",
+    "customerId": "cust-012",
+    "amount": 175.99,
+    "date": "2025-08-04"
+  },
+  {
+    "transactionId": "8ca8de1e-0e41-46f5-9123-01d8bc7ea88c",
+    "customerId": "cust-012",
+    "amount": 87.99,
+    "date": "2025-08-04"
+  },
+  {
+    "transactionId": "9811cfdc-fca2-4430-8fd6-73b3aafa593c",
+    "customerId": "cust-012",
+    "amount": 48.99,
+    "date": "2025-08-16"
+  },
+  {
+    "transactionId": "8dffeb73-8f32-41aa-9fd7-f06812b675ce",
+    "customerId": "cust-012",
+    "amount": 39.99,
+    "date": "2025-08-16"
+  },
+  {
+    "transactionId": "8758dc60-9841-4900-b658-4176068d2832",
+    "customerId": "cust-012",
+    "amount": 228.99,
+    "date": "2025-08-22"
+  },
+  {
+    "transactionId": "a4f3f165-1bef-402b-8b4e-07c1614ff466",
+    "customerId": "cust-012",
+    "amount": 182.99,
+    "date": "2025-09-05"
+  },
+  {
+    "transactionId": "31fbf7f6-7c2e-4a26-a613-14bed9ba2c54",
+    "customerId": "cust-012",
+    "amount": 107.99,
+    "date": "2025-09-14"
+  },
+  {
+    "transactionId": "13ac3bad-e70b-4906-9f0c-6bdbf26cafe5",
+    "customerId": "cust-012",
+    "amount": 181.99,
+    "date": "2025-09-22"
+  },
+  {
+    "transactionId": "b2cfd1c2-3403-4e75-996f-e47e3138e3a6",
+    "customerId": "cust-012",
+    "amount": 109.99,
+    "date": "2025-09-09"
+  },
+  {
+    "transactionId": "1458b4a6-2d49-4b84-b68f-48bb7d972a43",
+    "customerId": "cust-012",
+    "amount": 50.99,
+    "date": "2025-09-18"
+  },
+  {
+    "transactionId": "c554f0a1-7b93-4d78-83c0-e973bc850593",
+    "customerId": "cust-012",
+    "amount": 169.99,
+    "date": "2025-10-05"
+  },
+  {
+    "transactionId": "8abe5a1c-5fb7-4d98-9431-d8f2943a7e64",
+    "customerId": "cust-012",
+    "amount": 145.99,
+    "date": "2025-10-21"
+  },
+  {
+    "transactionId": "ba1eca2d-3a42-43a0-a567-ef38ea44ea86",
+    "customerId": "cust-012",
+    "amount": 217.99,
+    "date": "2025-10-24"
+  },
+  {
+    "transactionId": "f45ed53d-af91-4d36-85f6-2592f70aaf7f",
+    "customerId": "cust-012",
+    "amount": 206.99,
+    "date": "2025-10-19"
+  },
+  {
+    "transactionId": "57d6f1fd-c8d3-45f6-91e1-a6eb5278090f",
+    "customerId": "cust-012",
+    "amount": 120.99,
+    "date": "2025-10-07"
+  },
+  {
+    "transactionId": "bb6cb611-395c-4e3d-bc35-b7ceb77929f8",
+    "customerId": "cust-012",
+    "amount": 168.99,
+    "date": "2025-11-01"
+  },
+  {
+    "transactionId": "56046253-1f37-4b42-a96d-ecc52e107451",
+    "customerId": "cust-012",
+    "amount": 161.99,
+    "date": "2025-11-03"
+  },
+  {
+    "transactionId": "0c2dd85e-74dc-41b1-a9be-e29cafda7d2b",
+    "customerId": "cust-012",
+    "amount": 40.99,
+    "date": "2025-11-23"
+  },
+  {
+    "transactionId": "dac09894-35b9-48d6-9365-8ff367198c28",
+    "customerId": "cust-012",
+    "amount": 150.99,
+    "date": "2025-11-13"
+  },
+  {
+    "transactionId": "d18a771f-ed39-40bc-85bd-4aedfbbe3198",
+    "customerId": "cust-012",
+    "amount": 112.99,
+    "date": "2025-11-10"
+  },
+  {
+    "transactionId": "2a09645e-e280-4890-800d-a6724367aa31",
+    "customerId": "cust-012",
+    "amount": 190.99,
+    "date": "2025-12-01"
+  },
+  {
+    "transactionId": "0e711056-4a04-4f6b-ab97-e3bf8bc4b68e",
+    "customerId": "cust-012",
+    "amount": 210.99,
+    "date": "2025-12-07"
+  },
+  {
+    "transactionId": "d8ea301a-5cf4-446f-a6f5-33efb0831e17",
+    "customerId": "cust-012",
+    "amount": 196.99,
+    "date": "2025-12-19"
+  },
+  {
+    "transactionId": "5dd43e2d-0231-4aed-bc18-de5581df2058",
+    "customerId": "cust-012",
+    "amount": 59.99,
+    "date": "2025-12-13"
+  },
+  {
+    "transactionId": "3a3e8e29-aad5-4723-8635-3f1e947a95fb",
+    "customerId": "cust-012",
+    "amount": 182.99,
+    "date": "2025-12-06"
+  },
+  {
+    "transactionId": "b1b2cedc-1491-43b4-b5a0-15da77d24a8a",
+    "customerId": "cust-013",
+    "amount": 163.99,
+    "date": "2025-01-10"
+  },
+  {
+    "transactionId": "22361cd9-c750-43b9-9ab5-8e569bb19276",
+    "customerId": "cust-013",
+    "amount": 102.99,
+    "date": "2025-01-22"
+  },
+  {
+    "transactionId": "a3e3bbfb-dfcc-4c81-8fbc-6d8ecfc94009",
+    "customerId": "cust-013",
+    "amount": 107.99,
+    "date": "2025-01-10"
+  },
+  {
+    "transactionId": "769e7867-14b1-4430-9b68-d82396beeb20",
+    "customerId": "cust-013",
+    "amount": 145.99,
+    "date": "2025-01-10"
+  },
+  {
+    "transactionId": "45988b52-baf8-4f4d-b397-7584616290dc",
+    "customerId": "cust-013",
+    "amount": 218.99,
+    "date": "2025-01-13"
+  },
+  {
+    "transactionId": "8b330e07-bbd9-470f-908a-d90608d81696",
+    "customerId": "cust-013",
+    "amount": 242.99,
+    "date": "2025-02-24"
+  },
+  {
+    "transactionId": "326160ac-b38a-4732-a5e9-68cc22e836ba",
+    "customerId": "cust-013",
+    "amount": 228.99,
+    "date": "2025-02-13"
+  },
+  {
+    "transactionId": "2bc5a5bb-29e2-435b-9c5a-37b504a4d3fe",
+    "customerId": "cust-013",
+    "amount": 105.99,
+    "date": "2025-02-25"
+  },
+  {
+    "transactionId": "eecd6750-cb22-468e-b07b-4f4e28148f1b",
+    "customerId": "cust-013",
+    "amount": 164.99,
+    "date": "2025-02-15"
+  },
+  {
+    "transactionId": "a14e6051-6d15-4199-b368-a0641410b425",
+    "customerId": "cust-013",
+    "amount": 92.99,
+    "date": "2025-02-28"
+  },
+  {
+    "transactionId": "05488dcd-fe4e-4edc-9faf-8ad76e7015ba",
+    "customerId": "cust-013",
+    "amount": 144.99,
+    "date": "2025-03-26"
+  },
+  {
+    "transactionId": "f69a687e-63ea-4a0f-9c31-1d2c0528daa6",
+    "customerId": "cust-013",
+    "amount": 218.99,
+    "date": "2025-03-23"
+  },
+  {
+    "transactionId": "b4ea742f-4df5-429e-a2dd-8f2736df3f95",
+    "customerId": "cust-013",
+    "amount": 84.99,
+    "date": "2025-03-25"
+  },
+  {
+    "transactionId": "34e08dd1-1dad-483f-9c43-6311544620fe",
+    "customerId": "cust-013",
+    "amount": 133.99,
+    "date": "2025-03-01"
+  },
+  {
+    "transactionId": "7c38e4a4-45f8-4d55-84a4-d092d3e11895",
+    "customerId": "cust-013",
+    "amount": 90.99,
+    "date": "2025-03-18"
+  },
+  {
+    "transactionId": "7999241f-5726-409a-bfd9-e51e083b1f4a",
+    "customerId": "cust-013",
+    "amount": 171.99,
+    "date": "2025-04-18"
+  },
+  {
+    "transactionId": "a37b8b87-b80c-431f-97d1-b5a2a9b9da51",
+    "customerId": "cust-013",
+    "amount": 102.99,
+    "date": "2025-04-24"
+  },
+  {
+    "transactionId": "97f9ccd3-29de-425c-9b7d-0d2838e1daab",
+    "customerId": "cust-013",
+    "amount": 122.99,
+    "date": "2025-04-09"
+  },
+  {
+    "transactionId": "8e61838f-ffdb-4acb-bc54-1e257c3aa70f",
+    "customerId": "cust-013",
+    "amount": 175.99,
+    "date": "2025-04-03"
+  },
+  {
+    "transactionId": "2edab814-6cba-417e-a890-ce4c3b5f6ca4",
+    "customerId": "cust-013",
+    "amount": 93.99,
+    "date": "2025-04-08"
+  },
+  {
+    "transactionId": "f181d011-fd7f-494a-9e33-a99a9e9ecc74",
+    "customerId": "cust-013",
+    "amount": 187.99,
+    "date": "2025-05-15"
+  },
+  {
+    "transactionId": "3e3bdc32-2729-4765-84c2-e0eab5a9e8e7",
+    "customerId": "cust-013",
+    "amount": 217.99,
+    "date": "2025-05-20"
+  },
+  {
+    "transactionId": "a1991133-acf9-41a8-b199-c0900dc6687f",
+    "customerId": "cust-013",
+    "amount": 49.99,
+    "date": "2025-05-07"
+  },
+  {
+    "transactionId": "817c2365-ac09-4d6c-9c09-afb119a152e4",
+    "customerId": "cust-013",
+    "amount": 189.99,
+    "date": "2025-05-06"
+  },
+  {
+    "transactionId": "dda76606-2fad-411e-801e-a1941ee3c387",
+    "customerId": "cust-013",
+    "amount": 26.99,
+    "date": "2025-05-14"
+  },
+  {
+    "transactionId": "61fc3ec6-dc1c-4711-87bd-70d5ec117625",
+    "customerId": "cust-013",
+    "amount": 29.99,
+    "date": "2025-06-05"
+  },
+  {
+    "transactionId": "5ef8d94c-627d-484b-8087-aab90f71546c",
+    "customerId": "cust-013",
+    "amount": 108.99,
+    "date": "2025-06-09"
+  },
+  {
+    "transactionId": "5e7d3e91-8944-4250-b5e9-b8af91975191",
+    "customerId": "cust-013",
+    "amount": 247.99,
+    "date": "2025-06-25"
+  },
+  {
+    "transactionId": "3085a0ed-99d3-4eaf-93e4-878401d2efb8",
+    "customerId": "cust-013",
+    "amount": 71.99,
+    "date": "2025-06-16"
+  },
+  {
+    "transactionId": "41a679e4-422e-45c5-8c09-2642e7d35a87",
+    "customerId": "cust-013",
+    "amount": 205.99,
+    "date": "2025-06-21"
+  },
+  {
+    "transactionId": "83886208-e6c9-4fb0-951d-ede101dbdbc3",
+    "customerId": "cust-013",
+    "amount": 133.99,
+    "date": "2025-07-24"
+  },
+  {
+    "transactionId": "82ea334b-6909-4cc6-b7f4-530d9ec9cb85",
+    "customerId": "cust-013",
+    "amount": 80.99,
+    "date": "2025-07-23"
+  },
+  {
+    "transactionId": "78a1b432-d357-4476-94af-ecd503e92a12",
+    "customerId": "cust-013",
+    "amount": 45.99,
+    "date": "2025-07-19"
+  },
+  {
+    "transactionId": "257488b6-d2f0-431e-a6fb-b17a70b6c172",
+    "customerId": "cust-013",
+    "amount": 165.99,
+    "date": "2025-07-24"
+  },
+  {
+    "transactionId": "5cbd1a29-8ea8-4a72-9379-6438cd041014",
+    "customerId": "cust-013",
+    "amount": 41.99,
+    "date": "2025-07-04"
+  },
+  {
+    "transactionId": "55c1b75a-dd05-4c07-8bfb-fd901ff41a4f",
+    "customerId": "cust-013",
+    "amount": 20.99,
+    "date": "2025-08-19"
+  },
+  {
+    "transactionId": "c4aa198a-3d40-4f23-8f35-94a594932def",
+    "customerId": "cust-013",
+    "amount": 238.99,
+    "date": "2025-08-02"
+  },
+  {
+    "transactionId": "50748763-e05b-4c9a-8864-5ba5102b76a6",
+    "customerId": "cust-013",
+    "amount": 98.99,
+    "date": "2025-08-16"
+  },
+  {
+    "transactionId": "5b73b699-1600-42ca-a065-c8c1db0e5f58",
+    "customerId": "cust-013",
+    "amount": 122.99,
+    "date": "2025-08-10"
+  },
+  {
+    "transactionId": "d8fcd054-9322-4e42-b0fa-fa320beb7cd2",
+    "customerId": "cust-013",
+    "amount": 63.99,
+    "date": "2025-08-20"
+  },
+  {
+    "transactionId": "9970edf2-14ac-44c2-a0c3-cb9b69e14dd4",
+    "customerId": "cust-013",
+    "amount": 124.99,
+    "date": "2025-09-21"
+  },
+  {
+    "transactionId": "821d124e-f884-46c9-a778-9acffc3b7f0e",
+    "customerId": "cust-013",
+    "amount": 237.99,
+    "date": "2025-09-18"
+  },
+  {
+    "transactionId": "fe5fc92e-a1af-445b-91df-516b7eaf8ede",
+    "customerId": "cust-013",
+    "amount": 32.99,
+    "date": "2025-09-28"
+  },
+  {
+    "transactionId": "318e4aa1-afe5-424e-95ff-1f3677d28948",
+    "customerId": "cust-013",
+    "amount": 199.99,
+    "date": "2025-09-06"
+  },
+  {
+    "transactionId": "d632b87a-0ba1-4c95-a81f-a1e3e839762b",
+    "customerId": "cust-013",
+    "amount": 93.99,
+    "date": "2025-09-19"
+  },
+  {
+    "transactionId": "74b405d9-87fa-4651-abe2-6a3689f4026c",
+    "customerId": "cust-013",
+    "amount": 155.99,
+    "date": "2025-10-24"
+  },
+  {
+    "transactionId": "5276b807-f0ea-47b8-b314-f96c9efd375b",
+    "customerId": "cust-013",
+    "amount": 56.99,
+    "date": "2025-10-02"
+  },
+  {
+    "transactionId": "db661a26-b20c-418f-8506-7b53a6a23b6d",
+    "customerId": "cust-013",
+    "amount": 20.99,
+    "date": "2025-10-25"
+  },
+  {
+    "transactionId": "239d83de-5bab-42a3-ad19-b03fe1e2a8fc",
+    "customerId": "cust-013",
+    "amount": 166.99,
+    "date": "2025-10-01"
+  },
+  {
+    "transactionId": "67202237-b52d-4f25-ad91-82c058963027",
+    "customerId": "cust-013",
+    "amount": 175.99,
+    "date": "2025-10-28"
+  },
+  {
+    "transactionId": "fa6d25c2-4564-4601-81a4-1ca15cca4304",
+    "customerId": "cust-013",
+    "amount": 216.99,
+    "date": "2025-11-25"
+  },
+  {
+    "transactionId": "712589be-6fb9-49ee-9b16-117c39435e86",
+    "customerId": "cust-013",
+    "amount": 222.99,
+    "date": "2025-11-11"
+  },
+  {
+    "transactionId": "130b7c32-c747-4ce9-8eb1-f7027c20022f",
+    "customerId": "cust-013",
+    "amount": 149.99,
+    "date": "2025-11-01"
+  },
+  {
+    "transactionId": "bdbaf1b4-e605-43ec-bb54-388a6820244d",
+    "customerId": "cust-013",
+    "amount": 218.99,
+    "date": "2025-11-28"
+  },
+  {
+    "transactionId": "0d711cc5-692c-4be1-a66e-975e84c43aca",
+    "customerId": "cust-013",
+    "amount": 173.99,
+    "date": "2025-11-28"
+  },
+  {
+    "transactionId": "990b227e-87c0-4501-ae94-ce6c1718fdb0",
+    "customerId": "cust-013",
+    "amount": 203.99,
+    "date": "2025-12-17"
+  },
+  {
+    "transactionId": "0c96d71b-7659-4d73-a9e2-24dd845bacf8",
+    "customerId": "cust-013",
+    "amount": 172.99,
+    "date": "2025-12-19"
+  },
+  {
+    "transactionId": "9f866d8e-8181-4f49-9b82-522a5d0a70a3",
+    "customerId": "cust-013",
+    "amount": 183.99,
+    "date": "2025-12-10"
+  },
+  {
+    "transactionId": "9c0d53f0-1d27-4de4-86ec-5d865a32e8e8",
+    "customerId": "cust-013",
+    "amount": 228.99,
+    "date": "2025-12-11"
+  },
+  {
+    "transactionId": "89d5b815-d9a3-4346-b7a4-8e9840a6b689",
+    "customerId": "cust-013",
+    "amount": 80.99,
+    "date": "2025-12-11"
+  },
+  {
+    "transactionId": "dff46760-aafd-410c-b5bf-0e576af7b7dd",
+    "customerId": "cust-014",
+    "amount": 51.99,
+    "date": "2025-01-16"
+  },
+  {
+    "transactionId": "0e7c353a-0f22-4658-9183-5f03c1b72942",
+    "customerId": "cust-014",
+    "amount": 215.99,
+    "date": "2025-01-01"
+  },
+  {
+    "transactionId": "8d14e0d9-dcb0-466b-a53f-0962cf5abf34",
+    "customerId": "cust-014",
+    "amount": 112.99,
+    "date": "2025-01-02"
+  },
+  {
+    "transactionId": "d947d508-6fc5-4f21-84dd-e54fa53c7e44",
+    "customerId": "cust-014",
+    "amount": 171.99,
+    "date": "2025-01-20"
+  },
+  {
+    "transactionId": "0b753005-2c8d-4995-a3d9-d862e82bb446",
+    "customerId": "cust-014",
+    "amount": 20.99,
+    "date": "2025-01-10"
+  },
+  {
+    "transactionId": "36d5c501-07c4-4cf0-9961-181c5b1ab23f",
+    "customerId": "cust-014",
+    "amount": 140.99,
+    "date": "2025-02-09"
+  },
+  {
+    "transactionId": "2656f548-50ab-46b2-b253-437a06992bad",
+    "customerId": "cust-014",
+    "amount": 219.99,
+    "date": "2025-02-15"
+  },
+  {
+    "transactionId": "1d55b5a8-2314-4e65-a443-c40b2fb3e5e1",
+    "customerId": "cust-014",
+    "amount": 113.99,
+    "date": "2025-02-20"
+  },
+  {
+    "transactionId": "4348391b-19e4-45d3-ae01-83c16915f2e8",
+    "customerId": "cust-014",
+    "amount": 59.99,
+    "date": "2025-02-23"
+  },
+  {
+    "transactionId": "0d2eea38-5f50-48d4-ae1f-1bd3d268f5a9",
+    "customerId": "cust-014",
+    "amount": 93.99,
+    "date": "2025-02-01"
+  },
+  {
+    "transactionId": "0b1acf13-d35e-4603-a371-e2983faba1e7",
+    "customerId": "cust-014",
+    "amount": 191.99,
+    "date": "2025-03-27"
+  },
+  {
+    "transactionId": "ec60b353-a68f-4d9a-9d83-b191e227b198",
+    "customerId": "cust-014",
+    "amount": 58.99,
+    "date": "2025-03-07"
+  },
+  {
+    "transactionId": "f0247be5-a351-4446-afe1-18c2a1a45939",
+    "customerId": "cust-014",
+    "amount": 125.99,
+    "date": "2025-03-24"
+  },
+  {
+    "transactionId": "dadd1f1d-709e-4d29-ae93-cde5efe4337b",
+    "customerId": "cust-014",
+    "amount": 32.99,
+    "date": "2025-03-12"
+  },
+  {
+    "transactionId": "67938830-3934-4a65-ba8f-49a0af2d9074",
+    "customerId": "cust-014",
+    "amount": 88.99,
+    "date": "2025-03-07"
+  },
+  {
+    "transactionId": "74c29ac6-558b-4433-8d83-0bc0c18c88aa",
+    "customerId": "cust-014",
+    "amount": 40.99,
+    "date": "2025-04-01"
+  },
+  {
+    "transactionId": "282cf064-780e-4e55-8ff3-7b7584421bdf",
+    "customerId": "cust-014",
+    "amount": 66.99,
+    "date": "2025-04-13"
+  },
+  {
+    "transactionId": "be4b1112-88d7-4099-af96-031cc3847d55",
+    "customerId": "cust-014",
+    "amount": 48.99,
+    "date": "2025-04-08"
+  },
+  {
+    "transactionId": "ace2e268-b053-4cdd-947d-43908b0d2f44",
+    "customerId": "cust-014",
+    "amount": 232.99,
+    "date": "2025-04-08"
+  },
+  {
+    "transactionId": "e3672531-e447-453c-8de1-f5e06f209189",
+    "customerId": "cust-014",
+    "amount": 58.99,
+    "date": "2025-04-10"
+  },
+  {
+    "transactionId": "e71e48a2-75c3-4bdd-8719-b559a77d7b2e",
+    "customerId": "cust-014",
+    "amount": 36.99,
+    "date": "2025-05-18"
+  },
+  {
+    "transactionId": "e03352f3-41b4-4e80-8c86-c68f3745446a",
+    "customerId": "cust-014",
+    "amount": 44.99,
+    "date": "2025-05-08"
+  },
+  {
+    "transactionId": "8e4e7f02-779a-482d-8cb9-f8fb9ecd4abc",
+    "customerId": "cust-014",
+    "amount": 64.99,
+    "date": "2025-05-12"
+  },
+  {
+    "transactionId": "c9054a71-1dc5-4075-b8f6-76038b2c51bc",
+    "customerId": "cust-014",
+    "amount": 114.99,
+    "date": "2025-05-10"
+  },
+  {
+    "transactionId": "080077d4-7cd7-46f6-93e2-6b6ac52d7346",
+    "customerId": "cust-014",
+    "amount": 187.99,
+    "date": "2025-05-06"
+  },
+  {
+    "transactionId": "f84cf8d7-19d9-4faa-bf53-627b8517b6f1",
+    "customerId": "cust-014",
+    "amount": 114.99,
+    "date": "2025-06-07"
+  },
+  {
+    "transactionId": "4cf0c890-90fe-4404-b5a9-656b344c8c9e",
+    "customerId": "cust-014",
+    "amount": 190.99,
+    "date": "2025-06-26"
+  },
+  {
+    "transactionId": "62993c70-51a9-475c-97a7-f467f502ce01",
+    "customerId": "cust-014",
+    "amount": 212.99,
+    "date": "2025-06-03"
+  },
+  {
+    "transactionId": "da9e7cf7-45da-4d42-8bf9-5af9b2b110c3",
+    "customerId": "cust-014",
+    "amount": 97.99,
+    "date": "2025-06-21"
+  },
+  {
+    "transactionId": "17c61186-ee13-486e-ab11-9678eb7c6cc9",
+    "customerId": "cust-014",
+    "amount": 49.99,
+    "date": "2025-06-22"
+  },
+  {
+    "transactionId": "f674ef4d-569a-4300-8ecc-edf2bb6515cd",
+    "customerId": "cust-014",
+    "amount": 183.99,
+    "date": "2025-07-24"
+  },
+  {
+    "transactionId": "c8b058a7-3f39-42fe-b693-d141bb53b516",
+    "customerId": "cust-014",
+    "amount": 142.99,
+    "date": "2025-07-24"
+  },
+  {
+    "transactionId": "ca85f5ab-d272-4306-b3de-348b764b76d9",
+    "customerId": "cust-014",
+    "amount": 38.99,
+    "date": "2025-07-28"
+  },
+  {
+    "transactionId": "f0887a50-e9cd-4379-adbf-9ef6c15dcabf",
+    "customerId": "cust-014",
+    "amount": 163.99,
+    "date": "2025-07-23"
+  },
+  {
+    "transactionId": "621de4b1-abd9-45be-9faf-2330cab1cb65",
+    "customerId": "cust-014",
+    "amount": 202.99,
+    "date": "2025-07-04"
+  },
+  {
+    "transactionId": "a4ef3c65-936e-42ad-9941-cddfcf4ab2a5",
+    "customerId": "cust-014",
+    "amount": 50.99,
+    "date": "2025-08-07"
+  },
+  {
+    "transactionId": "a2519da5-f25f-450a-9505-87df0b4c6486",
+    "customerId": "cust-014",
+    "amount": 151.99,
+    "date": "2025-08-09"
+  },
+  {
+    "transactionId": "9cf2e91c-2c32-469e-8d80-355e567681e1",
+    "customerId": "cust-014",
+    "amount": 125.99,
+    "date": "2025-08-24"
+  },
+  {
+    "transactionId": "18abfcb7-d534-4b64-b6b5-274e3f5b8bdb",
+    "customerId": "cust-014",
+    "amount": 141.99,
+    "date": "2025-08-20"
+  },
+  {
+    "transactionId": "d6889820-76e9-4c1d-bb92-724936516f99",
+    "customerId": "cust-014",
+    "amount": 163.99,
+    "date": "2025-08-11"
+  },
+  {
+    "transactionId": "9ac1e4e2-d958-42d9-9fe1-af3d849ea280",
+    "customerId": "cust-014",
+    "amount": 37.99,
+    "date": "2025-09-28"
+  },
+  {
+    "transactionId": "375a0090-52b5-47f2-9388-59c4716a5dde",
+    "customerId": "cust-014",
+    "amount": 241.99,
+    "date": "2025-09-12"
+  },
+  {
+    "transactionId": "8478dff0-31c7-4cec-b415-473db29d50c0",
+    "customerId": "cust-014",
+    "amount": 227.99,
+    "date": "2025-09-26"
+  },
+  {
+    "transactionId": "65b6fa8f-6eba-4c83-8634-c2488c8b0ad6",
+    "customerId": "cust-014",
+    "amount": 189.99,
+    "date": "2025-09-02"
+  },
+  {
+    "transactionId": "ee9c56e0-301f-4b1d-8de1-f44bb4501a58",
+    "customerId": "cust-014",
+    "amount": 54.99,
+    "date": "2025-09-01"
+  },
+  {
+    "transactionId": "61a45786-ff3c-415f-ada7-22f16e284929",
+    "customerId": "cust-014",
+    "amount": 119.99,
+    "date": "2025-10-25"
+  },
+  {
+    "transactionId": "2850f0f2-ced7-4d98-a0d1-4726c7138d09",
+    "customerId": "cust-014",
+    "amount": 169.99,
+    "date": "2025-10-28"
+  },
+  {
+    "transactionId": "75df8895-0e2e-43fb-94b1-28b36f43bd38",
+    "customerId": "cust-014",
+    "amount": 119.99,
+    "date": "2025-10-14"
+  },
+  {
+    "transactionId": "e5b8a46e-d11f-4c64-bc12-78a30ef4e4df",
+    "customerId": "cust-014",
+    "amount": 68.99,
+    "date": "2025-10-27"
+  },
+  {
+    "transactionId": "29e10d3a-cf9c-4bb2-bd9c-fbf2c270cc28",
+    "customerId": "cust-014",
+    "amount": 210.99,
+    "date": "2025-10-06"
+  },
+  {
+    "transactionId": "db7bc54e-3004-431f-ac87-e714217c406c",
+    "customerId": "cust-014",
+    "amount": 217.99,
+    "date": "2025-11-14"
+  },
+  {
+    "transactionId": "464b2fa2-87e8-403c-972f-9baaeb608e14",
+    "customerId": "cust-014",
+    "amount": 150.99,
+    "date": "2025-11-21"
+  },
+  {
+    "transactionId": "c912fd5f-7cd1-43f4-ad05-dc87cf94cfbc",
+    "customerId": "cust-014",
+    "amount": 224.99,
+    "date": "2025-11-26"
+  },
+  {
+    "transactionId": "3f15465b-ac3b-45dd-b3c0-666cfa8f36ef",
+    "customerId": "cust-014",
+    "amount": 62.99,
+    "date": "2025-11-23"
+  },
+  {
+    "transactionId": "d9c30284-abe5-4323-9b4c-ac9bd12daab2",
+    "customerId": "cust-014",
+    "amount": 248.99,
+    "date": "2025-11-24"
+  },
+  {
+    "transactionId": "5f40613d-a6dd-42a6-994f-15a5e9bf276c",
+    "customerId": "cust-014",
+    "amount": 242.99,
+    "date": "2025-12-09"
+  },
+  {
+    "transactionId": "1f40806c-3f22-4712-8d71-526523dc3fff",
+    "customerId": "cust-014",
+    "amount": 206.99,
+    "date": "2025-12-02"
+  },
+  {
+    "transactionId": "ac5ee089-0e42-404b-bf9b-23911947b259",
+    "customerId": "cust-014",
+    "amount": 138.99,
+    "date": "2025-12-05"
+  },
+  {
+    "transactionId": "27709888-3e01-4d05-96ae-9b40898da561",
+    "customerId": "cust-014",
+    "amount": 83.99,
+    "date": "2025-12-23"
+  },
+  {
+    "transactionId": "4ec31a25-c6e3-450d-9936-cd3fa486bf29",
+    "customerId": "cust-014",
+    "amount": 91.99,
+    "date": "2025-12-27"
+  },
+  {
+    "transactionId": "309be3a1-c995-4ee8-8155-78c8926b038b",
+    "customerId": "cust-015",
+    "amount": 224.99,
+    "date": "2025-01-06"
+  },
+  {
+    "transactionId": "1ada7809-93f9-405b-af14-d7a78fec824b",
+    "customerId": "cust-015",
+    "amount": 128.99,
+    "date": "2025-01-02"
+  },
+  {
+    "transactionId": "25f3a322-869e-4965-9923-5c66881ebd99",
+    "customerId": "cust-015",
+    "amount": 115.99,
+    "date": "2025-01-22"
+  },
+  {
+    "transactionId": "b832319b-5ec7-44f0-b414-3ce3d0311d96",
+    "customerId": "cust-015",
+    "amount": 249.99,
+    "date": "2025-01-16"
+  },
+  {
+    "transactionId": "5c0d63be-6621-4d3c-a86d-9582cc7069d7",
+    "customerId": "cust-015",
+    "amount": 24.99,
+    "date": "2025-01-14"
+  },
+  {
+    "transactionId": "8f08d868-6260-47f0-8018-5d4e4b451e2f",
+    "customerId": "cust-015",
+    "amount": 211.99,
+    "date": "2025-02-20"
+  },
+  {
+    "transactionId": "ba99330a-0571-47b8-9445-b6ce2ca453c6",
+    "customerId": "cust-015",
+    "amount": 241.99,
+    "date": "2025-02-21"
+  },
+  {
+    "transactionId": "0f709a29-6967-4b92-b924-c31cc7a68854",
+    "customerId": "cust-015",
+    "amount": 38.99,
+    "date": "2025-02-25"
+  },
+  {
+    "transactionId": "b2eb7d39-19bd-48db-8ae8-d0ecd611926a",
+    "customerId": "cust-015",
+    "amount": 178.99,
+    "date": "2025-02-04"
+  },
+  {
+    "transactionId": "b440164c-c80e-4fa4-936b-0d694bb41921",
+    "customerId": "cust-015",
+    "amount": 177.99,
+    "date": "2025-02-20"
+  },
+  {
+    "transactionId": "284db89f-b95b-49c9-8d72-6c8fe25749d3",
+    "customerId": "cust-015",
+    "amount": 142.99,
+    "date": "2025-03-17"
+  },
+  {
+    "transactionId": "75bc8e36-172d-45a9-b50a-1b3efa97a866",
+    "customerId": "cust-015",
+    "amount": 215.99,
+    "date": "2025-03-15"
+  },
+  {
+    "transactionId": "9c40ad90-e999-4c02-a604-dced1dbf15b9",
+    "customerId": "cust-015",
+    "amount": 20.99,
+    "date": "2025-03-13"
+  },
+  {
+    "transactionId": "8eb4f146-6b64-41c6-9456-3fd606ac77c4",
+    "customerId": "cust-015",
+    "amount": 219.99,
+    "date": "2025-03-24"
+  },
+  {
+    "transactionId": "9de8969b-ed8b-4d44-823f-c9762b7f5803",
+    "customerId": "cust-015",
+    "amount": 78.99,
+    "date": "2025-03-22"
+  },
+  {
+    "transactionId": "8c7328b8-60d7-482d-997e-fc73313ba322",
+    "customerId": "cust-015",
+    "amount": 98.99,
+    "date": "2025-04-02"
+  },
+  {
+    "transactionId": "65d1a681-817e-4172-b93b-8651f29ffc02",
+    "customerId": "cust-015",
+    "amount": 176.99,
+    "date": "2025-04-16"
+  },
+  {
+    "transactionId": "cc35b3db-9b89-4523-87ed-33fc2083c5f4",
+    "customerId": "cust-015",
+    "amount": 220.99,
+    "date": "2025-04-20"
+  },
+  {
+    "transactionId": "c6a7b851-5cdf-492a-b38b-e868960b8fff",
+    "customerId": "cust-015",
+    "amount": 85.99,
+    "date": "2025-04-09"
+  },
+  {
+    "transactionId": "7ffcc94b-0930-4119-aed0-e4fcb39fc61a",
+    "customerId": "cust-015",
+    "amount": 98.99,
+    "date": "2025-04-13"
+  },
+  {
+    "transactionId": "98d5d07f-7316-45f6-ab82-9e1099caebf2",
+    "customerId": "cust-015",
+    "amount": 243.99,
+    "date": "2025-05-22"
+  },
+  {
+    "transactionId": "2e91a59b-84db-49cc-9998-91997f63a569",
+    "customerId": "cust-015",
+    "amount": 187.99,
+    "date": "2025-05-28"
+  },
+  {
+    "transactionId": "1af10873-9623-43a0-b638-917f450a5ae0",
+    "customerId": "cust-015",
+    "amount": 226.99,
+    "date": "2025-05-15"
+  },
+  {
+    "transactionId": "85b780ec-f33a-48be-9b4c-4fdd8ef0a56b",
+    "customerId": "cust-015",
+    "amount": 166.99,
+    "date": "2025-05-23"
+  },
+  {
+    "transactionId": "605858a0-232d-40cf-b412-528594c5b2df",
+    "customerId": "cust-015",
+    "amount": 168.99,
+    "date": "2025-05-10"
+  },
+  {
+    "transactionId": "6e251490-18b0-4bbe-b8f7-830daa5c56ba",
+    "customerId": "cust-015",
+    "amount": 73.99,
+    "date": "2025-06-28"
+  },
+  {
+    "transactionId": "58141809-4b45-4244-b2b3-fc209da054da",
+    "customerId": "cust-015",
+    "amount": 51.99,
+    "date": "2025-06-26"
+  },
+  {
+    "transactionId": "f90de208-eb73-439f-8f30-d608ca39f11a",
+    "customerId": "cust-015",
+    "amount": 42.99,
+    "date": "2025-06-14"
+  },
+  {
+    "transactionId": "0f3154f2-6900-4a2a-811a-5d3856f95f34",
+    "customerId": "cust-015",
+    "amount": 143.99,
+    "date": "2025-06-27"
+  },
+  {
+    "transactionId": "b90b18af-a34c-4512-b816-324b6c843fb6",
+    "customerId": "cust-015",
+    "amount": 183.99,
+    "date": "2025-06-14"
+  },
+  {
+    "transactionId": "bc0a453a-b775-4a16-9fc1-ac0ee72112d5",
+    "customerId": "cust-015",
+    "amount": 232.99,
+    "date": "2025-07-10"
+  },
+  {
+    "transactionId": "cf6a10cd-9e26-4ec4-a482-d784d7435718",
+    "customerId": "cust-015",
+    "amount": 221.99,
+    "date": "2025-07-04"
+  },
+  {
+    "transactionId": "afab8e1d-8ce5-4ec5-b369-ca06f7892b58",
+    "customerId": "cust-015",
+    "amount": 152.99,
+    "date": "2025-07-12"
+  },
+  {
+    "transactionId": "987920f0-83a8-482c-b1ff-b7edd649f657",
+    "customerId": "cust-015",
+    "amount": 177.99,
+    "date": "2025-07-17"
+  },
+  {
+    "transactionId": "c2def415-0a6c-41db-8e49-bc65a96afdc2",
+    "customerId": "cust-015",
+    "amount": 99.99,
+    "date": "2025-07-09"
+  },
+  {
+    "transactionId": "4a9e62dd-9c06-44df-b65c-a6f983332b32",
+    "customerId": "cust-015",
+    "amount": 109.99,
+    "date": "2025-08-14"
+  },
+  {
+    "transactionId": "ba1db000-c670-417d-8988-d465ed4fb4a5",
+    "customerId": "cust-015",
+    "amount": 204.99,
+    "date": "2025-08-19"
+  },
+  {
+    "transactionId": "4efdcb1a-ea65-46ab-a031-d21c8afdf35c",
+    "customerId": "cust-015",
+    "amount": 175.99,
+    "date": "2025-08-04"
+  },
+  {
+    "transactionId": "9296e33c-89c6-445d-8fba-125b82267b7a",
+    "customerId": "cust-015",
+    "amount": 179.99,
+    "date": "2025-08-12"
+  },
+  {
+    "transactionId": "31c23193-3723-421f-b9f9-e9f581a0db60",
+    "customerId": "cust-015",
+    "amount": 133.99,
+    "date": "2025-08-05"
+  },
+  {
+    "transactionId": "9a7704ac-f723-4163-baa3-5d49dec6eb10",
+    "customerId": "cust-015",
+    "amount": 178.99,
+    "date": "2025-09-25"
+  },
+  {
+    "transactionId": "a9702838-b485-4aa7-af0b-f584428fc9db",
+    "customerId": "cust-015",
+    "amount": 73.99,
+    "date": "2025-09-22"
+  },
+  {
+    "transactionId": "52690480-debc-4453-883b-a45eab0e70fb",
+    "customerId": "cust-015",
+    "amount": 208.99,
+    "date": "2025-09-18"
+  },
+  {
+    "transactionId": "1fe02e5e-dcee-4fea-bcb0-d36e272b3c2b",
+    "customerId": "cust-015",
+    "amount": 180.99,
+    "date": "2025-09-09"
+  },
+  {
+    "transactionId": "22beb876-4d51-4e84-bed8-7a38aec6c8be",
+    "customerId": "cust-015",
+    "amount": 195.99,
+    "date": "2025-09-03"
+  },
+  {
+    "transactionId": "5785c539-a744-47f9-b990-1a10bab2eca6",
+    "customerId": "cust-015",
+    "amount": 206.99,
+    "date": "2025-10-07"
+  },
+  {
+    "transactionId": "bb55543e-df03-4e7c-b359-b352a95634c7",
+    "customerId": "cust-015",
+    "amount": 152.99,
+    "date": "2025-10-25"
+  },
+  {
+    "transactionId": "d43f5d2e-b768-406e-9423-89a53f23aa93",
+    "customerId": "cust-015",
+    "amount": 175.99,
+    "date": "2025-10-25"
+  },
+  {
+    "transactionId": "35c06cd8-b730-43a3-9028-2eecde8a60e9",
+    "customerId": "cust-015",
+    "amount": 42.99,
+    "date": "2025-10-15"
+  },
+  {
+    "transactionId": "3b809624-16ff-4cfe-bb06-e4c380a64a04",
+    "customerId": "cust-015",
+    "amount": 222.99,
+    "date": "2025-10-20"
+  },
+  {
+    "transactionId": "d8805f61-6236-4eeb-ae29-e93d8aa4a985",
+    "customerId": "cust-015",
+    "amount": 41.99,
+    "date": "2025-11-16"
+  },
+  {
+    "transactionId": "71db7439-0cc7-4911-887a-93b20c2f5382",
+    "customerId": "cust-015",
+    "amount": 83.99,
+    "date": "2025-11-23"
+  },
+  {
+    "transactionId": "3b004dac-6abc-47e0-a683-93d024d28369",
+    "customerId": "cust-015",
+    "amount": 93.99,
+    "date": "2025-11-27"
+  },
+  {
+    "transactionId": "e483837b-6883-45eb-adf1-375633c2a4aa",
+    "customerId": "cust-015",
+    "amount": 95.99,
+    "date": "2025-11-17"
+  },
+  {
+    "transactionId": "b7283291-d760-4878-be6a-7ce0bea42b0c",
+    "customerId": "cust-015",
+    "amount": 26.99,
+    "date": "2025-11-17"
+  },
+  {
+    "transactionId": "27f19848-a3a9-469a-995d-8e59ea5a074a",
+    "customerId": "cust-015",
+    "amount": 250.99,
+    "date": "2025-12-15"
+  },
+  {
+    "transactionId": "81646be7-e6c9-49aa-b2c8-04ad0fd5b186",
+    "customerId": "cust-015",
+    "amount": 134.99,
+    "date": "2025-12-12"
+  },
+  {
+    "transactionId": "a33900dc-7218-448f-9e57-55eda1711435",
+    "customerId": "cust-015",
+    "amount": 186.99,
+    "date": "2025-12-13"
+  },
+  {
+    "transactionId": "ec185941-583f-4154-aac5-778644126d15",
+    "customerId": "cust-015",
+    "amount": 207.99,
+    "date": "2025-12-09"
+  },
+  {
+    "transactionId": "748769dd-3f2b-4743-8140-b64d6d459da1",
+    "customerId": "cust-015",
+    "amount": 171.99,
+    "date": "2025-12-11"
+  }
+]
