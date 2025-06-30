@@ -17,10 +17,10 @@ The page will reload when you make changes.
 
 This will render the **Home Page** and the **Customer Detail Page** as shown below:
 
-!Home Page Screenshot.png)
-!Customer Detail Page Screenshot.png)
+!Home Page (Screenshot.png)
+!Customer Detail Page (Screenshot.png)
 
-> 💡 Make sure the image files (`Screenshot (1).png` and `Screenshot (2).png`) are in the same directory as your `README.md`.
+<!-- > 💡 Make sure the image files (`Screenshot (1).png` and `Screenshot (2).png`) are in the same directory as your `README.md`. -->
 
 ### `npm test`
 Launches the test runner in interactive watch mode.  

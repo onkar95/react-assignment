@@ -13,6 +13,7 @@ function TransactionTable({ customer, selectedMonth, selectedYear }) {
 
 
   const filteredTransactions = useMemo(() => {
+    setCurrentPage(1)
     return customer.transactions.filter(txn => {
       if (selectedMonth === 'default' || selectedMonth === "All transaction") return customer
       const date = new Date(txn.date);
