@@ -3,11 +3,13 @@ import PropTypes from 'prop-types';
 import { calculateRewardPoints } from '../utils/rewardUtils';
 import { StyledTable, TableWrapper } from './styled/transactionTableStyles';
 import Pagination from './pagination';
+import logger from '../utils/logger';
 
 
 function TransactionTable({ customer, selectedMonth, selectedYear }) {
 
   console.log("customer", customer)
+   logger.info("TransactionTable component rendered")
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 5;
 

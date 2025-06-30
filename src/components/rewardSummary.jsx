@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { calculateMonthlyRewards } from '../utils/rewardUtils';
 import { getMonthName } from '../utils/dateUtils';
+import logger from '../utils/logger';
 
 const Wrapper = styled.div`
   margin-top: 20px;
@@ -35,6 +36,8 @@ function RewardSummary({ customer, selectedYear, selectedMonth, setSelectedMonth
     return calculateMonthlyRewards(customer.transactions);
   }, [customer]);
 
+  logger.info("RewardSummary component rendered")
+  
   const monthKeys = Object.keys(monthlyRewards).filter((key) => key.startsWith(selectedYear));
 
   const total = monthKeys.reduce((sum, key) => sum + monthlyRewards[key], 0);
