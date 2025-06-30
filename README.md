@@ -17,14 +17,18 @@ The page will reload when you make changes.
 
 This will render the **Home Page** and the **Customer Detail Page** as shown below:
 
-!Home Page (Screenshot.png)
-!Customer Detail Page (Screenshot.png)
+![Screenshot (1)](https://github.com/user-attachments/assets/b424b811-c40d-4af6-8156-c49840cd7e78)
 
-<!-- > 💡 Make sure the image files (`Screenshot (1).png` and `Screenshot (2).png`) are in the same directory as your `README.md`. -->
+![Screenshot (2)](https://github.com/user-attachments/assets/a87f49f4-a63f-4dd5-8e8d-0a1b5fd3e701)
+
+
 
 ### `npm test`
 Launches the test runner in interactive watch mode.  
 See the section about running tests for more information.
+
+![image](https://github.com/user-attachments/assets/52052094-876d-4f62-bfde-3d01ee8d7fea)
+
 
 ### `npm run build`
 Builds the app for production to the `build` folder.  
